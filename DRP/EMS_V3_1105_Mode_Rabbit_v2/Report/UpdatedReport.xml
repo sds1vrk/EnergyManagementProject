@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns5:oadrPayload
+    xmlns:ns1="http://docs.oasis-open.org/ns/energyinterop/201110"
+    xmlns:ns2="http://docs.oasis-open.org/ns/emix/2011/06"
+    xmlns:ns3="urn:ietf:params:xml:ns:icalendar-2.0"
+    xmlns:ns4="urn:ietf:params:xml:ns:icalendar-2.0:stream"
+    xmlns:ns5="http://openadr.org/oadr-2.0b/2012/07"
+    xmlns:ns6="http://www.w3.org/2005/Atom"
+    xmlns:ns7="http://docs.oasis-open.org/ns/emix/2011/06/power"
+    xmlns:ns8="http://www.opengis.net/gml/3.2"
+    xmlns:ns9="http://docs.oasis-open.org/ns/emix/2011/06/siscale"
+    xmlns:ns10="http://www.w3.org/2000/09/xmldsig#"
+    xmlns:ns11="http://docs.oasis-open.org/ns/energyinterop/201110/payloads"
+    xmlns:ns12="http://www.w3.org/2009/xmldsig11#"
+    xmlns:ns13="http://openadr.org/oadr-2.0b/2012/07/xmldsig-properties"
+    xmlns:ns14="urn:un:unece:uncefact:codelist:standard:5:ISO42173A:2010-04-07">
+    <ns5:oadrSignedObject>
+        <ns5:oadrUpdatedReport
+            ns1:schemaVersion="2.0b">
+            <ns1:eiResponse>
+                <ns1:responseCode>452</ns1:responseCode>
+                <ns1:responseDescription>Invalid ID</ns1:responseDescription>
+                <ns11:requestID>MIR_REQ_ID</ns11:requestID>
+                </ns1:eiResponse>
+            <ns1:venID>89c715764055ec30ea08</ns1:venID>
+            </ns5:oadrUpdatedReport>
+        </ns5:oadrSignedObject>
+    </ns5:oadrPayload>

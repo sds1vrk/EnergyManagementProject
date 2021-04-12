@@ -1,0 +1,2983 @@
+requestID:sEMA3/STATE:Reject/Wanted Energy:5865.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6258.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:5376.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7234.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7494.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7565.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7597.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7632.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:9045.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7182.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7441.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7501.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7532.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7565.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8987.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6291.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6551.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6602.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6635.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6668.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8073.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6272.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6535.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6586.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6618.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6652.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8059.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6764.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7026.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7079.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7111.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7146.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8551.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7228.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7490.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7541.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7572.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7606.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:9006.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7211.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7473.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7525.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7556.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7590.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8863.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7110.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7369.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7422.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7453.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7486.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8716.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7135.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7395.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7448.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7479.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7512.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8742.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7109.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7369.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7430.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7462.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7495.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8726.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6996.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7255.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7313.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7346.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7380.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8611.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6911.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7171.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7222.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7254.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7287.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8521.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:5881.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6141.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6191.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6222.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6255.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7486.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6883.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7141.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7192.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7223.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7256.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8491.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6969.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7229.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7279.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7311.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7345.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8582.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6924.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7185.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7235.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7266.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7299.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8532.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6989.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7247.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7297.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7329.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7362.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8590.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6934.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7194.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7258.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7291.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7325.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8557.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6917.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7178.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7230.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7261.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7295.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8527.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6989.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7248.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7299.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7331.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7366.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8599.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6848.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7107.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7159.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7192.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7227.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8460.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6903.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7162.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7233.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7266.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7301.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8534.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6854.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7114.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7178.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7211.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7245.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8479.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:6951.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7210.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7268.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7301.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:7335.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:8442.0
+requestID:sEMA3/STATE:Reject/Wanted Energy:5414.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6378.0
+Rented ID:sEMA1/STATE:OK/Threshold:4311.0
+Rented ID:sEMA2/STATE:OK/Threshold:4311.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6303.0
+Rented ID:sEMA1/STATE:OK/Threshold:4348.5
+Rented ID:sEMA2/STATE:OK/Threshold:4348.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6303.0
+Rented ID:sEMA1/STATE:OK/Threshold:4348.5
+Rented ID:sEMA2/STATE:OK/Threshold:4348.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6310.0
+Rented ID:sEMA1/STATE:OK/Threshold:4345.0
+Rented ID:sEMA2/STATE:OK/Threshold:4345.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6294.0
+Rented ID:sEMA1/STATE:OK/Threshold:4353.0
+Rented ID:sEMA2/STATE:OK/Threshold:4353.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6299.0
+Rented ID:sEMA1/STATE:OK/Threshold:4350.5
+Rented ID:sEMA2/STATE:OK/Threshold:4350.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6299.0
+Rented ID:sEMA1/STATE:OK/Threshold:4350.5
+Rented ID:sEMA2/STATE:OK/Threshold:4350.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6293.0
+Rented ID:sEMA1/STATE:OK/Threshold:4353.5
+Rented ID:sEMA2/STATE:OK/Threshold:4353.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6208.0
+Rented ID:sEMA1/STATE:OK/Threshold:4396.0
+Rented ID:sEMA2/STATE:OK/Threshold:4396.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6123.0
+Rented ID:sEMA1/STATE:OK/Threshold:4438.5
+Rented ID:sEMA2/STATE:OK/Threshold:4438.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6122.0
+Rented ID:sEMA1/STATE:OK/Threshold:4439.0
+Rented ID:sEMA2/STATE:OK/Threshold:4439.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6127.0
+Rented ID:sEMA1/STATE:OK/Threshold:4436.5
+Rented ID:sEMA2/STATE:OK/Threshold:4436.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6134.0
+Rented ID:sEMA1/STATE:OK/Threshold:4433.0
+Rented ID:sEMA2/STATE:OK/Threshold:4433.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6126.0
+Rented ID:sEMA1/STATE:OK/Threshold:4437.0
+Rented ID:sEMA2/STATE:OK/Threshold:4437.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6127.0
+Rented ID:sEMA1/STATE:OK/Threshold:4436.5
+Rented ID:sEMA2/STATE:OK/Threshold:4436.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6132.0
+Rented ID:sEMA1/STATE:OK/Threshold:4434.0
+Rented ID:sEMA2/STATE:OK/Threshold:4434.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6137.0
+Rented ID:sEMA1/STATE:OK/Threshold:4431.5
+Rented ID:sEMA2/STATE:OK/Threshold:4431.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4440.0
+Rented ID:sEMA2/STATE:OK/Threshold:4440.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4440.0
+Rented ID:sEMA2/STATE:OK/Threshold:4440.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4440.0
+Rented ID:sEMA2/STATE:OK/Threshold:4440.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6119.0
+Rented ID:sEMA1/STATE:OK/Threshold:4440.5
+Rented ID:sEMA2/STATE:OK/Threshold:4440.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6123.0
+Rented ID:sEMA1/STATE:OK/Threshold:4438.5
+Rented ID:sEMA2/STATE:OK/Threshold:4438.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6122.0
+Rented ID:sEMA1/STATE:OK/Threshold:4439.0
+Rented ID:sEMA2/STATE:OK/Threshold:4439.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6126.0
+Rented ID:sEMA1/STATE:OK/Threshold:4437.0
+Rented ID:sEMA2/STATE:OK/Threshold:4437.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6121.0
+Rented ID:sEMA1/STATE:OK/Threshold:4439.5
+Rented ID:sEMA2/STATE:OK/Threshold:4439.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4440.0
+Rented ID:sEMA2/STATE:OK/Threshold:4440.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6138.0
+Rented ID:sEMA1/STATE:OK/Threshold:4431.0
+Rented ID:sEMA2/STATE:OK/Threshold:4431.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5883.0
+Rented ID:sEMA1/STATE:OK/Threshold:4558.5
+Rented ID:sEMA2/STATE:OK/Threshold:4558.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5370.0
+Rented ID:sEMA1/STATE:OK/Threshold:4815.0
+Rented ID:sEMA2/STATE:OK/Threshold:4815.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5117.0
+Rented ID:sEMA1/STATE:OK/Threshold:4941.5
+Rented ID:sEMA2/STATE:OK/Threshold:4941.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5094.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.0
+Rented ID:sEMA2/STATE:OK/Threshold:4953.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6168.0
+Rented ID:sEMA1/STATE:OK/Threshold:4416.0
+Rented ID:sEMA2/STATE:OK/Threshold:4416.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6157.0
+Rented ID:sEMA1/STATE:OK/Threshold:4421.5
+Rented ID:sEMA2/STATE:OK/Threshold:4421.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6135.0
+Rented ID:sEMA1/STATE:OK/Threshold:4432.5
+Rented ID:sEMA2/STATE:OK/Threshold:4432.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6136.0
+Rented ID:sEMA1/STATE:OK/Threshold:4432.0
+Rented ID:sEMA2/STATE:OK/Threshold:4432.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5016.0
+Rented ID:sEMA1/STATE:OK/Threshold:4992.0
+Rented ID:sEMA2/STATE:OK/Threshold:4992.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6249.0
+Rented ID:sEMA1/STATE:OK/Threshold:4375.5
+Rented ID:sEMA2/STATE:OK/Threshold:4375.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6065.0
+Rented ID:sEMA1/STATE:OK/Threshold:4467.5
+Rented ID:sEMA2/STATE:OK/Threshold:4467.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7299.0
+Rented ID:sEMA1/STATE:OK/Threshold:3850.5
+Rented ID:sEMA2/STATE:OK/Threshold:3850.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6546.0
+Rented ID:sEMA1/STATE:OK/Threshold:4227.0
+Rented ID:sEMA2/STATE:OK/Threshold:4227.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7782.0
+Rented ID:sEMA1/STATE:OK/Threshold:3609.0
+Rented ID:sEMA2/STATE:OK/Threshold:3609.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6542.0
+Rented ID:sEMA1/STATE:OK/Threshold:4229.0
+Rented ID:sEMA2/STATE:OK/Threshold:4229.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7774.0
+Rented ID:sEMA1/STATE:OK/Threshold:3613.0
+Rented ID:sEMA2/STATE:OK/Threshold:3613.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6535.0
+Rented ID:sEMA1/STATE:OK/Threshold:4232.5
+Rented ID:sEMA2/STATE:OK/Threshold:4232.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7766.0
+Rented ID:sEMA1/STATE:OK/Threshold:3617.0
+Rented ID:sEMA2/STATE:OK/Threshold:3617.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6538.0
+Rented ID:sEMA1/STATE:OK/Threshold:4231.0
+Rented ID:sEMA2/STATE:OK/Threshold:4231.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7768.0
+Rented ID:sEMA1/STATE:OK/Threshold:3616.0
+Rented ID:sEMA2/STATE:OK/Threshold:3616.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6528.0
+Rented ID:sEMA1/STATE:OK/Threshold:4236.0
+Rented ID:sEMA2/STATE:OK/Threshold:4236.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7758.0
+Rented ID:sEMA1/STATE:OK/Threshold:3621.0
+Rented ID:sEMA2/STATE:OK/Threshold:3621.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6529.0
+Rented ID:sEMA1/STATE:OK/Threshold:4235.5
+Rented ID:sEMA2/STATE:OK/Threshold:4235.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7759.0
+Rented ID:sEMA1/STATE:OK/Threshold:3620.5
+Rented ID:sEMA2/STATE:OK/Threshold:3620.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6519.0
+Rented ID:sEMA1/STATE:OK/Threshold:4240.5
+Rented ID:sEMA2/STATE:OK/Threshold:4240.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7751.0
+Rented ID:sEMA1/STATE:OK/Threshold:3624.5
+Rented ID:sEMA2/STATE:OK/Threshold:3624.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6513.0
+Rented ID:sEMA1/STATE:OK/Threshold:4243.5
+Rented ID:sEMA2/STATE:OK/Threshold:4243.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7744.0
+Rented ID:sEMA1/STATE:OK/Threshold:3628.0
+Rented ID:sEMA2/STATE:OK/Threshold:3628.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6511.0
+Rented ID:sEMA1/STATE:OK/Threshold:4244.5
+Rented ID:sEMA2/STATE:OK/Threshold:4244.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7743.0
+Rented ID:sEMA1/STATE:OK/Threshold:3628.5
+Rented ID:sEMA2/STATE:OK/Threshold:3628.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6518.0
+Rented ID:sEMA1/STATE:OK/Threshold:4241.0
+Rented ID:sEMA2/STATE:OK/Threshold:4241.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7746.0
+Rented ID:sEMA1/STATE:OK/Threshold:3627.0
+Rented ID:sEMA2/STATE:OK/Threshold:3627.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6501.0
+Rented ID:sEMA1/STATE:OK/Threshold:4249.5
+Rented ID:sEMA2/STATE:OK/Threshold:4249.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7728.0
+Rented ID:sEMA1/STATE:OK/Threshold:3636.0
+Rented ID:sEMA2/STATE:OK/Threshold:3636.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6478.0
+Rented ID:sEMA1/STATE:OK/Threshold:4261.0
+Rented ID:sEMA2/STATE:OK/Threshold:4261.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7708.0
+Rented ID:sEMA1/STATE:OK/Threshold:3646.0
+Rented ID:sEMA2/STATE:OK/Threshold:3646.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6489.0
+Rented ID:sEMA1/STATE:OK/Threshold:4255.5
+Rented ID:sEMA2/STATE:OK/Threshold:4255.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7720.0
+Rented ID:sEMA1/STATE:OK/Threshold:3640.0
+Rented ID:sEMA2/STATE:OK/Threshold:3640.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6468.0
+Rented ID:sEMA1/STATE:OK/Threshold:4266.0
+Rented ID:sEMA2/STATE:OK/Threshold:4266.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7699.0
+Rented ID:sEMA1/STATE:OK/Threshold:3650.5
+Rented ID:sEMA2/STATE:OK/Threshold:3650.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6480.0
+Rented ID:sEMA1/STATE:OK/Threshold:4260.0
+Rented ID:sEMA2/STATE:OK/Threshold:4260.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7709.0
+Rented ID:sEMA1/STATE:OK/Threshold:3645.5
+Rented ID:sEMA2/STATE:OK/Threshold:3645.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6500.0
+Rented ID:sEMA1/STATE:OK/Threshold:4250.0
+Rented ID:sEMA2/STATE:OK/Threshold:4250.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7731.0
+Rented ID:sEMA1/STATE:OK/Threshold:3634.5
+Rented ID:sEMA2/STATE:OK/Threshold:3634.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6524.0
+Rented ID:sEMA1/STATE:OK/Threshold:4238.0
+Rented ID:sEMA2/STATE:OK/Threshold:4238.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7753.0
+Rented ID:sEMA1/STATE:OK/Threshold:3623.5
+Rented ID:sEMA2/STATE:OK/Threshold:3623.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6520.0
+Rented ID:sEMA1/STATE:OK/Threshold:4240.0
+Rented ID:sEMA2/STATE:OK/Threshold:4240.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7748.0
+Rented ID:sEMA1/STATE:OK/Threshold:3626.0
+Rented ID:sEMA2/STATE:OK/Threshold:3626.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6519.0
+Rented ID:sEMA1/STATE:OK/Threshold:4240.5
+Rented ID:sEMA2/STATE:OK/Threshold:4240.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7743.0
+Rented ID:sEMA1/STATE:OK/Threshold:3628.5
+Rented ID:sEMA2/STATE:OK/Threshold:3628.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6521.0
+Rented ID:sEMA1/STATE:OK/Threshold:4239.5
+Rented ID:sEMA2/STATE:OK/Threshold:4239.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7747.0
+Rented ID:sEMA1/STATE:OK/Threshold:3626.5
+Rented ID:sEMA2/STATE:OK/Threshold:3626.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6516.0
+Rented ID:sEMA1/STATE:OK/Threshold:4242.0
+Rented ID:sEMA2/STATE:OK/Threshold:4242.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7742.0
+Rented ID:sEMA1/STATE:OK/Threshold:3629.0
+Rented ID:sEMA2/STATE:OK/Threshold:3629.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6515.0
+Rented ID:sEMA1/STATE:OK/Threshold:4242.5
+Rented ID:sEMA2/STATE:OK/Threshold:4242.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7741.0
+Rented ID:sEMA1/STATE:OK/Threshold:3629.5
+Rented ID:sEMA2/STATE:OK/Threshold:3629.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6521.0
+Rented ID:sEMA1/STATE:OK/Threshold:4239.5
+Rented ID:sEMA2/STATE:OK/Threshold:4239.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7747.0
+Rented ID:sEMA1/STATE:OK/Threshold:3626.5
+Rented ID:sEMA2/STATE:OK/Threshold:3626.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6517.0
+Rented ID:sEMA1/STATE:OK/Threshold:4241.5
+Rented ID:sEMA2/STATE:OK/Threshold:4241.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7743.0
+Rented ID:sEMA1/STATE:OK/Threshold:3628.5
+Rented ID:sEMA2/STATE:OK/Threshold:3628.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6487.0
+Rented ID:sEMA1/STATE:OK/Threshold:4256.5
+Rented ID:sEMA2/STATE:OK/Threshold:4256.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7712.0
+Rented ID:sEMA1/STATE:OK/Threshold:3644.0
+Rented ID:sEMA2/STATE:OK/Threshold:3644.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6470.0
+Rented ID:sEMA1/STATE:OK/Threshold:4265.0
+Rented ID:sEMA2/STATE:OK/Threshold:4265.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7694.0
+Rented ID:sEMA1/STATE:OK/Threshold:3653.0
+Rented ID:sEMA2/STATE:OK/Threshold:3653.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6471.0
+Rented ID:sEMA1/STATE:OK/Threshold:4264.5
+Rented ID:sEMA2/STATE:OK/Threshold:4264.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7696.0
+Rented ID:sEMA1/STATE:OK/Threshold:3652.0
+Rented ID:sEMA2/STATE:OK/Threshold:3652.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6469.0
+Rented ID:sEMA1/STATE:OK/Threshold:4265.5
+Rented ID:sEMA2/STATE:OK/Threshold:4265.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7697.0
+Rented ID:sEMA1/STATE:OK/Threshold:3651.5
+Rented ID:sEMA2/STATE:OK/Threshold:3651.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6458.0
+Rented ID:sEMA1/STATE:OK/Threshold:4271.0
+Rented ID:sEMA2/STATE:OK/Threshold:4271.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7688.0
+Rented ID:sEMA1/STATE:OK/Threshold:3656.0
+Rented ID:sEMA2/STATE:OK/Threshold:3656.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6462.0
+Rented ID:sEMA1/STATE:OK/Threshold:4269.0
+Rented ID:sEMA2/STATE:OK/Threshold:4269.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7696.0
+Rented ID:sEMA1/STATE:OK/Threshold:3652.0
+Rented ID:sEMA2/STATE:OK/Threshold:3652.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6455.0
+Rented ID:sEMA1/STATE:OK/Threshold:4272.5
+Rented ID:sEMA2/STATE:OK/Threshold:4272.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7684.0
+Rented ID:sEMA1/STATE:OK/Threshold:3658.0
+Rented ID:sEMA2/STATE:OK/Threshold:3658.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5051.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.5
+Rented ID:sEMA2/STATE:OK/Threshold:4974.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5099.0
+Rented ID:sEMA1/STATE:OK/Threshold:4950.5
+Rented ID:sEMA2/STATE:OK/Threshold:4950.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5124.0
+Rented ID:sEMA1/STATE:OK/Threshold:4938.0
+Rented ID:sEMA2/STATE:OK/Threshold:4938.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5158.0
+Rented ID:sEMA1/STATE:OK/Threshold:4921.0
+Rented ID:sEMA2/STATE:OK/Threshold:4921.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6568.0
+Rented ID:sEMA1/STATE:OK/Threshold:4216.0
+Rented ID:sEMA2/STATE:OK/Threshold:4216.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.5
+Rented ID:sEMA2/STATE:OK/Threshold:4986.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5059.0
+Rented ID:sEMA1/STATE:OK/Threshold:4970.5
+Rented ID:sEMA2/STATE:OK/Threshold:4970.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5093.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.5
+Rented ID:sEMA2/STATE:OK/Threshold:4953.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6504.0
+Rented ID:sEMA1/STATE:OK/Threshold:4248.0
+Rented ID:sEMA2/STATE:OK/Threshold:4248.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6499.0
+Rented ID:sEMA1/STATE:OK/Threshold:4250.5
+Rented ID:sEMA2/STATE:OK/Threshold:4250.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5022.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.0
+Rented ID:sEMA2/STATE:OK/Threshold:4989.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5054.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.0
+Rented ID:sEMA2/STATE:OK/Threshold:4973.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5089.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.5
+Rented ID:sEMA2/STATE:OK/Threshold:4955.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6512.0
+Rented ID:sEMA1/STATE:OK/Threshold:4244.0
+Rented ID:sEMA2/STATE:OK/Threshold:4244.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6491.0
+Rented ID:sEMA1/STATE:OK/Threshold:4254.5
+Rented ID:sEMA2/STATE:OK/Threshold:4254.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6493.0
+Rented ID:sEMA1/STATE:OK/Threshold:4253.5
+Rented ID:sEMA2/STATE:OK/Threshold:4253.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5022.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.0
+Rented ID:sEMA2/STATE:OK/Threshold:4989.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6496.0
+Rented ID:sEMA1/STATE:OK/Threshold:4252.0
+Rented ID:sEMA2/STATE:OK/Threshold:4252.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5023.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.5
+Rented ID:sEMA2/STATE:OK/Threshold:4988.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5056.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.0
+Rented ID:sEMA2/STATE:OK/Threshold:4972.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6496.0
+Rented ID:sEMA1/STATE:OK/Threshold:4252.0
+Rented ID:sEMA2/STATE:OK/Threshold:4252.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5024.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.0
+Rented ID:sEMA2/STATE:OK/Threshold:4988.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5056.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.0
+Rented ID:sEMA2/STATE:OK/Threshold:4972.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6489.0
+Rented ID:sEMA1/STATE:OK/Threshold:4255.5
+Rented ID:sEMA2/STATE:OK/Threshold:4255.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5024.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.0
+Rented ID:sEMA2/STATE:OK/Threshold:4988.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5055.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.5
+Rented ID:sEMA2/STATE:OK/Threshold:4972.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6319.0
+Rented ID:sEMA1/STATE:OK/Threshold:4340.5
+Rented ID:sEMA2/STATE:OK/Threshold:4340.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5024.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.0
+Rented ID:sEMA2/STATE:OK/Threshold:4988.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5055.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.5
+Rented ID:sEMA2/STATE:OK/Threshold:4972.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6322.0
+Rented ID:sEMA1/STATE:OK/Threshold:4339.0
+Rented ID:sEMA2/STATE:OK/Threshold:4339.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5025.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.5
+Rented ID:sEMA2/STATE:OK/Threshold:4987.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5057.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.5
+Rented ID:sEMA2/STATE:OK/Threshold:4971.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6322.0
+Rented ID:sEMA1/STATE:OK/Threshold:4339.0
+Rented ID:sEMA2/STATE:OK/Threshold:4339.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5022.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.0
+Rented ID:sEMA2/STATE:OK/Threshold:4989.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5054.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.0
+Rented ID:sEMA2/STATE:OK/Threshold:4973.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6320.0
+Rented ID:sEMA1/STATE:OK/Threshold:4340.0
+Rented ID:sEMA2/STATE:OK/Threshold:4340.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5031.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.5
+Rented ID:sEMA2/STATE:OK/Threshold:4984.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5064.0
+Rented ID:sEMA1/STATE:OK/Threshold:4968.0
+Rented ID:sEMA2/STATE:OK/Threshold:4968.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5097.0
+Rented ID:sEMA1/STATE:OK/Threshold:4951.5
+Rented ID:sEMA2/STATE:OK/Threshold:4951.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6329.0
+Rented ID:sEMA1/STATE:OK/Threshold:4335.5
+Rented ID:sEMA2/STATE:OK/Threshold:4335.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.5
+Rented ID:sEMA2/STATE:OK/Threshold:4986.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.0
+Rented ID:sEMA2/STATE:OK/Threshold:4971.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5093.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.5
+Rented ID:sEMA2/STATE:OK/Threshold:4953.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6323.0
+Rented ID:sEMA1/STATE:OK/Threshold:4338.5
+Rented ID:sEMA2/STATE:OK/Threshold:4338.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5026.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.0
+Rented ID:sEMA2/STATE:OK/Threshold:4987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5057.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.5
+Rented ID:sEMA2/STATE:OK/Threshold:4971.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6325.0
+Rented ID:sEMA1/STATE:OK/Threshold:4337.5
+Rented ID:sEMA2/STATE:OK/Threshold:4337.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5031.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.5
+Rented ID:sEMA2/STATE:OK/Threshold:4984.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5063.0
+Rented ID:sEMA1/STATE:OK/Threshold:4968.5
+Rented ID:sEMA2/STATE:OK/Threshold:4968.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5097.0
+Rented ID:sEMA1/STATE:OK/Threshold:4951.5
+Rented ID:sEMA2/STATE:OK/Threshold:4951.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6333.0
+Rented ID:sEMA1/STATE:OK/Threshold:4333.5
+Rented ID:sEMA2/STATE:OK/Threshold:4333.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5038.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.0
+Rented ID:sEMA2/STATE:OK/Threshold:4981.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5069.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.5
+Rented ID:sEMA2/STATE:OK/Threshold:4965.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5102.0
+Rented ID:sEMA1/STATE:OK/Threshold:4949.0
+Rented ID:sEMA2/STATE:OK/Threshold:4949.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6335.0
+Rented ID:sEMA1/STATE:OK/Threshold:4332.5
+Rented ID:sEMA2/STATE:OK/Threshold:4332.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.5
+Rented ID:sEMA2/STATE:OK/Threshold:4990.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5051.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.5
+Rented ID:sEMA2/STATE:OK/Threshold:4974.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5084.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.0
+Rented ID:sEMA2/STATE:OK/Threshold:4958.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6317.0
+Rented ID:sEMA1/STATE:OK/Threshold:4341.5
+Rented ID:sEMA2/STATE:OK/Threshold:4341.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5020.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.0
+Rented ID:sEMA2/STATE:OK/Threshold:4990.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.0
+Rented ID:sEMA2/STATE:OK/Threshold:4974.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6318.0
+Rented ID:sEMA1/STATE:OK/Threshold:4341.0
+Rented ID:sEMA2/STATE:OK/Threshold:4341.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5018.0
+Rented ID:sEMA1/STATE:OK/Threshold:4991.0
+Rented ID:sEMA2/STATE:OK/Threshold:4991.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5049.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.5
+Rented ID:sEMA2/STATE:OK/Threshold:4975.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5083.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.5
+Rented ID:sEMA2/STATE:OK/Threshold:4958.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6316.0
+Rented ID:sEMA1/STATE:OK/Threshold:4342.0
+Rented ID:sEMA2/STATE:OK/Threshold:4342.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5020.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.0
+Rented ID:sEMA2/STATE:OK/Threshold:4990.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6320.0
+Rented ID:sEMA1/STATE:OK/Threshold:4340.0
+Rented ID:sEMA2/STATE:OK/Threshold:4340.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5020.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.0
+Rented ID:sEMA2/STATE:OK/Threshold:4990.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.0
+Rented ID:sEMA2/STATE:OK/Threshold:4974.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6319.0
+Rented ID:sEMA1/STATE:OK/Threshold:4340.5
+Rented ID:sEMA2/STATE:OK/Threshold:4340.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5020.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.0
+Rented ID:sEMA2/STATE:OK/Threshold:4990.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.0
+Rented ID:sEMA2/STATE:OK/Threshold:4974.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6322.0
+Rented ID:sEMA1/STATE:OK/Threshold:4339.0
+Rented ID:sEMA2/STATE:OK/Threshold:4339.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.5
+Rented ID:sEMA2/STATE:OK/Threshold:4990.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5051.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.5
+Rented ID:sEMA2/STATE:OK/Threshold:4974.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6317.0
+Rented ID:sEMA1/STATE:OK/Threshold:4341.5
+Rented ID:sEMA2/STATE:OK/Threshold:4341.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5054.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.0
+Rented ID:sEMA2/STATE:OK/Threshold:4973.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6317.0
+Rented ID:sEMA1/STATE:OK/Threshold:4341.5
+Rented ID:sEMA2/STATE:OK/Threshold:4341.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5020.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.0
+Rented ID:sEMA2/STATE:OK/Threshold:4990.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5087.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.5
+Rented ID:sEMA2/STATE:OK/Threshold:4956.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6313.0
+Rented ID:sEMA1/STATE:OK/Threshold:4343.5
+Rented ID:sEMA2/STATE:OK/Threshold:4343.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5037.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.5
+Rented ID:sEMA2/STATE:OK/Threshold:4981.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5070.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.0
+Rented ID:sEMA2/STATE:OK/Threshold:4965.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5103.0
+Rented ID:sEMA1/STATE:OK/Threshold:4948.5
+Rented ID:sEMA2/STATE:OK/Threshold:4948.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6327.0
+Rented ID:sEMA1/STATE:OK/Threshold:4336.5
+Rented ID:sEMA2/STATE:OK/Threshold:4336.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5032.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.0
+Rented ID:sEMA2/STATE:OK/Threshold:4984.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5065.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.5
+Rented ID:sEMA2/STATE:OK/Threshold:4967.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5098.0
+Rented ID:sEMA1/STATE:OK/Threshold:4951.0
+Rented ID:sEMA2/STATE:OK/Threshold:4951.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5820.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.0
+Rented ID:sEMA2/STATE:OK/Threshold:4590.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5028.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.0
+Rented ID:sEMA2/STATE:OK/Threshold:4986.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5061.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.5
+Rented ID:sEMA2/STATE:OK/Threshold:4969.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5094.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.0
+Rented ID:sEMA2/STATE:OK/Threshold:4953.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5314.0
+Rented ID:sEMA1/STATE:OK/Threshold:4843.0
+Rented ID:sEMA2/STATE:OK/Threshold:4843.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.5
+Rented ID:sEMA2/STATE:OK/Threshold:4986.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.0
+Rented ID:sEMA2/STATE:OK/Threshold:4971.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5091.0
+Rented ID:sEMA1/STATE:OK/Threshold:4954.5
+Rented ID:sEMA2/STATE:OK/Threshold:4954.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5183.0
+Rented ID:sEMA1/STATE:OK/Threshold:4908.5
+Rented ID:sEMA2/STATE:OK/Threshold:4908.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5032.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.0
+Rented ID:sEMA2/STATE:OK/Threshold:4984.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5064.0
+Rented ID:sEMA1/STATE:OK/Threshold:4968.0
+Rented ID:sEMA2/STATE:OK/Threshold:4968.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5097.0
+Rented ID:sEMA1/STATE:OK/Threshold:4951.5
+Rented ID:sEMA2/STATE:OK/Threshold:4951.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5193.0
+Rented ID:sEMA1/STATE:OK/Threshold:4903.5
+Rented ID:sEMA2/STATE:OK/Threshold:4903.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.5
+Rented ID:sEMA2/STATE:OK/Threshold:4990.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5050.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.0
+Rented ID:sEMA2/STATE:OK/Threshold:4975.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5083.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.5
+Rented ID:sEMA2/STATE:OK/Threshold:4958.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5185.0
+Rented ID:sEMA1/STATE:OK/Threshold:4907.5
+Rented ID:sEMA2/STATE:OK/Threshold:4907.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5018.0
+Rented ID:sEMA1/STATE:OK/Threshold:4991.0
+Rented ID:sEMA2/STATE:OK/Threshold:4991.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5049.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.5
+Rented ID:sEMA2/STATE:OK/Threshold:4975.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5083.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.5
+Rented ID:sEMA2/STATE:OK/Threshold:4958.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5352.0
+Rented ID:sEMA1/STATE:OK/Threshold:4824.0
+Rented ID:sEMA2/STATE:OK/Threshold:4824.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5023.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.5
+Rented ID:sEMA2/STATE:OK/Threshold:4988.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5056.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.0
+Rented ID:sEMA2/STATE:OK/Threshold:4972.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6367.0
+Rented ID:sEMA1/STATE:OK/Threshold:4316.5
+Rented ID:sEMA2/STATE:OK/Threshold:4316.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5023.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.5
+Rented ID:sEMA2/STATE:OK/Threshold:4988.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5054.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.0
+Rented ID:sEMA2/STATE:OK/Threshold:4973.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5089.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.5
+Rented ID:sEMA2/STATE:OK/Threshold:4955.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6337.0
+Rented ID:sEMA1/STATE:OK/Threshold:4331.5
+Rented ID:sEMA2/STATE:OK/Threshold:4331.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5024.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.0
+Rented ID:sEMA2/STATE:OK/Threshold:4988.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5056.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.0
+Rented ID:sEMA2/STATE:OK/Threshold:4972.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5090.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.0
+Rented ID:sEMA2/STATE:OK/Threshold:4955.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6334.0
+Rented ID:sEMA1/STATE:OK/Threshold:4333.0
+Rented ID:sEMA2/STATE:OK/Threshold:4333.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4940.0
+Rented ID:sEMA2/STATE:OK/Threshold:4940.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6354.0
+Rented ID:sEMA1/STATE:OK/Threshold:4323.0
+Rented ID:sEMA2/STATE:OK/Threshold:4323.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.5
+Rented ID:sEMA2/STATE:OK/Threshold:4990.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5051.0
+Rented ID:sEMA1/STATE:OK/Threshold:4974.5
+Rented ID:sEMA2/STATE:OK/Threshold:4974.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5228.0
+Rented ID:sEMA1/STATE:OK/Threshold:4886.0
+Rented ID:sEMA2/STATE:OK/Threshold:4886.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6463.0
+Rented ID:sEMA1/STATE:OK/Threshold:4268.5
+Rented ID:sEMA2/STATE:OK/Threshold:4268.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5041.0
+Rented ID:sEMA1/STATE:OK/Threshold:4979.5
+Rented ID:sEMA2/STATE:OK/Threshold:4979.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5074.0
+Rented ID:sEMA1/STATE:OK/Threshold:4963.0
+Rented ID:sEMA2/STATE:OK/Threshold:4963.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6284.0
+Rented ID:sEMA1/STATE:OK/Threshold:4358.0
+Rented ID:sEMA2/STATE:OK/Threshold:4358.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7518.0
+Rented ID:sEMA1/STATE:OK/Threshold:3741.0
+Rented ID:sEMA2/STATE:OK/Threshold:3741.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5038.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.0
+Rented ID:sEMA2/STATE:OK/Threshold:4981.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5070.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.0
+Rented ID:sEMA2/STATE:OK/Threshold:4965.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6741.0
+Rented ID:sEMA1/STATE:OK/Threshold:4129.5
+Rented ID:sEMA2/STATE:OK/Threshold:4129.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7974.0
+Rented ID:sEMA1/STATE:OK/Threshold:3513.0
+Rented ID:sEMA2/STATE:OK/Threshold:3513.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5032.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.0
+Rented ID:sEMA2/STATE:OK/Threshold:4984.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5065.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.5
+Rented ID:sEMA2/STATE:OK/Threshold:4967.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6736.0
+Rented ID:sEMA1/STATE:OK/Threshold:4132.0
+Rented ID:sEMA2/STATE:OK/Threshold:4132.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7968.0
+Rented ID:sEMA1/STATE:OK/Threshold:3516.0
+Rented ID:sEMA2/STATE:OK/Threshold:3516.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5037.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.5
+Rented ID:sEMA2/STATE:OK/Threshold:4981.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5068.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.0
+Rented ID:sEMA2/STATE:OK/Threshold:4966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6735.0
+Rented ID:sEMA1/STATE:OK/Threshold:4132.5
+Rented ID:sEMA2/STATE:OK/Threshold:4132.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7966.0
+Rented ID:sEMA1/STATE:OK/Threshold:3517.0
+Rented ID:sEMA2/STATE:OK/Threshold:3517.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5067.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.5
+Rented ID:sEMA2/STATE:OK/Threshold:4966.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6732.0
+Rented ID:sEMA1/STATE:OK/Threshold:4134.0
+Rented ID:sEMA2/STATE:OK/Threshold:4134.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7964.0
+Rented ID:sEMA1/STATE:OK/Threshold:3518.0
+Rented ID:sEMA2/STATE:OK/Threshold:3518.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5033.0
+Rented ID:sEMA1/STATE:OK/Threshold:4983.5
+Rented ID:sEMA2/STATE:OK/Threshold:4983.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6732.0
+Rented ID:sEMA1/STATE:OK/Threshold:4134.0
+Rented ID:sEMA2/STATE:OK/Threshold:4134.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7963.0
+Rented ID:sEMA1/STATE:OK/Threshold:3518.5
+Rented ID:sEMA2/STATE:OK/Threshold:3518.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5017.0
+Rented ID:sEMA1/STATE:OK/Threshold:4991.5
+Rented ID:sEMA2/STATE:OK/Threshold:4991.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5049.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.5
+Rented ID:sEMA2/STATE:OK/Threshold:4975.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6712.0
+Rented ID:sEMA1/STATE:OK/Threshold:4144.0
+Rented ID:sEMA2/STATE:OK/Threshold:4144.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7942.0
+Rented ID:sEMA1/STATE:OK/Threshold:3529.0
+Rented ID:sEMA2/STATE:OK/Threshold:3529.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5016.0
+Rented ID:sEMA1/STATE:OK/Threshold:4992.0
+Rented ID:sEMA2/STATE:OK/Threshold:4992.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5049.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.5
+Rented ID:sEMA2/STATE:OK/Threshold:4975.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6717.0
+Rented ID:sEMA1/STATE:OK/Threshold:4141.5
+Rented ID:sEMA2/STATE:OK/Threshold:4141.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7947.0
+Rented ID:sEMA1/STATE:OK/Threshold:3526.5
+Rented ID:sEMA2/STATE:OK/Threshold:3526.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5017.0
+Rented ID:sEMA1/STATE:OK/Threshold:4991.5
+Rented ID:sEMA2/STATE:OK/Threshold:4991.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5050.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.0
+Rented ID:sEMA2/STATE:OK/Threshold:4975.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6707.0
+Rented ID:sEMA1/STATE:OK/Threshold:4146.5
+Rented ID:sEMA2/STATE:OK/Threshold:4146.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7940.0
+Rented ID:sEMA1/STATE:OK/Threshold:3530.0
+Rented ID:sEMA2/STATE:OK/Threshold:3530.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4990.5
+Rented ID:sEMA2/STATE:OK/Threshold:4990.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5050.0
+Rented ID:sEMA1/STATE:OK/Threshold:4975.0
+Rented ID:sEMA2/STATE:OK/Threshold:4975.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6710.0
+Rented ID:sEMA1/STATE:OK/Threshold:4145.0
+Rented ID:sEMA2/STATE:OK/Threshold:4145.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7942.0
+Rented ID:sEMA1/STATE:OK/Threshold:3529.0
+Rented ID:sEMA2/STATE:OK/Threshold:3529.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5022.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.0
+Rented ID:sEMA2/STATE:OK/Threshold:4989.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6697.0
+Rented ID:sEMA1/STATE:OK/Threshold:4151.5
+Rented ID:sEMA2/STATE:OK/Threshold:4151.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7928.0
+Rented ID:sEMA1/STATE:OK/Threshold:3536.0
+Rented ID:sEMA2/STATE:OK/Threshold:3536.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5023.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.5
+Rented ID:sEMA2/STATE:OK/Threshold:4988.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5054.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.0
+Rented ID:sEMA2/STATE:OK/Threshold:4973.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6670.0
+Rented ID:sEMA1/STATE:OK/Threshold:4165.0
+Rented ID:sEMA2/STATE:OK/Threshold:4165.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7902.0
+Rented ID:sEMA1/STATE:OK/Threshold:3549.0
+Rented ID:sEMA2/STATE:OK/Threshold:3549.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5026.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.0
+Rented ID:sEMA2/STATE:OK/Threshold:4987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5057.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.5
+Rented ID:sEMA2/STATE:OK/Threshold:4971.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6680.0
+Rented ID:sEMA1/STATE:OK/Threshold:4160.0
+Rented ID:sEMA2/STATE:OK/Threshold:4160.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7911.0
+Rented ID:sEMA1/STATE:OK/Threshold:3544.5
+Rented ID:sEMA2/STATE:OK/Threshold:3544.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5026.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.0
+Rented ID:sEMA2/STATE:OK/Threshold:4987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.0
+Rented ID:sEMA2/STATE:OK/Threshold:4971.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6674.0
+Rented ID:sEMA1/STATE:OK/Threshold:4163.0
+Rented ID:sEMA2/STATE:OK/Threshold:4163.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7903.0
+Rented ID:sEMA1/STATE:OK/Threshold:3548.5
+Rented ID:sEMA2/STATE:OK/Threshold:3548.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.5
+Rented ID:sEMA2/STATE:OK/Threshold:4986.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5060.0
+Rented ID:sEMA1/STATE:OK/Threshold:4970.0
+Rented ID:sEMA2/STATE:OK/Threshold:4970.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4164.5
+Rented ID:sEMA2/STATE:OK/Threshold:4164.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7899.0
+Rented ID:sEMA1/STATE:OK/Threshold:3550.5
+Rented ID:sEMA2/STATE:OK/Threshold:3550.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5033.0
+Rented ID:sEMA1/STATE:OK/Threshold:4983.5
+Rented ID:sEMA2/STATE:OK/Threshold:4983.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6725.0
+Rented ID:sEMA1/STATE:OK/Threshold:4137.5
+Rented ID:sEMA2/STATE:OK/Threshold:4137.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7952.0
+Rented ID:sEMA1/STATE:OK/Threshold:3524.0
+Rented ID:sEMA2/STATE:OK/Threshold:3524.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5036.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.0
+Rented ID:sEMA2/STATE:OK/Threshold:4982.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5070.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.0
+Rented ID:sEMA2/STATE:OK/Threshold:4965.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6729.0
+Rented ID:sEMA1/STATE:OK/Threshold:4135.5
+Rented ID:sEMA2/STATE:OK/Threshold:4135.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7957.0
+Rented ID:sEMA1/STATE:OK/Threshold:3521.5
+Rented ID:sEMA2/STATE:OK/Threshold:3521.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5037.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.5
+Rented ID:sEMA2/STATE:OK/Threshold:4981.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5068.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.0
+Rented ID:sEMA2/STATE:OK/Threshold:4966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6723.0
+Rented ID:sEMA1/STATE:OK/Threshold:4138.5
+Rented ID:sEMA2/STATE:OK/Threshold:4138.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7953.0
+Rented ID:sEMA1/STATE:OK/Threshold:3523.5
+Rented ID:sEMA2/STATE:OK/Threshold:3523.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6717.0
+Rented ID:sEMA1/STATE:OK/Threshold:4141.5
+Rented ID:sEMA2/STATE:OK/Threshold:4141.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7945.0
+Rented ID:sEMA1/STATE:OK/Threshold:3527.5
+Rented ID:sEMA2/STATE:OK/Threshold:3527.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5037.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.5
+Rented ID:sEMA2/STATE:OK/Threshold:4981.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5068.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.0
+Rented ID:sEMA2/STATE:OK/Threshold:4966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6716.0
+Rented ID:sEMA1/STATE:OK/Threshold:4142.0
+Rented ID:sEMA2/STATE:OK/Threshold:4142.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7942.0
+Rented ID:sEMA1/STATE:OK/Threshold:3529.0
+Rented ID:sEMA2/STATE:OK/Threshold:3529.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6717.0
+Rented ID:sEMA1/STATE:OK/Threshold:4141.5
+Rented ID:sEMA2/STATE:OK/Threshold:4141.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7943.0
+Rented ID:sEMA1/STATE:OK/Threshold:3528.5
+Rented ID:sEMA2/STATE:OK/Threshold:3528.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5067.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.5
+Rented ID:sEMA2/STATE:OK/Threshold:4966.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6710.0
+Rented ID:sEMA1/STATE:OK/Threshold:4145.0
+Rented ID:sEMA2/STATE:OK/Threshold:4145.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7934.0
+Rented ID:sEMA1/STATE:OK/Threshold:3533.0
+Rented ID:sEMA2/STATE:OK/Threshold:3533.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5038.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.0
+Rented ID:sEMA2/STATE:OK/Threshold:4981.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5069.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.5
+Rented ID:sEMA2/STATE:OK/Threshold:4965.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6691.0
+Rented ID:sEMA1/STATE:OK/Threshold:4154.5
+Rented ID:sEMA2/STATE:OK/Threshold:4154.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7915.0
+Rented ID:sEMA1/STATE:OK/Threshold:3542.5
+Rented ID:sEMA2/STATE:OK/Threshold:3542.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6673.0
+Rented ID:sEMA1/STATE:OK/Threshold:4163.5
+Rented ID:sEMA2/STATE:OK/Threshold:4163.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7898.0
+Rented ID:sEMA1/STATE:OK/Threshold:3551.0
+Rented ID:sEMA2/STATE:OK/Threshold:3551.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5033.0
+Rented ID:sEMA1/STATE:OK/Threshold:4983.5
+Rented ID:sEMA2/STATE:OK/Threshold:4983.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5065.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.5
+Rented ID:sEMA2/STATE:OK/Threshold:4967.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6667.0
+Rented ID:sEMA1/STATE:OK/Threshold:4166.5
+Rented ID:sEMA2/STATE:OK/Threshold:4166.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7892.0
+Rented ID:sEMA1/STATE:OK/Threshold:3554.0
+Rented ID:sEMA2/STATE:OK/Threshold:3554.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5036.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.0
+Rented ID:sEMA2/STATE:OK/Threshold:4982.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5068.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.0
+Rented ID:sEMA2/STATE:OK/Threshold:4966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6675.0
+Rented ID:sEMA1/STATE:OK/Threshold:4162.5
+Rented ID:sEMA2/STATE:OK/Threshold:4162.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7901.0
+Rented ID:sEMA1/STATE:OK/Threshold:3549.5
+Rented ID:sEMA2/STATE:OK/Threshold:3549.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5034.0
+Rented ID:sEMA1/STATE:OK/Threshold:4983.0
+Rented ID:sEMA2/STATE:OK/Threshold:4983.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5066.0
+Rented ID:sEMA1/STATE:OK/Threshold:4967.0
+Rented ID:sEMA2/STATE:OK/Threshold:4967.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4167.0
+Rented ID:sEMA2/STATE:OK/Threshold:4167.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7892.0
+Rented ID:sEMA1/STATE:OK/Threshold:3554.0
+Rented ID:sEMA2/STATE:OK/Threshold:3554.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5030.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.0
+Rented ID:sEMA2/STATE:OK/Threshold:4985.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5062.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.0
+Rented ID:sEMA2/STATE:OK/Threshold:4969.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6650.0
+Rented ID:sEMA1/STATE:OK/Threshold:4175.0
+Rented ID:sEMA2/STATE:OK/Threshold:4175.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7878.0
+Rented ID:sEMA1/STATE:OK/Threshold:3561.0
+Rented ID:sEMA2/STATE:OK/Threshold:3561.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5032.0
+Rented ID:sEMA1/STATE:OK/Threshold:4984.0
+Rented ID:sEMA2/STATE:OK/Threshold:4984.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5063.0
+Rented ID:sEMA1/STATE:OK/Threshold:4968.5
+Rented ID:sEMA2/STATE:OK/Threshold:4968.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4169.5
+Rented ID:sEMA2/STATE:OK/Threshold:4169.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7887.0
+Rented ID:sEMA1/STATE:OK/Threshold:3556.5
+Rented ID:sEMA2/STATE:OK/Threshold:3556.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5023.0
+Rented ID:sEMA1/STATE:OK/Threshold:4988.5
+Rented ID:sEMA2/STATE:OK/Threshold:4988.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5055.0
+Rented ID:sEMA1/STATE:OK/Threshold:4972.5
+Rented ID:sEMA2/STATE:OK/Threshold:4972.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6646.0
+Rented ID:sEMA1/STATE:OK/Threshold:4177.0
+Rented ID:sEMA2/STATE:OK/Threshold:4177.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7878.0
+Rented ID:sEMA1/STATE:OK/Threshold:3561.0
+Rented ID:sEMA2/STATE:OK/Threshold:3561.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4986.5
+Rented ID:sEMA2/STATE:OK/Threshold:4986.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5060.0
+Rented ID:sEMA1/STATE:OK/Threshold:4970.0
+Rented ID:sEMA2/STATE:OK/Threshold:4970.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6642.0
+Rented ID:sEMA1/STATE:OK/Threshold:4179.0
+Rented ID:sEMA2/STATE:OK/Threshold:4179.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7875.0
+Rented ID:sEMA1/STATE:OK/Threshold:3562.5
+Rented ID:sEMA2/STATE:OK/Threshold:3562.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5030.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.0
+Rented ID:sEMA2/STATE:OK/Threshold:4985.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5062.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.0
+Rented ID:sEMA2/STATE:OK/Threshold:4969.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6650.0
+Rented ID:sEMA1/STATE:OK/Threshold:4175.0
+Rented ID:sEMA2/STATE:OK/Threshold:4175.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7880.0
+Rented ID:sEMA1/STATE:OK/Threshold:3560.0
+Rented ID:sEMA2/STATE:OK/Threshold:3560.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5029.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.5
+Rented ID:sEMA2/STATE:OK/Threshold:4985.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5061.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.5
+Rented ID:sEMA2/STATE:OK/Threshold:4969.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6643.0
+Rented ID:sEMA1/STATE:OK/Threshold:4178.5
+Rented ID:sEMA2/STATE:OK/Threshold:4178.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7871.0
+Rented ID:sEMA1/STATE:OK/Threshold:3564.5
+Rented ID:sEMA2/STATE:OK/Threshold:3564.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5033.0
+Rented ID:sEMA1/STATE:OK/Threshold:4983.5
+Rented ID:sEMA2/STATE:OK/Threshold:4983.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5064.0
+Rented ID:sEMA1/STATE:OK/Threshold:4968.0
+Rented ID:sEMA2/STATE:OK/Threshold:4968.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6647.0
+Rented ID:sEMA1/STATE:OK/Threshold:4176.5
+Rented ID:sEMA2/STATE:OK/Threshold:4176.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7875.0
+Rented ID:sEMA1/STATE:OK/Threshold:3562.5
+Rented ID:sEMA2/STATE:OK/Threshold:3562.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5037.0
+Rented ID:sEMA1/STATE:OK/Threshold:4981.5
+Rented ID:sEMA2/STATE:OK/Threshold:4981.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5069.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.5
+Rented ID:sEMA2/STATE:OK/Threshold:4965.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6652.0
+Rented ID:sEMA1/STATE:OK/Threshold:4174.0
+Rented ID:sEMA2/STATE:OK/Threshold:4174.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7881.0
+Rented ID:sEMA1/STATE:OK/Threshold:3559.5
+Rented ID:sEMA2/STATE:OK/Threshold:3559.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5035.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.5
+Rented ID:sEMA2/STATE:OK/Threshold:4982.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5068.0
+Rented ID:sEMA1/STATE:OK/Threshold:4966.0
+Rented ID:sEMA2/STATE:OK/Threshold:4966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6643.0
+Rented ID:sEMA1/STATE:OK/Threshold:4178.5
+Rented ID:sEMA2/STATE:OK/Threshold:4178.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7872.0
+Rented ID:sEMA1/STATE:OK/Threshold:3564.0
+Rented ID:sEMA2/STATE:OK/Threshold:3564.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5036.0
+Rented ID:sEMA1/STATE:OK/Threshold:4982.0
+Rented ID:sEMA2/STATE:OK/Threshold:4982.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5069.0
+Rented ID:sEMA1/STATE:OK/Threshold:4965.5
+Rented ID:sEMA2/STATE:OK/Threshold:4965.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6637.0
+Rented ID:sEMA1/STATE:OK/Threshold:4181.5
+Rented ID:sEMA2/STATE:OK/Threshold:4181.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7864.0
+Rented ID:sEMA1/STATE:OK/Threshold:3568.0
+Rented ID:sEMA2/STATE:OK/Threshold:3568.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5029.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.5
+Rented ID:sEMA2/STATE:OK/Threshold:4985.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5061.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.5
+Rented ID:sEMA2/STATE:OK/Threshold:4969.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6647.0
+Rented ID:sEMA1/STATE:OK/Threshold:4176.5
+Rented ID:sEMA2/STATE:OK/Threshold:4176.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7874.0
+Rented ID:sEMA1/STATE:OK/Threshold:3563.0
+Rented ID:sEMA2/STATE:OK/Threshold:3563.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5026.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.0
+Rented ID:sEMA2/STATE:OK/Threshold:4987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.0
+Rented ID:sEMA2/STATE:OK/Threshold:4971.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6632.0
+Rented ID:sEMA1/STATE:OK/Threshold:4184.0
+Rented ID:sEMA2/STATE:OK/Threshold:4184.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7860.0
+Rented ID:sEMA1/STATE:OK/Threshold:3570.0
+Rented ID:sEMA2/STATE:OK/Threshold:3570.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4989.5
+Rented ID:sEMA2/STATE:OK/Threshold:4989.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4973.5
+Rented ID:sEMA2/STATE:OK/Threshold:4973.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6622.0
+Rented ID:sEMA1/STATE:OK/Threshold:4189.0
+Rented ID:sEMA2/STATE:OK/Threshold:4189.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7849.0
+Rented ID:sEMA1/STATE:OK/Threshold:3575.5
+Rented ID:sEMA2/STATE:OK/Threshold:3575.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5030.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.0
+Rented ID:sEMA2/STATE:OK/Threshold:4985.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5061.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.5
+Rented ID:sEMA2/STATE:OK/Threshold:4969.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6639.0
+Rented ID:sEMA1/STATE:OK/Threshold:4180.5
+Rented ID:sEMA2/STATE:OK/Threshold:4180.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7875.0
+Rented ID:sEMA1/STATE:OK/Threshold:3562.5
+Rented ID:sEMA2/STATE:OK/Threshold:3562.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5026.0
+Rented ID:sEMA1/STATE:OK/Threshold:4987.0
+Rented ID:sEMA2/STATE:OK/Threshold:4987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4971.0
+Rented ID:sEMA2/STATE:OK/Threshold:4971.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6635.0
+Rented ID:sEMA1/STATE:OK/Threshold:4182.5
+Rented ID:sEMA2/STATE:OK/Threshold:4182.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7873.0
+Rented ID:sEMA1/STATE:OK/Threshold:3563.5
+Rented ID:sEMA2/STATE:OK/Threshold:3563.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5030.0
+Rented ID:sEMA1/STATE:OK/Threshold:4985.0
+Rented ID:sEMA2/STATE:OK/Threshold:4985.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5062.0
+Rented ID:sEMA1/STATE:OK/Threshold:4969.0
+Rented ID:sEMA2/STATE:OK/Threshold:4969.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6629.0
+Rented ID:sEMA1/STATE:OK/Threshold:4185.5
+Rented ID:sEMA2/STATE:OK/Threshold:4185.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7865.0
+Rented ID:sEMA1/STATE:OK/Threshold:3567.5
+Rented ID:sEMA2/STATE:OK/Threshold:3567.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6459.0
+Rented ID:sEMA1/STATE:OK/Threshold:4270.5
+Rented ID:sEMA2/STATE:OK/Threshold:4270.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7697.0
+Rented ID:sEMA1/STATE:OK/Threshold:3651.5
+Rented ID:sEMA2/STATE:OK/Threshold:3651.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6457.0
+Rented ID:sEMA1/STATE:OK/Threshold:4271.5
+Rented ID:sEMA2/STATE:OK/Threshold:4271.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7693.0
+Rented ID:sEMA1/STATE:OK/Threshold:3653.5
+Rented ID:sEMA2/STATE:OK/Threshold:3653.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6450.0
+Rented ID:sEMA1/STATE:OK/Threshold:4275.0
+Rented ID:sEMA2/STATE:OK/Threshold:4275.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7689.0
+Rented ID:sEMA1/STATE:OK/Threshold:3655.5
+Rented ID:sEMA2/STATE:OK/Threshold:3655.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6478.0
+Rented ID:sEMA1/STATE:OK/Threshold:4261.0
+Rented ID:sEMA2/STATE:OK/Threshold:4261.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7715.0
+Rented ID:sEMA1/STATE:OK/Threshold:3642.5
+Rented ID:sEMA2/STATE:OK/Threshold:3642.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6211.0
+Rented ID:sEMA1/STATE:OK/Threshold:4394.5
+Rented ID:sEMA2/STATE:OK/Threshold:4394.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6197.0
+Rented ID:sEMA1/STATE:OK/Threshold:4401.5
+Rented ID:sEMA2/STATE:OK/Threshold:4401.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6186.0
+Rented ID:sEMA1/STATE:OK/Threshold:4407.0
+Rented ID:sEMA2/STATE:OK/Threshold:4407.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6170.0
+Rented ID:sEMA1/STATE:OK/Threshold:4415.0
+Rented ID:sEMA2/STATE:OK/Threshold:4415.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6177.0
+Rented ID:sEMA1/STATE:OK/Threshold:4411.5
+Rented ID:sEMA2/STATE:OK/Threshold:4411.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6173.0
+Rented ID:sEMA1/STATE:OK/Threshold:4413.5
+Rented ID:sEMA2/STATE:OK/Threshold:4413.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6195.0
+Rented ID:sEMA1/STATE:OK/Threshold:4402.5
+Rented ID:sEMA2/STATE:OK/Threshold:4402.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6185.0
+Rented ID:sEMA1/STATE:OK/Threshold:4407.5
+Rented ID:sEMA2/STATE:OK/Threshold:4407.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6157.0
+Rented ID:sEMA1/STATE:OK/Threshold:4421.5
+Rented ID:sEMA2/STATE:OK/Threshold:4421.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6154.0
+Rented ID:sEMA1/STATE:OK/Threshold:4423.0
+Rented ID:sEMA2/STATE:OK/Threshold:4423.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5407.0
+Rented ID:sEMA1/STATE:OK/Threshold:4796.5
+Rented ID:sEMA2/STATE:OK/Threshold:4796.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5441.0
+Rented ID:sEMA1/STATE:OK/Threshold:4779.5
+Rented ID:sEMA2/STATE:OK/Threshold:4779.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6680.0
+Rented ID:sEMA1/STATE:OK/Threshold:4160.0
+Rented ID:sEMA2/STATE:OK/Threshold:4160.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6998.0
+Rented ID:sEMA1/STATE:OK/Threshold:4001.0
+Rented ID:sEMA2/STATE:OK/Threshold:4001.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7033.0
+Rented ID:sEMA1/STATE:OK/Threshold:3983.5
+Rented ID:sEMA2/STATE:OK/Threshold:3983.5
+ID:sEMA3/STATE:ACCEPT/Threshold:8270.0
+Rented ID:sEMA1/STATE:OK/Threshold:3365.0
+Rented ID:sEMA2/STATE:OK/Threshold:3365.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5725.0
+Rented ID:sEMA1/STATE:OK/Threshold:4637.5
+Rented ID:sEMA2/STATE:OK/Threshold:4637.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5761.0
+Rented ID:sEMA1/STATE:OK/Threshold:4619.5
+Rented ID:sEMA2/STATE:OK/Threshold:4619.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6996.0
+Rented ID:sEMA1/STATE:OK/Threshold:4002.0
+Rented ID:sEMA2/STATE:OK/Threshold:4002.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5093.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.5
+Rented ID:sEMA2/STATE:OK/Threshold:4953.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5127.0
+Rented ID:sEMA1/STATE:OK/Threshold:4936.5
+Rented ID:sEMA2/STATE:OK/Threshold:4936.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6362.0
+Rented ID:sEMA1/STATE:OK/Threshold:4319.0
+Rented ID:sEMA2/STATE:OK/Threshold:4319.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5120.0
+Rented ID:sEMA1/STATE:OK/Threshold:4940.0
+Rented ID:sEMA2/STATE:OK/Threshold:4940.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5155.0
+Rented ID:sEMA1/STATE:OK/Threshold:4922.5
+Rented ID:sEMA2/STATE:OK/Threshold:4922.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6392.0
+Rented ID:sEMA1/STATE:OK/Threshold:4304.0
+Rented ID:sEMA2/STATE:OK/Threshold:4304.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5107.0
+Rented ID:sEMA1/STATE:OK/Threshold:4946.5
+Rented ID:sEMA2/STATE:OK/Threshold:4946.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5141.0
+Rented ID:sEMA1/STATE:OK/Threshold:4929.5
+Rented ID:sEMA2/STATE:OK/Threshold:4929.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6381.0
+Rented ID:sEMA1/STATE:OK/Threshold:4309.5
+Rented ID:sEMA2/STATE:OK/Threshold:4309.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5109.0
+Rented ID:sEMA1/STATE:OK/Threshold:4945.5
+Rented ID:sEMA2/STATE:OK/Threshold:4945.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5144.0
+Rented ID:sEMA1/STATE:OK/Threshold:4928.0
+Rented ID:sEMA2/STATE:OK/Threshold:4928.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6382.0
+Rented ID:sEMA1/STATE:OK/Threshold:4309.0
+Rented ID:sEMA2/STATE:OK/Threshold:4309.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5106.0
+Rented ID:sEMA1/STATE:OK/Threshold:4947.0
+Rented ID:sEMA2/STATE:OK/Threshold:4947.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5139.0
+Rented ID:sEMA1/STATE:OK/Threshold:4930.5
+Rented ID:sEMA2/STATE:OK/Threshold:4930.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6377.0
+Rented ID:sEMA1/STATE:OK/Threshold:4311.5
+Rented ID:sEMA2/STATE:OK/Threshold:4311.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5089.0
+Rented ID:sEMA1/STATE:OK/Threshold:4955.5
+Rented ID:sEMA2/STATE:OK/Threshold:4955.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5123.0
+Rented ID:sEMA1/STATE:OK/Threshold:4938.5
+Rented ID:sEMA2/STATE:OK/Threshold:4938.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6367.0
+Rented ID:sEMA1/STATE:OK/Threshold:4316.5
+Rented ID:sEMA2/STATE:OK/Threshold:4316.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5093.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.5
+Rented ID:sEMA2/STATE:OK/Threshold:4953.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5127.0
+Rented ID:sEMA1/STATE:OK/Threshold:4936.5
+Rented ID:sEMA2/STATE:OK/Threshold:4936.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6363.0
+Rented ID:sEMA1/STATE:OK/Threshold:4318.5
+Rented ID:sEMA2/STATE:OK/Threshold:4318.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5100.0
+Rented ID:sEMA1/STATE:OK/Threshold:4950.0
+Rented ID:sEMA2/STATE:OK/Threshold:4950.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5134.0
+Rented ID:sEMA1/STATE:OK/Threshold:4933.0
+Rented ID:sEMA2/STATE:OK/Threshold:4933.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6371.0
+Rented ID:sEMA1/STATE:OK/Threshold:4314.5
+Rented ID:sEMA2/STATE:OK/Threshold:4314.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5096.0
+Rented ID:sEMA1/STATE:OK/Threshold:4952.0
+Rented ID:sEMA2/STATE:OK/Threshold:4952.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5130.0
+Rented ID:sEMA1/STATE:OK/Threshold:4935.0
+Rented ID:sEMA2/STATE:OK/Threshold:4935.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6364.0
+Rented ID:sEMA1/STATE:OK/Threshold:4318.0
+Rented ID:sEMA2/STATE:OK/Threshold:4318.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5122.0
+Rented ID:sEMA1/STATE:OK/Threshold:4939.0
+Rented ID:sEMA2/STATE:OK/Threshold:4939.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6355.0
+Rented ID:sEMA1/STATE:OK/Threshold:4322.5
+Rented ID:sEMA2/STATE:OK/Threshold:4322.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5121.0
+Rented ID:sEMA1/STATE:OK/Threshold:4939.5
+Rented ID:sEMA2/STATE:OK/Threshold:4939.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6356.0
+Rented ID:sEMA1/STATE:OK/Threshold:4322.0
+Rented ID:sEMA2/STATE:OK/Threshold:4322.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5083.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.5
+Rented ID:sEMA2/STATE:OK/Threshold:4958.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5117.0
+Rented ID:sEMA1/STATE:OK/Threshold:4941.5
+Rented ID:sEMA2/STATE:OK/Threshold:4941.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6351.0
+Rented ID:sEMA1/STATE:OK/Threshold:4324.5
+Rented ID:sEMA2/STATE:OK/Threshold:4324.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5081.0
+Rented ID:sEMA1/STATE:OK/Threshold:4959.5
+Rented ID:sEMA2/STATE:OK/Threshold:4959.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5115.0
+Rented ID:sEMA1/STATE:OK/Threshold:4942.5
+Rented ID:sEMA2/STATE:OK/Threshold:4942.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6349.0
+Rented ID:sEMA1/STATE:OK/Threshold:4325.5
+Rented ID:sEMA2/STATE:OK/Threshold:4325.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5119.0
+Rented ID:sEMA1/STATE:OK/Threshold:4940.5
+Rented ID:sEMA2/STATE:OK/Threshold:4940.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6354.0
+Rented ID:sEMA1/STATE:OK/Threshold:4323.0
+Rented ID:sEMA2/STATE:OK/Threshold:4323.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5088.0
+Rented ID:sEMA1/STATE:OK/Threshold:4956.0
+Rented ID:sEMA2/STATE:OK/Threshold:4956.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5121.0
+Rented ID:sEMA1/STATE:OK/Threshold:4939.5
+Rented ID:sEMA2/STATE:OK/Threshold:4939.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6356.0
+Rented ID:sEMA1/STATE:OK/Threshold:4322.0
+Rented ID:sEMA2/STATE:OK/Threshold:4322.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5078.0
+Rented ID:sEMA1/STATE:OK/Threshold:4961.0
+Rented ID:sEMA2/STATE:OK/Threshold:4961.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5125.0
+Rented ID:sEMA1/STATE:OK/Threshold:4937.5
+Rented ID:sEMA2/STATE:OK/Threshold:4937.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6362.0
+Rented ID:sEMA1/STATE:OK/Threshold:4319.0
+Rented ID:sEMA2/STATE:OK/Threshold:4319.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5083.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.5
+Rented ID:sEMA2/STATE:OK/Threshold:4958.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5157.0
+Rented ID:sEMA1/STATE:OK/Threshold:4921.5
+Rented ID:sEMA2/STATE:OK/Threshold:4921.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6392.0
+Rented ID:sEMA1/STATE:OK/Threshold:4304.0
+Rented ID:sEMA2/STATE:OK/Threshold:4304.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5086.0
+Rented ID:sEMA1/STATE:OK/Threshold:4957.0
+Rented ID:sEMA2/STATE:OK/Threshold:4957.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5133.0
+Rented ID:sEMA1/STATE:OK/Threshold:4933.5
+Rented ID:sEMA2/STATE:OK/Threshold:4933.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6366.0
+Rented ID:sEMA1/STATE:OK/Threshold:4317.0
+Rented ID:sEMA2/STATE:OK/Threshold:4317.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5084.0
+Rented ID:sEMA1/STATE:OK/Threshold:4958.0
+Rented ID:sEMA2/STATE:OK/Threshold:4958.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5118.0
+Rented ID:sEMA1/STATE:OK/Threshold:4941.0
+Rented ID:sEMA2/STATE:OK/Threshold:4941.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6351.0
+Rented ID:sEMA1/STATE:OK/Threshold:4324.5
+Rented ID:sEMA2/STATE:OK/Threshold:4324.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5843.0
+Rented ID:sEMA1/STATE:OK/Threshold:4578.5
+Rented ID:sEMA2/STATE:OK/Threshold:4578.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5843.0
+Rented ID:sEMA1/STATE:OK/Threshold:4578.5
+Rented ID:sEMA2/STATE:OK/Threshold:4578.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5837.0
+Rented ID:sEMA1/STATE:OK/Threshold:4581.5
+Rented ID:sEMA2/STATE:OK/Threshold:4581.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5848.0
+Rented ID:sEMA1/STATE:OK/Threshold:4576.0
+Rented ID:sEMA2/STATE:OK/Threshold:4576.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5825.0
+Rented ID:sEMA1/STATE:OK/Threshold:4587.5
+Rented ID:sEMA2/STATE:OK/Threshold:4587.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5830.0
+Rented ID:sEMA1/STATE:OK/Threshold:4585.0
+Rented ID:sEMA2/STATE:OK/Threshold:4585.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5834.0
+Rented ID:sEMA1/STATE:OK/Threshold:4583.0
+Rented ID:sEMA2/STATE:OK/Threshold:4583.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5827.0
+Rented ID:sEMA1/STATE:OK/Threshold:4586.5
+Rented ID:sEMA2/STATE:OK/Threshold:4586.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5697.0
+Rented ID:sEMA1/STATE:OK/Threshold:4651.5
+Rented ID:sEMA2/STATE:OK/Threshold:4651.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5658.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.0
+Rented ID:sEMA2/STATE:OK/Threshold:4671.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5658.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.0
+Rented ID:sEMA2/STATE:OK/Threshold:4671.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5657.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.5
+Rented ID:sEMA2/STATE:OK/Threshold:4671.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5663.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.5
+Rented ID:sEMA2/STATE:OK/Threshold:4668.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5663.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.5
+Rented ID:sEMA2/STATE:OK/Threshold:4668.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5669.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.5
+Rented ID:sEMA2/STATE:OK/Threshold:4665.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5652.0
+Rented ID:sEMA1/STATE:OK/Threshold:4674.0
+Rented ID:sEMA2/STATE:OK/Threshold:4674.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5656.0
+Rented ID:sEMA1/STATE:OK/Threshold:4672.0
+Rented ID:sEMA2/STATE:OK/Threshold:4672.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5657.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.5
+Rented ID:sEMA2/STATE:OK/Threshold:4671.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5656.0
+Rented ID:sEMA1/STATE:OK/Threshold:4672.0
+Rented ID:sEMA2/STATE:OK/Threshold:4672.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5658.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.0
+Rented ID:sEMA2/STATE:OK/Threshold:4671.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5654.0
+Rented ID:sEMA1/STATE:OK/Threshold:4673.0
+Rented ID:sEMA2/STATE:OK/Threshold:4673.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5652.0
+Rented ID:sEMA1/STATE:OK/Threshold:4674.0
+Rented ID:sEMA2/STATE:OK/Threshold:4674.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5646.0
+Rented ID:sEMA1/STATE:OK/Threshold:4677.0
+Rented ID:sEMA2/STATE:OK/Threshold:4677.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5648.0
+Rented ID:sEMA1/STATE:OK/Threshold:4676.0
+Rented ID:sEMA2/STATE:OK/Threshold:4676.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5157.0
+Rented ID:sEMA1/STATE:OK/Threshold:4921.5
+Rented ID:sEMA2/STATE:OK/Threshold:4921.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5391.0
+Rented ID:sEMA1/STATE:OK/Threshold:4804.5
+Rented ID:sEMA2/STATE:OK/Threshold:4804.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5685.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.5
+Rented ID:sEMA2/STATE:OK/Threshold:4657.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.5
+Rented ID:sEMA2/STATE:OK/Threshold:4664.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5664.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.0
+Rented ID:sEMA2/STATE:OK/Threshold:4668.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5715.0
+Rented ID:sEMA1/STATE:OK/Threshold:4642.5
+Rented ID:sEMA2/STATE:OK/Threshold:4642.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5824.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.0
+Rented ID:sEMA2/STATE:OK/Threshold:4588.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5592.0
+Rented ID:sEMA1/STATE:OK/Threshold:4704.0
+Rented ID:sEMA2/STATE:OK/Threshold:4704.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6826.0
+Rented ID:sEMA1/STATE:OK/Threshold:4087.0
+Rented ID:sEMA2/STATE:OK/Threshold:4087.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6059.0
+Rented ID:sEMA1/STATE:OK/Threshold:4470.5
+Rented ID:sEMA2/STATE:OK/Threshold:4470.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7291.0
+Rented ID:sEMA1/STATE:OK/Threshold:3854.5
+Rented ID:sEMA2/STATE:OK/Threshold:3854.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6064.0
+Rented ID:sEMA1/STATE:OK/Threshold:4468.0
+Rented ID:sEMA2/STATE:OK/Threshold:4468.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7295.0
+Rented ID:sEMA1/STATE:OK/Threshold:3852.5
+Rented ID:sEMA2/STATE:OK/Threshold:3852.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6073.0
+Rented ID:sEMA1/STATE:OK/Threshold:4463.5
+Rented ID:sEMA2/STATE:OK/Threshold:4463.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7304.0
+Rented ID:sEMA1/STATE:OK/Threshold:3848.0
+Rented ID:sEMA2/STATE:OK/Threshold:3848.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6067.0
+Rented ID:sEMA1/STATE:OK/Threshold:4466.5
+Rented ID:sEMA2/STATE:OK/Threshold:4466.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7298.0
+Rented ID:sEMA1/STATE:OK/Threshold:3851.0
+Rented ID:sEMA2/STATE:OK/Threshold:3851.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6071.0
+Rented ID:sEMA1/STATE:OK/Threshold:4464.5
+Rented ID:sEMA2/STATE:OK/Threshold:4464.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7302.0
+Rented ID:sEMA1/STATE:OK/Threshold:3849.0
+Rented ID:sEMA2/STATE:OK/Threshold:3849.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6067.0
+Rented ID:sEMA1/STATE:OK/Threshold:4466.5
+Rented ID:sEMA2/STATE:OK/Threshold:4466.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7298.0
+Rented ID:sEMA1/STATE:OK/Threshold:3851.0
+Rented ID:sEMA2/STATE:OK/Threshold:3851.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6073.0
+Rented ID:sEMA1/STATE:OK/Threshold:4463.5
+Rented ID:sEMA2/STATE:OK/Threshold:4463.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7303.0
+Rented ID:sEMA1/STATE:OK/Threshold:3848.5
+Rented ID:sEMA2/STATE:OK/Threshold:3848.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6044.0
+Rented ID:sEMA1/STATE:OK/Threshold:4478.0
+Rented ID:sEMA2/STATE:OK/Threshold:4478.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7277.0
+Rented ID:sEMA1/STATE:OK/Threshold:3861.5
+Rented ID:sEMA2/STATE:OK/Threshold:3861.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6002.0
+Rented ID:sEMA1/STATE:OK/Threshold:4499.0
+Rented ID:sEMA2/STATE:OK/Threshold:4499.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7234.0
+Rented ID:sEMA1/STATE:OK/Threshold:3883.0
+Rented ID:sEMA2/STATE:OK/Threshold:3883.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6008.0
+Rented ID:sEMA1/STATE:OK/Threshold:4496.0
+Rented ID:sEMA2/STATE:OK/Threshold:4496.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7238.0
+Rented ID:sEMA1/STATE:OK/Threshold:3881.0
+Rented ID:sEMA2/STATE:OK/Threshold:3881.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6004.0
+Rented ID:sEMA1/STATE:OK/Threshold:4498.0
+Rented ID:sEMA2/STATE:OK/Threshold:4498.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7232.0
+Rented ID:sEMA1/STATE:OK/Threshold:3884.0
+Rented ID:sEMA2/STATE:OK/Threshold:3884.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6013.0
+Rented ID:sEMA1/STATE:OK/Threshold:4493.5
+Rented ID:sEMA2/STATE:OK/Threshold:4493.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7245.0
+Rented ID:sEMA1/STATE:OK/Threshold:3877.5
+Rented ID:sEMA2/STATE:OK/Threshold:3877.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6027.0
+Rented ID:sEMA1/STATE:OK/Threshold:4486.5
+Rented ID:sEMA2/STATE:OK/Threshold:4486.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7255.0
+Rented ID:sEMA1/STATE:OK/Threshold:3872.5
+Rented ID:sEMA2/STATE:OK/Threshold:3872.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6049.0
+Rented ID:sEMA1/STATE:OK/Threshold:4475.5
+Rented ID:sEMA2/STATE:OK/Threshold:4475.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7278.0
+Rented ID:sEMA1/STATE:OK/Threshold:3861.0
+Rented ID:sEMA2/STATE:OK/Threshold:3861.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6055.0
+Rented ID:sEMA1/STATE:OK/Threshold:4472.5
+Rented ID:sEMA2/STATE:OK/Threshold:4472.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7283.0
+Rented ID:sEMA1/STATE:OK/Threshold:3858.5
+Rented ID:sEMA2/STATE:OK/Threshold:3858.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4474.0
+Rented ID:sEMA2/STATE:OK/Threshold:4474.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7282.0
+Rented ID:sEMA1/STATE:OK/Threshold:3859.0
+Rented ID:sEMA2/STATE:OK/Threshold:3859.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6046.0
+Rented ID:sEMA1/STATE:OK/Threshold:4477.0
+Rented ID:sEMA2/STATE:OK/Threshold:4477.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7274.0
+Rented ID:sEMA1/STATE:OK/Threshold:3863.0
+Rented ID:sEMA2/STATE:OK/Threshold:3863.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6046.0
+Rented ID:sEMA1/STATE:OK/Threshold:4477.0
+Rented ID:sEMA2/STATE:OK/Threshold:4477.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7272.0
+Rented ID:sEMA1/STATE:OK/Threshold:3864.0
+Rented ID:sEMA2/STATE:OK/Threshold:3864.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4474.0
+Rented ID:sEMA2/STATE:OK/Threshold:4474.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7278.0
+Rented ID:sEMA1/STATE:OK/Threshold:3861.0
+Rented ID:sEMA2/STATE:OK/Threshold:3861.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6046.0
+Rented ID:sEMA1/STATE:OK/Threshold:4477.0
+Rented ID:sEMA2/STATE:OK/Threshold:4477.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7272.0
+Rented ID:sEMA1/STATE:OK/Threshold:3864.0
+Rented ID:sEMA2/STATE:OK/Threshold:3864.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6052.0
+Rented ID:sEMA1/STATE:OK/Threshold:4474.0
+Rented ID:sEMA2/STATE:OK/Threshold:4474.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7278.0
+Rented ID:sEMA1/STATE:OK/Threshold:3861.0
+Rented ID:sEMA2/STATE:OK/Threshold:3861.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6013.0
+Rented ID:sEMA1/STATE:OK/Threshold:4493.5
+Rented ID:sEMA2/STATE:OK/Threshold:4493.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7237.0
+Rented ID:sEMA1/STATE:OK/Threshold:3881.5
+Rented ID:sEMA2/STATE:OK/Threshold:3881.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6007.0
+Rented ID:sEMA1/STATE:OK/Threshold:4496.5
+Rented ID:sEMA2/STATE:OK/Threshold:4496.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7231.0
+Rented ID:sEMA1/STATE:OK/Threshold:3884.5
+Rented ID:sEMA2/STATE:OK/Threshold:3884.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6006.0
+Rented ID:sEMA1/STATE:OK/Threshold:4497.0
+Rented ID:sEMA2/STATE:OK/Threshold:4497.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7231.0
+Rented ID:sEMA1/STATE:OK/Threshold:3884.5
+Rented ID:sEMA2/STATE:OK/Threshold:3884.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6008.0
+Rented ID:sEMA1/STATE:OK/Threshold:4496.0
+Rented ID:sEMA2/STATE:OK/Threshold:4496.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7233.0
+Rented ID:sEMA1/STATE:OK/Threshold:3883.5
+Rented ID:sEMA2/STATE:OK/Threshold:3883.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5995.0
+Rented ID:sEMA1/STATE:OK/Threshold:4502.5
+Rented ID:sEMA2/STATE:OK/Threshold:4502.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7223.0
+Rented ID:sEMA1/STATE:OK/Threshold:3888.5
+Rented ID:sEMA2/STATE:OK/Threshold:3888.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6000.0
+Rented ID:sEMA1/STATE:OK/Threshold:4500.0
+Rented ID:sEMA2/STATE:OK/Threshold:4500.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7227.0
+Rented ID:sEMA1/STATE:OK/Threshold:3886.5
+Rented ID:sEMA2/STATE:OK/Threshold:3886.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5998.0
+Rented ID:sEMA1/STATE:OK/Threshold:4501.0
+Rented ID:sEMA2/STATE:OK/Threshold:4501.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7229.0
+Rented ID:sEMA1/STATE:OK/Threshold:3885.5
+Rented ID:sEMA2/STATE:OK/Threshold:3885.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5982.0
+Rented ID:sEMA1/STATE:OK/Threshold:4509.0
+Rented ID:sEMA2/STATE:OK/Threshold:4509.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7213.0
+Rented ID:sEMA1/STATE:OK/Threshold:3893.5
+Rented ID:sEMA2/STATE:OK/Threshold:3893.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5992.0
+Rented ID:sEMA1/STATE:OK/Threshold:4504.0
+Rented ID:sEMA2/STATE:OK/Threshold:4504.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7226.0
+Rented ID:sEMA1/STATE:OK/Threshold:3887.0
+Rented ID:sEMA2/STATE:OK/Threshold:3887.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5984.0
+Rented ID:sEMA1/STATE:OK/Threshold:4508.0
+Rented ID:sEMA2/STATE:OK/Threshold:4508.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7214.0
+Rented ID:sEMA1/STATE:OK/Threshold:3893.0
+Rented ID:sEMA2/STATE:OK/Threshold:3893.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5986.0
+Rented ID:sEMA1/STATE:OK/Threshold:4507.0
+Rented ID:sEMA2/STATE:OK/Threshold:4507.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7213.0
+Rented ID:sEMA1/STATE:OK/Threshold:3893.5
+Rented ID:sEMA2/STATE:OK/Threshold:3893.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5975.0
+Rented ID:sEMA1/STATE:OK/Threshold:4512.5
+Rented ID:sEMA2/STATE:OK/Threshold:4512.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7202.0
+Rented ID:sEMA1/STATE:OK/Threshold:3899.0
+Rented ID:sEMA2/STATE:OK/Threshold:3899.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5968.0
+Rented ID:sEMA1/STATE:OK/Threshold:4516.0
+Rented ID:sEMA2/STATE:OK/Threshold:4516.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7197.0
+Rented ID:sEMA1/STATE:OK/Threshold:3901.5
+Rented ID:sEMA2/STATE:OK/Threshold:3901.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5968.0
+Rented ID:sEMA1/STATE:OK/Threshold:4516.0
+Rented ID:sEMA2/STATE:OK/Threshold:4516.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7196.0
+Rented ID:sEMA1/STATE:OK/Threshold:3902.0
+Rented ID:sEMA2/STATE:OK/Threshold:3902.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5986.0
+Rented ID:sEMA1/STATE:OK/Threshold:4507.0
+Rented ID:sEMA2/STATE:OK/Threshold:4507.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7213.0
+Rented ID:sEMA1/STATE:OK/Threshold:3893.5
+Rented ID:sEMA2/STATE:OK/Threshold:3893.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5981.0
+Rented ID:sEMA1/STATE:OK/Threshold:4509.5
+Rented ID:sEMA2/STATE:OK/Threshold:4509.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7207.0
+Rented ID:sEMA1/STATE:OK/Threshold:3896.5
+Rented ID:sEMA2/STATE:OK/Threshold:3896.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5973.0
+Rented ID:sEMA1/STATE:OK/Threshold:4513.5
+Rented ID:sEMA2/STATE:OK/Threshold:4513.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7201.0
+Rented ID:sEMA1/STATE:OK/Threshold:3899.5
+Rented ID:sEMA2/STATE:OK/Threshold:3899.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5978.0
+Rented ID:sEMA1/STATE:OK/Threshold:4511.0
+Rented ID:sEMA2/STATE:OK/Threshold:4511.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7206.0
+Rented ID:sEMA1/STATE:OK/Threshold:3897.0
+Rented ID:sEMA2/STATE:OK/Threshold:3897.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5985.0
+Rented ID:sEMA1/STATE:OK/Threshold:4507.5
+Rented ID:sEMA2/STATE:OK/Threshold:4507.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7211.0
+Rented ID:sEMA1/STATE:OK/Threshold:3894.5
+Rented ID:sEMA2/STATE:OK/Threshold:3894.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5970.0
+Rented ID:sEMA1/STATE:OK/Threshold:4515.0
+Rented ID:sEMA2/STATE:OK/Threshold:4515.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7202.0
+Rented ID:sEMA1/STATE:OK/Threshold:3899.0
+Rented ID:sEMA2/STATE:OK/Threshold:3899.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5960.0
+Rented ID:sEMA1/STATE:OK/Threshold:4520.0
+Rented ID:sEMA2/STATE:OK/Threshold:4520.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7194.0
+Rented ID:sEMA1/STATE:OK/Threshold:3903.0
+Rented ID:sEMA2/STATE:OK/Threshold:3903.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5833.0
+Rented ID:sEMA1/STATE:OK/Threshold:4583.5
+Rented ID:sEMA2/STATE:OK/Threshold:4583.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7068.0
+Rented ID:sEMA1/STATE:OK/Threshold:3966.0
+Rented ID:sEMA2/STATE:OK/Threshold:3966.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5790.0
+Rented ID:sEMA1/STATE:OK/Threshold:4605.0
+Rented ID:sEMA2/STATE:OK/Threshold:4605.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7029.0
+Rented ID:sEMA1/STATE:OK/Threshold:3985.5
+Rented ID:sEMA2/STATE:OK/Threshold:3985.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5783.0
+Rented ID:sEMA1/STATE:OK/Threshold:4608.5
+Rented ID:sEMA2/STATE:OK/Threshold:4608.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7022.0
+Rented ID:sEMA1/STATE:OK/Threshold:3989.0
+Rented ID:sEMA2/STATE:OK/Threshold:3989.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5789.0
+Rented ID:sEMA1/STATE:OK/Threshold:4605.5
+Rented ID:sEMA2/STATE:OK/Threshold:4605.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7026.0
+Rented ID:sEMA1/STATE:OK/Threshold:3987.0
+Rented ID:sEMA2/STATE:OK/Threshold:3987.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4471.0
+Rented ID:sEMA2/STATE:OK/Threshold:4471.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5557.0
+Rented ID:sEMA1/STATE:OK/Threshold:4721.5
+Rented ID:sEMA2/STATE:OK/Threshold:4721.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5571.0
+Rented ID:sEMA1/STATE:OK/Threshold:4714.5
+Rented ID:sEMA2/STATE:OK/Threshold:4714.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5556.0
+Rented ID:sEMA1/STATE:OK/Threshold:4722.0
+Rented ID:sEMA2/STATE:OK/Threshold:4722.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5540.0
+Rented ID:sEMA1/STATE:OK/Threshold:4730.0
+Rented ID:sEMA2/STATE:OK/Threshold:4730.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5532.0
+Rented ID:sEMA1/STATE:OK/Threshold:4734.0
+Rented ID:sEMA2/STATE:OK/Threshold:4734.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5501.0
+Rented ID:sEMA1/STATE:OK/Threshold:4749.5
+Rented ID:sEMA2/STATE:OK/Threshold:4749.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5491.0
+Rented ID:sEMA1/STATE:OK/Threshold:4754.5
+Rented ID:sEMA2/STATE:OK/Threshold:4754.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5498.0
+Rented ID:sEMA1/STATE:OK/Threshold:4751.0
+Rented ID:sEMA2/STATE:OK/Threshold:4751.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5495.0
+Rented ID:sEMA1/STATE:OK/Threshold:4752.5
+Rented ID:sEMA2/STATE:OK/Threshold:4752.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5487.0
+Rented ID:sEMA1/STATE:OK/Threshold:4756.5
+Rented ID:sEMA2/STATE:OK/Threshold:4756.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6338.0
+Rented ID:sEMA1/STATE:OK/Threshold:4331.0
+Rented ID:sEMA2/STATE:OK/Threshold:4331.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6372.0
+Rented ID:sEMA1/STATE:OK/Threshold:4314.0
+Rented ID:sEMA2/STATE:OK/Threshold:4314.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7609.0
+Rented ID:sEMA1/STATE:OK/Threshold:3695.5
+Rented ID:sEMA2/STATE:OK/Threshold:3695.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5703.0
+Rented ID:sEMA1/STATE:OK/Threshold:4648.5
+Rented ID:sEMA2/STATE:OK/Threshold:4648.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5737.0
+Rented ID:sEMA1/STATE:OK/Threshold:4631.5
+Rented ID:sEMA2/STATE:OK/Threshold:4631.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6972.0
+Rented ID:sEMA1/STATE:OK/Threshold:4014.0
+Rented ID:sEMA2/STATE:OK/Threshold:4014.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5698.0
+Rented ID:sEMA1/STATE:OK/Threshold:4651.0
+Rented ID:sEMA2/STATE:OK/Threshold:4651.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5705.0
+Rented ID:sEMA1/STATE:OK/Threshold:4647.5
+Rented ID:sEMA2/STATE:OK/Threshold:4647.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5712.0
+Rented ID:sEMA1/STATE:OK/Threshold:4644.0
+Rented ID:sEMA2/STATE:OK/Threshold:4644.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5724.0
+Rented ID:sEMA1/STATE:OK/Threshold:4638.0
+Rented ID:sEMA2/STATE:OK/Threshold:4638.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5711.0
+Rented ID:sEMA1/STATE:OK/Threshold:4644.5
+Rented ID:sEMA2/STATE:OK/Threshold:4644.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5706.0
+Rented ID:sEMA1/STATE:OK/Threshold:4647.0
+Rented ID:sEMA2/STATE:OK/Threshold:4647.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5706.0
+Rented ID:sEMA1/STATE:OK/Threshold:4647.0
+Rented ID:sEMA2/STATE:OK/Threshold:4647.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5706.0
+Rented ID:sEMA1/STATE:OK/Threshold:4647.0
+Rented ID:sEMA2/STATE:OK/Threshold:4647.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5700.0
+Rented ID:sEMA1/STATE:OK/Threshold:4650.0
+Rented ID:sEMA2/STATE:OK/Threshold:4650.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5692.0
+Rented ID:sEMA1/STATE:OK/Threshold:4654.0
+Rented ID:sEMA2/STATE:OK/Threshold:4654.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5678.0
+Rented ID:sEMA1/STATE:OK/Threshold:4661.0
+Rented ID:sEMA2/STATE:OK/Threshold:4661.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5684.0
+Rented ID:sEMA1/STATE:OK/Threshold:4658.0
+Rented ID:sEMA2/STATE:OK/Threshold:4658.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5688.0
+Rented ID:sEMA1/STATE:OK/Threshold:4656.0
+Rented ID:sEMA2/STATE:OK/Threshold:4656.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5686.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.0
+Rented ID:sEMA2/STATE:OK/Threshold:4657.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5681.0
+Rented ID:sEMA1/STATE:OK/Threshold:4659.5
+Rented ID:sEMA2/STATE:OK/Threshold:4659.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5691.0
+Rented ID:sEMA1/STATE:OK/Threshold:4654.5
+Rented ID:sEMA2/STATE:OK/Threshold:4654.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5688.0
+Rented ID:sEMA1/STATE:OK/Threshold:4656.0
+Rented ID:sEMA2/STATE:OK/Threshold:4656.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5688.0
+Rented ID:sEMA1/STATE:OK/Threshold:4656.0
+Rented ID:sEMA2/STATE:OK/Threshold:4656.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5689.0
+Rented ID:sEMA1/STATE:OK/Threshold:4655.5
+Rented ID:sEMA2/STATE:OK/Threshold:4655.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5718.0
+Rented ID:sEMA1/STATE:OK/Threshold:4641.0
+Rented ID:sEMA2/STATE:OK/Threshold:4641.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5727.0
+Rented ID:sEMA1/STATE:OK/Threshold:4636.5
+Rented ID:sEMA2/STATE:OK/Threshold:4636.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5680.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.0
+Rented ID:sEMA2/STATE:OK/Threshold:4660.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5683.0
+Rented ID:sEMA1/STATE:OK/Threshold:4658.5
+Rented ID:sEMA2/STATE:OK/Threshold:4658.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5685.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.5
+Rented ID:sEMA2/STATE:OK/Threshold:4657.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5687.0
+Rented ID:sEMA1/STATE:OK/Threshold:4656.5
+Rented ID:sEMA2/STATE:OK/Threshold:4656.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5686.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.0
+Rented ID:sEMA2/STATE:OK/Threshold:4657.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5685.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.5
+Rented ID:sEMA2/STATE:OK/Threshold:4657.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5680.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.0
+Rented ID:sEMA2/STATE:OK/Threshold:4660.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5679.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.5
+Rented ID:sEMA2/STATE:OK/Threshold:4660.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5682.0
+Rented ID:sEMA1/STATE:OK/Threshold:4659.0
+Rented ID:sEMA2/STATE:OK/Threshold:4659.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5679.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.5
+Rented ID:sEMA2/STATE:OK/Threshold:4660.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5676.0
+Rented ID:sEMA1/STATE:OK/Threshold:4662.0
+Rented ID:sEMA2/STATE:OK/Threshold:4662.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5676.0
+Rented ID:sEMA1/STATE:OK/Threshold:4662.0
+Rented ID:sEMA2/STATE:OK/Threshold:4662.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5682.0
+Rented ID:sEMA1/STATE:OK/Threshold:4659.0
+Rented ID:sEMA2/STATE:OK/Threshold:4659.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5669.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.5
+Rented ID:sEMA2/STATE:OK/Threshold:4665.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5670.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.0
+Rented ID:sEMA2/STATE:OK/Threshold:4665.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.5
+Rented ID:sEMA2/STATE:OK/Threshold:4664.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5677.0
+Rented ID:sEMA1/STATE:OK/Threshold:4661.5
+Rented ID:sEMA2/STATE:OK/Threshold:4661.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5672.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.0
+Rented ID:sEMA2/STATE:OK/Threshold:4664.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5670.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.0
+Rented ID:sEMA2/STATE:OK/Threshold:4665.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5673.0
+Rented ID:sEMA1/STATE:OK/Threshold:4663.5
+Rented ID:sEMA2/STATE:OK/Threshold:4663.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.5
+Rented ID:sEMA2/STATE:OK/Threshold:4664.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5664.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.0
+Rented ID:sEMA2/STATE:OK/Threshold:4668.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5670.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.0
+Rented ID:sEMA2/STATE:OK/Threshold:4665.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5679.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.5
+Rented ID:sEMA2/STATE:OK/Threshold:4660.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5669.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.5
+Rented ID:sEMA2/STATE:OK/Threshold:4665.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5657.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.5
+Rented ID:sEMA2/STATE:OK/Threshold:4671.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5663.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.5
+Rented ID:sEMA2/STATE:OK/Threshold:4668.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5679.0
+Rented ID:sEMA1/STATE:OK/Threshold:4660.5
+Rented ID:sEMA2/STATE:OK/Threshold:4660.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5674.0
+Rented ID:sEMA1/STATE:OK/Threshold:4663.0
+Rented ID:sEMA2/STATE:OK/Threshold:4663.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5667.0
+Rented ID:sEMA1/STATE:OK/Threshold:4666.5
+Rented ID:sEMA2/STATE:OK/Threshold:4666.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5659.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.5
+Rented ID:sEMA2/STATE:OK/Threshold:4670.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5668.0
+Rented ID:sEMA1/STATE:OK/Threshold:4666.0
+Rented ID:sEMA2/STATE:OK/Threshold:4666.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5667.0
+Rented ID:sEMA1/STATE:OK/Threshold:4666.5
+Rented ID:sEMA2/STATE:OK/Threshold:4666.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5665.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.5
+Rented ID:sEMA2/STATE:OK/Threshold:4667.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5664.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.0
+Rented ID:sEMA2/STATE:OK/Threshold:4668.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5659.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.5
+Rented ID:sEMA2/STATE:OK/Threshold:4670.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5702.0
+Rented ID:sEMA1/STATE:OK/Threshold:4649.0
+Rented ID:sEMA2/STATE:OK/Threshold:4649.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5703.0
+Rented ID:sEMA1/STATE:OK/Threshold:4648.5
+Rented ID:sEMA2/STATE:OK/Threshold:4648.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5686.0
+Rented ID:sEMA1/STATE:OK/Threshold:4657.0
+Rented ID:sEMA2/STATE:OK/Threshold:4657.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5665.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.5
+Rented ID:sEMA2/STATE:OK/Threshold:4667.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5665.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.5
+Rented ID:sEMA2/STATE:OK/Threshold:4667.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5665.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.5
+Rented ID:sEMA2/STATE:OK/Threshold:4667.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5658.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.0
+Rented ID:sEMA2/STATE:OK/Threshold:4671.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5656.0
+Rented ID:sEMA1/STATE:OK/Threshold:4672.0
+Rented ID:sEMA2/STATE:OK/Threshold:4672.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5657.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.5
+Rented ID:sEMA2/STATE:OK/Threshold:4671.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5659.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.5
+Rented ID:sEMA2/STATE:OK/Threshold:4670.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5660.0
+Rented ID:sEMA1/STATE:OK/Threshold:4670.0
+Rented ID:sEMA2/STATE:OK/Threshold:4670.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5676.0
+Rented ID:sEMA1/STATE:OK/Threshold:4662.0
+Rented ID:sEMA2/STATE:OK/Threshold:4662.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5675.0
+Rented ID:sEMA1/STATE:OK/Threshold:4662.5
+Rented ID:sEMA2/STATE:OK/Threshold:4662.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5666.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.0
+Rented ID:sEMA2/STATE:OK/Threshold:4667.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5668.0
+Rented ID:sEMA1/STATE:OK/Threshold:4666.0
+Rented ID:sEMA2/STATE:OK/Threshold:4666.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.5
+Rented ID:sEMA2/STATE:OK/Threshold:4664.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5663.0
+Rented ID:sEMA1/STATE:OK/Threshold:4668.5
+Rented ID:sEMA2/STATE:OK/Threshold:4668.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5662.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.0
+Rented ID:sEMA2/STATE:OK/Threshold:4669.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5661.0
+Rented ID:sEMA1/STATE:OK/Threshold:4669.5
+Rented ID:sEMA2/STATE:OK/Threshold:4669.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5669.0
+Rented ID:sEMA1/STATE:OK/Threshold:4665.5
+Rented ID:sEMA2/STATE:OK/Threshold:4665.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5671.0
+Rented ID:sEMA1/STATE:OK/Threshold:4664.5
+Rented ID:sEMA2/STATE:OK/Threshold:4664.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5657.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.5
+Rented ID:sEMA2/STATE:OK/Threshold:4671.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5650.0
+Rented ID:sEMA1/STATE:OK/Threshold:4675.0
+Rented ID:sEMA2/STATE:OK/Threshold:4675.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5647.0
+Rented ID:sEMA1/STATE:OK/Threshold:4676.5
+Rented ID:sEMA2/STATE:OK/Threshold:4676.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5658.0
+Rented ID:sEMA1/STATE:OK/Threshold:4671.0
+Rented ID:sEMA2/STATE:OK/Threshold:4671.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5630.0
+Rented ID:sEMA1/STATE:OK/Threshold:4685.0
+Rented ID:sEMA2/STATE:OK/Threshold:4685.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5612.0
+Rented ID:sEMA1/STATE:OK/Threshold:4694.0
+Rented ID:sEMA2/STATE:OK/Threshold:4694.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5614.0
+Rented ID:sEMA1/STATE:OK/Threshold:4693.0
+Rented ID:sEMA2/STATE:OK/Threshold:4693.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5616.0
+Rented ID:sEMA1/STATE:OK/Threshold:4692.0
+Rented ID:sEMA2/STATE:OK/Threshold:4692.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5617.0
+Rented ID:sEMA1/STATE:OK/Threshold:4691.5
+Rented ID:sEMA2/STATE:OK/Threshold:4691.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5619.0
+Rented ID:sEMA1/STATE:OK/Threshold:4690.5
+Rented ID:sEMA2/STATE:OK/Threshold:4690.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5616.0
+Rented ID:sEMA1/STATE:OK/Threshold:4692.0
+Rented ID:sEMA2/STATE:OK/Threshold:4692.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5621.0
+Rented ID:sEMA1/STATE:OK/Threshold:4689.5
+Rented ID:sEMA2/STATE:OK/Threshold:4689.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5620.0
+Rented ID:sEMA1/STATE:OK/Threshold:4690.0
+Rented ID:sEMA2/STATE:OK/Threshold:4690.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5635.0
+Rented ID:sEMA1/STATE:OK/Threshold:4682.5
+Rented ID:sEMA2/STATE:OK/Threshold:4682.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5629.0
+Rented ID:sEMA1/STATE:OK/Threshold:4685.5
+Rented ID:sEMA2/STATE:OK/Threshold:4685.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5626.0
+Rented ID:sEMA1/STATE:OK/Threshold:4687.0
+Rented ID:sEMA2/STATE:OK/Threshold:4687.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5695.0
+Rented ID:sEMA1/STATE:OK/Threshold:4652.5
+Rented ID:sEMA2/STATE:OK/Threshold:4652.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5744.0
+Rented ID:sEMA1/STATE:OK/Threshold:4628.0
+Rented ID:sEMA2/STATE:OK/Threshold:4628.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5830.0
+Rented ID:sEMA1/STATE:OK/Threshold:4585.0
+Rented ID:sEMA2/STATE:OK/Threshold:4585.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5837.0
+Rented ID:sEMA1/STATE:OK/Threshold:4581.5
+Rented ID:sEMA2/STATE:OK/Threshold:4581.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5840.0
+Rented ID:sEMA1/STATE:OK/Threshold:4580.0
+Rented ID:sEMA2/STATE:OK/Threshold:4580.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5852.0
+Rented ID:sEMA1/STATE:OK/Threshold:4574.0
+Rented ID:sEMA2/STATE:OK/Threshold:4574.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5840.0
+Rented ID:sEMA1/STATE:OK/Threshold:4580.0
+Rented ID:sEMA2/STATE:OK/Threshold:4580.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5839.0
+Rented ID:sEMA1/STATE:OK/Threshold:4580.5
+Rented ID:sEMA2/STATE:OK/Threshold:4580.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5836.0
+Rented ID:sEMA1/STATE:OK/Threshold:4582.0
+Rented ID:sEMA2/STATE:OK/Threshold:4582.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5828.0
+Rented ID:sEMA1/STATE:OK/Threshold:4586.0
+Rented ID:sEMA2/STATE:OK/Threshold:4586.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5831.0
+Rented ID:sEMA1/STATE:OK/Threshold:4584.5
+Rented ID:sEMA2/STATE:OK/Threshold:4584.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5823.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.5
+Rented ID:sEMA2/STATE:OK/Threshold:4588.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5822.0
+Rented ID:sEMA1/STATE:OK/Threshold:4589.0
+Rented ID:sEMA2/STATE:OK/Threshold:4589.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5821.0
+Rented ID:sEMA1/STATE:OK/Threshold:4589.5
+Rented ID:sEMA2/STATE:OK/Threshold:4589.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5823.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.5
+Rented ID:sEMA2/STATE:OK/Threshold:4588.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5822.0
+Rented ID:sEMA1/STATE:OK/Threshold:4589.0
+Rented ID:sEMA2/STATE:OK/Threshold:4589.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5818.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.0
+Rented ID:sEMA2/STATE:OK/Threshold:4591.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5815.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.5
+Rented ID:sEMA2/STATE:OK/Threshold:4592.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5823.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.5
+Rented ID:sEMA2/STATE:OK/Threshold:4588.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5832.0
+Rented ID:sEMA1/STATE:OK/Threshold:4584.0
+Rented ID:sEMA2/STATE:OK/Threshold:4584.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5824.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.0
+Rented ID:sEMA2/STATE:OK/Threshold:4588.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5821.0
+Rented ID:sEMA1/STATE:OK/Threshold:4589.5
+Rented ID:sEMA2/STATE:OK/Threshold:4589.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5817.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.5
+Rented ID:sEMA2/STATE:OK/Threshold:4591.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5810.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.0
+Rented ID:sEMA2/STATE:OK/Threshold:4595.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5810.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.0
+Rented ID:sEMA2/STATE:OK/Threshold:4595.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5813.0
+Rented ID:sEMA1/STATE:OK/Threshold:4593.5
+Rented ID:sEMA2/STATE:OK/Threshold:4593.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5819.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.5
+Rented ID:sEMA2/STATE:OK/Threshold:4590.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5819.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.5
+Rented ID:sEMA2/STATE:OK/Threshold:4590.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5817.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.5
+Rented ID:sEMA2/STATE:OK/Threshold:4591.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5818.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.0
+Rented ID:sEMA2/STATE:OK/Threshold:4591.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5815.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.5
+Rented ID:sEMA2/STATE:OK/Threshold:4592.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5810.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.0
+Rented ID:sEMA2/STATE:OK/Threshold:4595.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5817.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.5
+Rented ID:sEMA2/STATE:OK/Threshold:4591.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5820.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.0
+Rented ID:sEMA2/STATE:OK/Threshold:4590.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5821.0
+Rented ID:sEMA1/STATE:OK/Threshold:4589.5
+Rented ID:sEMA2/STATE:OK/Threshold:4589.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5819.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.5
+Rented ID:sEMA2/STATE:OK/Threshold:4590.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5818.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.0
+Rented ID:sEMA2/STATE:OK/Threshold:4591.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5818.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.0
+Rented ID:sEMA2/STATE:OK/Threshold:4591.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5820.0
+Rented ID:sEMA1/STATE:OK/Threshold:4590.0
+Rented ID:sEMA2/STATE:OK/Threshold:4590.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5810.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.0
+Rented ID:sEMA2/STATE:OK/Threshold:4595.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5814.0
+Rented ID:sEMA1/STATE:OK/Threshold:4593.0
+Rented ID:sEMA2/STATE:OK/Threshold:4593.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5812.0
+Rented ID:sEMA1/STATE:OK/Threshold:4594.0
+Rented ID:sEMA2/STATE:OK/Threshold:4594.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5809.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.5
+Rented ID:sEMA2/STATE:OK/Threshold:4595.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5808.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.0
+Rented ID:sEMA2/STATE:OK/Threshold:4596.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5813.0
+Rented ID:sEMA1/STATE:OK/Threshold:4593.5
+Rented ID:sEMA2/STATE:OK/Threshold:4593.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5812.0
+Rented ID:sEMA1/STATE:OK/Threshold:4594.0
+Rented ID:sEMA2/STATE:OK/Threshold:4594.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5800.0
+Rented ID:sEMA1/STATE:OK/Threshold:4600.0
+Rented ID:sEMA2/STATE:OK/Threshold:4600.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5801.0
+Rented ID:sEMA1/STATE:OK/Threshold:4599.5
+Rented ID:sEMA2/STATE:OK/Threshold:4599.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5802.0
+Rented ID:sEMA1/STATE:OK/Threshold:4599.0
+Rented ID:sEMA2/STATE:OK/Threshold:4599.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5805.0
+Rented ID:sEMA1/STATE:OK/Threshold:4597.5
+Rented ID:sEMA2/STATE:OK/Threshold:4597.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5814.0
+Rented ID:sEMA1/STATE:OK/Threshold:4593.0
+Rented ID:sEMA2/STATE:OK/Threshold:4593.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5817.0
+Rented ID:sEMA1/STATE:OK/Threshold:4591.5
+Rented ID:sEMA2/STATE:OK/Threshold:4591.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5815.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.5
+Rented ID:sEMA2/STATE:OK/Threshold:4592.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5809.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.5
+Rented ID:sEMA2/STATE:OK/Threshold:4595.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5816.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.0
+Rented ID:sEMA2/STATE:OK/Threshold:4592.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5815.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.5
+Rented ID:sEMA2/STATE:OK/Threshold:4592.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5815.0
+Rented ID:sEMA1/STATE:OK/Threshold:4592.5
+Rented ID:sEMA2/STATE:OK/Threshold:4592.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5806.0
+Rented ID:sEMA1/STATE:OK/Threshold:4597.0
+Rented ID:sEMA2/STATE:OK/Threshold:4597.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5803.0
+Rented ID:sEMA1/STATE:OK/Threshold:4598.5
+Rented ID:sEMA2/STATE:OK/Threshold:4598.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5798.0
+Rented ID:sEMA1/STATE:OK/Threshold:4601.0
+Rented ID:sEMA2/STATE:OK/Threshold:4601.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5803.0
+Rented ID:sEMA1/STATE:OK/Threshold:4598.5
+Rented ID:sEMA2/STATE:OK/Threshold:4598.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5802.0
+Rented ID:sEMA1/STATE:OK/Threshold:4599.0
+Rented ID:sEMA2/STATE:OK/Threshold:4599.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5798.0
+Rented ID:sEMA1/STATE:OK/Threshold:4601.0
+Rented ID:sEMA2/STATE:OK/Threshold:4601.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5810.0
+Rented ID:sEMA1/STATE:OK/Threshold:4595.0
+Rented ID:sEMA2/STATE:OK/Threshold:4595.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5811.0
+Rented ID:sEMA1/STATE:OK/Threshold:4594.5
+Rented ID:sEMA2/STATE:OK/Threshold:4594.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5799.0
+Rented ID:sEMA1/STATE:OK/Threshold:4600.5
+Rented ID:sEMA2/STATE:OK/Threshold:4600.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5801.0
+Rented ID:sEMA1/STATE:OK/Threshold:4599.5
+Rented ID:sEMA2/STATE:OK/Threshold:4599.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5846.0
+Rented ID:sEMA1/STATE:OK/Threshold:4577.0
+Rented ID:sEMA2/STATE:OK/Threshold:4577.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5843.0
+Rented ID:sEMA1/STATE:OK/Threshold:4578.5
+Rented ID:sEMA2/STATE:OK/Threshold:4578.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5847.0
+Rented ID:sEMA1/STATE:OK/Threshold:4576.5
+Rented ID:sEMA2/STATE:OK/Threshold:4576.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5824.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.0
+Rented ID:sEMA2/STATE:OK/Threshold:4588.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5806.0
+Rented ID:sEMA1/STATE:OK/Threshold:4597.0
+Rented ID:sEMA2/STATE:OK/Threshold:4597.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5806.0
+Rented ID:sEMA1/STATE:OK/Threshold:4597.0
+Rented ID:sEMA2/STATE:OK/Threshold:4597.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5803.0
+Rented ID:sEMA1/STATE:OK/Threshold:4598.5
+Rented ID:sEMA2/STATE:OK/Threshold:4598.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5824.0
+Rented ID:sEMA1/STATE:OK/Threshold:4588.0
+Rented ID:sEMA2/STATE:OK/Threshold:4588.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5807.0
+Rented ID:sEMA1/STATE:OK/Threshold:4596.5
+Rented ID:sEMA2/STATE:OK/Threshold:4596.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5094.0
+Rented ID:sEMA1/STATE:OK/Threshold:4953.0
+Rented ID:sEMA2/STATE:OK/Threshold:4953.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6261.0
+Rented ID:sEMA1/STATE:OK/Threshold:4369.5
+Rented ID:sEMA2/STATE:OK/Threshold:4369.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5438.0
+Rented ID:sEMA1/STATE:OK/Threshold:4781.0
+Rented ID:sEMA2/STATE:OK/Threshold:4781.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5665.0
+Rented ID:sEMA1/STATE:OK/Threshold:4667.5
+Rented ID:sEMA2/STATE:OK/Threshold:4667.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6837.0
+Rented ID:sEMA1/STATE:OK/Threshold:4081.5
+Rented ID:sEMA2/STATE:OK/Threshold:4081.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6012.0
+Rented ID:sEMA1/STATE:OK/Threshold:4494.0
+Rented ID:sEMA2/STATE:OK/Threshold:4494.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6239.0
+Rented ID:sEMA1/STATE:OK/Threshold:4380.5
+Rented ID:sEMA2/STATE:OK/Threshold:4380.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7413.0
+Rented ID:sEMA1/STATE:OK/Threshold:3793.5
+Rented ID:sEMA2/STATE:OK/Threshold:3793.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6017.0
+Rented ID:sEMA1/STATE:OK/Threshold:4491.5
+Rented ID:sEMA2/STATE:OK/Threshold:4491.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6246.0
+Rented ID:sEMA1/STATE:OK/Threshold:4377.0
+Rented ID:sEMA2/STATE:OK/Threshold:4377.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7418.0
+Rented ID:sEMA1/STATE:OK/Threshold:3791.0
+Rented ID:sEMA2/STATE:OK/Threshold:3791.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6024.0
+Rented ID:sEMA1/STATE:OK/Threshold:4488.0
+Rented ID:sEMA2/STATE:OK/Threshold:4488.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6253.0
+Rented ID:sEMA1/STATE:OK/Threshold:4373.5
+Rented ID:sEMA2/STATE:OK/Threshold:4373.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7426.0
+Rented ID:sEMA1/STATE:OK/Threshold:3787.0
+Rented ID:sEMA2/STATE:OK/Threshold:3787.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6031.0
+Rented ID:sEMA1/STATE:OK/Threshold:4484.5
+Rented ID:sEMA2/STATE:OK/Threshold:4484.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6260.0
+Rented ID:sEMA1/STATE:OK/Threshold:4370.0
+Rented ID:sEMA2/STATE:OK/Threshold:4370.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7430.0
+Rented ID:sEMA1/STATE:OK/Threshold:3785.0
+Rented ID:sEMA2/STATE:OK/Threshold:3785.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6021.0
+Rented ID:sEMA1/STATE:OK/Threshold:4489.5
+Rented ID:sEMA2/STATE:OK/Threshold:4489.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6250.0
+Rented ID:sEMA1/STATE:OK/Threshold:4375.0
+Rented ID:sEMA2/STATE:OK/Threshold:4375.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7419.0
+Rented ID:sEMA1/STATE:OK/Threshold:3790.5
+Rented ID:sEMA2/STATE:OK/Threshold:3790.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6006.0
+Rented ID:sEMA1/STATE:OK/Threshold:4497.0
+Rented ID:sEMA2/STATE:OK/Threshold:4497.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6235.0
+Rented ID:sEMA1/STATE:OK/Threshold:4382.5
+Rented ID:sEMA2/STATE:OK/Threshold:4382.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7404.0
+Rented ID:sEMA1/STATE:OK/Threshold:3798.0
+Rented ID:sEMA2/STATE:OK/Threshold:3798.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6019.0
+Rented ID:sEMA1/STATE:OK/Threshold:4490.5
+Rented ID:sEMA2/STATE:OK/Threshold:4490.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6247.0
+Rented ID:sEMA1/STATE:OK/Threshold:4376.5
+Rented ID:sEMA2/STATE:OK/Threshold:4376.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7419.0
+Rented ID:sEMA1/STATE:OK/Threshold:3790.5
+Rented ID:sEMA2/STATE:OK/Threshold:3790.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6013.0
+Rented ID:sEMA1/STATE:OK/Threshold:4493.5
+Rented ID:sEMA2/STATE:OK/Threshold:4493.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6242.0
+Rented ID:sEMA1/STATE:OK/Threshold:4379.0
+Rented ID:sEMA2/STATE:OK/Threshold:4379.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7411.0
+Rented ID:sEMA1/STATE:OK/Threshold:3794.5
+Rented ID:sEMA2/STATE:OK/Threshold:3794.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6022.0
+Rented ID:sEMA1/STATE:OK/Threshold:4489.0
+Rented ID:sEMA2/STATE:OK/Threshold:4489.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6250.0
+Rented ID:sEMA1/STATE:OK/Threshold:4375.0
+Rented ID:sEMA2/STATE:OK/Threshold:4375.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7418.0
+Rented ID:sEMA1/STATE:OK/Threshold:3791.0
+Rented ID:sEMA2/STATE:OK/Threshold:3791.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6032.0
+Rented ID:sEMA1/STATE:OK/Threshold:4484.0
+Rented ID:sEMA2/STATE:OK/Threshold:4484.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6260.0
+Rented ID:sEMA1/STATE:OK/Threshold:4370.0
+Rented ID:sEMA2/STATE:OK/Threshold:4370.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7429.0
+Rented ID:sEMA1/STATE:OK/Threshold:3785.5
+Rented ID:sEMA2/STATE:OK/Threshold:3785.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6053.0
+Rented ID:sEMA1/STATE:OK/Threshold:4473.5
+Rented ID:sEMA2/STATE:OK/Threshold:4473.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6282.0
+Rented ID:sEMA1/STATE:OK/Threshold:4359.0
+Rented ID:sEMA2/STATE:OK/Threshold:4359.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7449.0
+Rented ID:sEMA1/STATE:OK/Threshold:3775.5
+Rented ID:sEMA2/STATE:OK/Threshold:3775.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6069.0
+Rented ID:sEMA1/STATE:OK/Threshold:4465.5
+Rented ID:sEMA2/STATE:OK/Threshold:4465.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6298.0
+Rented ID:sEMA1/STATE:OK/Threshold:4351.0
+Rented ID:sEMA2/STATE:OK/Threshold:4351.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7466.0
+Rented ID:sEMA1/STATE:OK/Threshold:3767.0
+Rented ID:sEMA2/STATE:OK/Threshold:3767.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6059.0
+Rented ID:sEMA1/STATE:OK/Threshold:4470.5
+Rented ID:sEMA2/STATE:OK/Threshold:4470.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6287.0
+Rented ID:sEMA1/STATE:OK/Threshold:4356.5
+Rented ID:sEMA2/STATE:OK/Threshold:4356.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7450.0
+Rented ID:sEMA1/STATE:OK/Threshold:3775.0
+Rented ID:sEMA2/STATE:OK/Threshold:3775.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6040.0
+Rented ID:sEMA1/STATE:OK/Threshold:4480.0
+Rented ID:sEMA2/STATE:OK/Threshold:4480.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6268.0
+Rented ID:sEMA1/STATE:OK/Threshold:4366.0
+Rented ID:sEMA2/STATE:OK/Threshold:4366.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7433.0
+Rented ID:sEMA1/STATE:OK/Threshold:3783.5
+Rented ID:sEMA2/STATE:OK/Threshold:3783.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6187.0
+Rented ID:sEMA1/STATE:OK/Threshold:4406.5
+Rented ID:sEMA2/STATE:OK/Threshold:4406.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6415.0
+Rented ID:sEMA1/STATE:OK/Threshold:4292.5
+Rented ID:sEMA2/STATE:OK/Threshold:4292.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7579.0
+Rented ID:sEMA1/STATE:OK/Threshold:3710.5
+Rented ID:sEMA2/STATE:OK/Threshold:3710.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6058.0
+Rented ID:sEMA1/STATE:OK/Threshold:4471.0
+Rented ID:sEMA2/STATE:OK/Threshold:4471.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6285.0
+Rented ID:sEMA1/STATE:OK/Threshold:4357.5
+Rented ID:sEMA2/STATE:OK/Threshold:4357.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7455.0
+Rented ID:sEMA1/STATE:OK/Threshold:3772.5
+Rented ID:sEMA2/STATE:OK/Threshold:3772.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6010.0
+Rented ID:sEMA1/STATE:OK/Threshold:4495.0
+Rented ID:sEMA2/STATE:OK/Threshold:4495.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6237.0
+Rented ID:sEMA1/STATE:OK/Threshold:4381.5
+Rented ID:sEMA2/STATE:OK/Threshold:4381.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7405.0
+Rented ID:sEMA1/STATE:OK/Threshold:3797.5
+Rented ID:sEMA2/STATE:OK/Threshold:3797.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6016.0
+Rented ID:sEMA1/STATE:OK/Threshold:4492.0
+Rented ID:sEMA2/STATE:OK/Threshold:4492.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6243.0
+Rented ID:sEMA1/STATE:OK/Threshold:4378.5
+Rented ID:sEMA2/STATE:OK/Threshold:4378.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7408.0
+Rented ID:sEMA1/STATE:OK/Threshold:3796.0
+Rented ID:sEMA2/STATE:OK/Threshold:3796.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6013.0
+Rented ID:sEMA1/STATE:OK/Threshold:4493.5
+Rented ID:sEMA2/STATE:OK/Threshold:4493.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6240.0
+Rented ID:sEMA1/STATE:OK/Threshold:4380.0
+Rented ID:sEMA2/STATE:OK/Threshold:4380.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7405.0
+Rented ID:sEMA1/STATE:OK/Threshold:3797.5
+Rented ID:sEMA2/STATE:OK/Threshold:3797.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6008.0
+Rented ID:sEMA1/STATE:OK/Threshold:4496.0
+Rented ID:sEMA2/STATE:OK/Threshold:4496.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6235.0
+Rented ID:sEMA1/STATE:OK/Threshold:4382.5
+Rented ID:sEMA2/STATE:OK/Threshold:4382.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7402.0
+Rented ID:sEMA1/STATE:OK/Threshold:3799.0
+Rented ID:sEMA2/STATE:OK/Threshold:3799.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6013.0
+Rented ID:sEMA1/STATE:OK/Threshold:4493.5
+Rented ID:sEMA2/STATE:OK/Threshold:4493.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6241.0
+Rented ID:sEMA1/STATE:OK/Threshold:4379.5
+Rented ID:sEMA2/STATE:OK/Threshold:4379.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7411.0
+Rented ID:sEMA1/STATE:OK/Threshold:3794.5
+Rented ID:sEMA2/STATE:OK/Threshold:3794.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5997.0
+Rented ID:sEMA1/STATE:OK/Threshold:4501.5
+Rented ID:sEMA2/STATE:OK/Threshold:4501.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6226.0
+Rented ID:sEMA1/STATE:OK/Threshold:4387.0
+Rented ID:sEMA2/STATE:OK/Threshold:4387.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7394.0
+Rented ID:sEMA1/STATE:OK/Threshold:3803.0
+Rented ID:sEMA2/STATE:OK/Threshold:3803.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5997.0
+Rented ID:sEMA1/STATE:OK/Threshold:4501.5
+Rented ID:sEMA2/STATE:OK/Threshold:4501.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6223.0
+Rented ID:sEMA1/STATE:OK/Threshold:4388.5
+Rented ID:sEMA2/STATE:OK/Threshold:4388.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7389.0
+Rented ID:sEMA1/STATE:OK/Threshold:3805.5
+Rented ID:sEMA2/STATE:OK/Threshold:3805.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5992.0
+Rented ID:sEMA1/STATE:OK/Threshold:4504.0
+Rented ID:sEMA2/STATE:OK/Threshold:4504.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6220.0
+Rented ID:sEMA1/STATE:OK/Threshold:4390.0
+Rented ID:sEMA2/STATE:OK/Threshold:4390.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7386.0
+Rented ID:sEMA1/STATE:OK/Threshold:3807.0
+Rented ID:sEMA2/STATE:OK/Threshold:3807.0
+ID:sEMA3/STATE:ACCEPT/Threshold:5995.0
+Rented ID:sEMA1/STATE:OK/Threshold:4502.5
+Rented ID:sEMA2/STATE:OK/Threshold:4502.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6222.0
+Rented ID:sEMA1/STATE:OK/Threshold:4389.0
+Rented ID:sEMA2/STATE:OK/Threshold:4389.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7385.0
+Rented ID:sEMA1/STATE:OK/Threshold:3807.5
+Rented ID:sEMA2/STATE:OK/Threshold:3807.5
+ID:sEMA3/STATE:ACCEPT/Threshold:5995.0
+Rented ID:sEMA1/STATE:OK/Threshold:4502.5
+Rented ID:sEMA2/STATE:OK/Threshold:4502.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6222.0
+Rented ID:sEMA1/STATE:OK/Threshold:4389.0
+Rented ID:sEMA2/STATE:OK/Threshold:4389.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7385.0
+Rented ID:sEMA1/STATE:OK/Threshold:3807.5
+Rented ID:sEMA2/STATE:OK/Threshold:3807.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6209.0
+Rented ID:sEMA1/STATE:OK/Threshold:4395.5
+Rented ID:sEMA2/STATE:OK/Threshold:4395.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6434.0
+Rented ID:sEMA1/STATE:OK/Threshold:4283.0
+Rented ID:sEMA2/STATE:OK/Threshold:4283.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7595.0
+Rented ID:sEMA1/STATE:OK/Threshold:3702.5
+Rented ID:sEMA2/STATE:OK/Threshold:3702.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6207.0
+Rented ID:sEMA1/STATE:OK/Threshold:4396.5
+Rented ID:sEMA2/STATE:OK/Threshold:4396.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6433.0
+Rented ID:sEMA1/STATE:OK/Threshold:4283.5
+Rented ID:sEMA2/STATE:OK/Threshold:4283.5
+ID:sEMA3/STATE:ACCEPT/Threshold:7596.0
+Rented ID:sEMA1/STATE:OK/Threshold:3702.0
+Rented ID:sEMA2/STATE:OK/Threshold:3702.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6209.0
+Rented ID:sEMA1/STATE:OK/Threshold:4395.5
+Rented ID:sEMA2/STATE:OK/Threshold:4395.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6434.0
+Rented ID:sEMA1/STATE:OK/Threshold:4283.0
+Rented ID:sEMA2/STATE:OK/Threshold:4283.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7597.0
+Rented ID:sEMA1/STATE:OK/Threshold:3701.5
+Rented ID:sEMA2/STATE:OK/Threshold:3701.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6218.0
+Rented ID:sEMA1/STATE:OK/Threshold:4391.0
+Rented ID:sEMA2/STATE:OK/Threshold:4391.0
+ID:sEMA3/STATE:ACCEPT/Threshold:6440.0
+Rented ID:sEMA1/STATE:OK/Threshold:4280.0
+Rented ID:sEMA2/STATE:OK/Threshold:4280.0
+ID:sEMA3/STATE:ACCEPT/Threshold:7605.0
+Rented ID:sEMA1/STATE:OK/Threshold:3697.5
+Rented ID:sEMA2/STATE:OK/Threshold:3697.5
+ID:sEMA3/STATE:ACCEPT/Threshold:6043.0
+Rented ID:sEMA1/STATE:OK/Threshold:4478.5
+Rented ID:sEMA2/STATE:OK/Threshold:4478.5

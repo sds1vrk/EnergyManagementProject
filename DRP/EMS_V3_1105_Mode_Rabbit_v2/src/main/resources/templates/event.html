@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+<link rel="stylesheet"
+	href="https://fonts.googleapis.com/css?family=Raleway" />
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<style>
+html, body, h1, h2, h3, h4, h5 {
+	font-family: "Raleway", sans-serif
+}
+</style>
+<body class="w3-light-grey">
+
+	<!-- Top container -->
+	<div class="w3-bar w3-top w3-black w3-large" style="z-index: 4">
+		<button
+			class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey"
+			onclick="w3_open();">
+			<i class="fa fa-bars"></i> Menu
+		</button>
+		<span class="w3-bar-item w3-right">MIR LAB, HANYANG UNIVERSITY</span>
+	</div>
+
+	<!-- Sidebar/menu -->
+	<nav class="w3-sidebar w3-collapse w3-white w3-animate-left"
+		style="z-index: 3; width: 300px;" id="mySidebar">
+		<br />
+		<div class="w3-container w3-row">
+			<div class="w3-col s4">
+				<img src="/w3images/avatar2.png" class="w3-circle w3-margin-right"
+					style="width: 46px" />
+			</div>
+			<div class="w3-col s8 w3-bar">
+				<span>Welcome, <strong id="loginID">Admin</strong></span><br /> <a
+					href="#" class="w3-bar-item w3-button"><i
+					class="fa fa-envelope"></i></a> <a href="#"
+					class="w3-bar-item w3-button"><i class="fa fa-user"></i></a> <a
+					href="#" class="w3-bar-item w3-button"><i class="fa fa-cog"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="w3-container">
+			<h5>Dashboard</h5>
+		</div>
+		<div class="w3-bar-block">
+			<a href="#"
+				class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black"
+				onclick="w3_close()" title="close menu"><i
+				class="fa fa-remove fa-fw"></i> Close Menu</a> <a href="index.html"
+				class="w3-bar-item w3-button w3-padding"><i
+				class="fa fa-users fa-fw"></i> Overview</a> <a href="#"
+				class="w3-bar-item w3-button w3-padding"><i
+				class="fa fa-eye fa-fw"></i> VEN</a> <a href="#"
+				class="w3-bar-item w3-button w3-padding w3-blue"><i
+				class="fa fa-users fa-fw"></i> Event</a> <a href="#"
+				class="w3-bar-item w3-button w3-padding"><i
+				class="fa fa-bullseye fa-fw"></i> Report</a> <a href="#"
+				class="w3-bar-item w3-button w3-padding"><i
+				class="fa fa-history fa-fw"></i> Schedule</a> <a href="#"
+				class="w3-bar-item w3-button w3-padding"><i
+				class="fa fa-cog fa-fw"></i> Settings</a><br /> <br />
+		</div>
+	</nav>
+
+	<!-- Overlay effect when opening sidebar on small screens -->
+	<div class="w3-overlay w3-hide-large w3-animate-opacity"
+		onclick="w3_close()" style="cursor: pointer" title="close side menu"
+		id="myOverlay"></div>
+
+
+	<!-- !PAGE CONTENT! -->
+	<div class="w3-main" style="margin-left: 300px; margin-top: 43px;">
+
+		<!-- Header -->
+		<header class="w3-container" style="padding-top: 22px">
+			<h5>
+				<b><i class="fa fa-dashboard"></i> Event</b>
+			</h5>
+		</header>
+		<form accept-charset="UTF-8" action="/events" class="new_event"
+			id="new_event" method="post">
+			<div style="margin: 0; padding: 0; display: inline">
+				<input name="utf8" type="hidden" value="&#x2713;" /><input
+					name="authenticity_token" type="hidden"
+					value="Gt2N3ZOeodr+JnBAwcFM2EnroNd3dVCA98+JxHFBSzo=" />
+			</div>
+
+
+			<div class="form">
+				<fieldset>
+					<h3 class="fieldset-heading">Event Target</h3>
+
+					<div class="row">
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Start Time">VEN ID</label><br /> <input
+									class="form-control" id="venID" name="event[venID]" size="20"
+									title="venID" type="text" value="" />
+							</div>
+						</div>
+					</div>
+				</fieldset>
+			</div>
+
+
+			<div class="form">
+				<fieldset>
+					<h3 class="fieldset-heading">Event Details</h3>
+
+					<div class="row">
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Start Time">Start Time</label><br /> <input
+									class="form-control" id="event_dtstart_str"
+									name="event[dtstart_str]" size="20" title="start time of event"
+									type="text" value="2018-08-07 18:51:16 KST" />
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Duration (minutes)">Duration (minutes)</label><br />
+								<input class="form-control" id="event_duration"
+									name="event[duration]" size="20"
+									title="duration of event (minutes)" type="text" />
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Market Context ID">Market Context ID</label><br />
+								<select class="form-control " id="event_market_context_id"
+									name="event[market_context_id]" title="DR program"><option
+										value="http://MarketContext1">http://MarketContext1</option>
+									<option value="http://MarketContext2">http://MarketContext2</option></select>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Priority">Priority</label><br /> <input
+									class="form-control" id="event_priority" name="event[priority]"
+									size="20"
+									title="determines which event takes precedence if events overlap (0 is highest)"
+									type="text" value="0" />
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Response Required">Response Required</label><br />
+								<select class="form-control "
+									id="event_response_required_type_id"
+									name="event[response_required_type_id]"
+									title="always: ven must opt in or out, never: ven must not opt"><option
+										value="always">always</option>
+									<option value="never">never</option></select>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_VTN Comment">VTN Comment</label><br /> <input
+									class="form-control" id="event_vtn_comment"
+									name="event[vtn_comment]" size="20" title="optional comment"
+									type="text" />
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Test Event">Test Event</label><br /> <input
+									class="form-control" id="event_test_event"
+									name="event[test_event]" size="20"
+									title="set to &#x27;false&#x27; if NOT a test event"
+									type="text" value="false" />
+							</div>
+						</div>
+					</div>
+				</fieldset>
+			</div>
+
+			<div class="form">
+				<fieldset>
+					<h3 class="fieldset-heading">Event Signal and Interval</h3>
+
+					<div class="row">
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Signal Name">Signal Name</label><br /> <select
+									class="form-control " id="event_signal_name_id"
+									name="event[signal_name_id]"
+									title="determines how signal is interpreted"><option
+										value="simple">simple</option>
+									<option value="SIMPLE">SIMPLE</option>
+									<option value="ELECTRICITY_PRICE">ELECTRICITY_PRICE</option>
+									<option value="ENERGY_PRICE">ENERGY_PRICE</option>
+									<option value="DEMAND_CHARGE">DEMAND_CHARGE</option>
+									<option value="BID_PRICE">BID_PRICE</option>
+									<option value="BID_LOAD">BID_LOAD</option>
+									<option value="BID_ENERGY">BID_ENERGY</option>
+									<option value="CHARGE_STATE">CHARGE_STATE</option>
+									<option value="LOAD_DISPATCH">LOAD_DISPATCH</option>
+									<option value="LOAD_CONTROL">LOAD_CONTROL</option></select>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Signal Type">Signal Type</label><br /> <select
+									class="form-control " id="event_signal_type_id"
+									name="event[signal_type_id]"
+									title="determines how signal is interpreted"><option
+										value="delta">delta</option>
+									<option value="level">level</option>
+									<option value="multiplier">multiplier</option>
+									<option value="price">price</option>
+									<option value="priceMultiplier">priceMultiplier</option>
+									<option value="priceRelative">priceRelative</option>
+									<option value="product">product</option>
+									<option value="setpoint">setpoint</option>
+									<option value="x-LoadControlCapacity">x-LoadControlCapacity</option>
+									<option value="x-LoadControlOffset">x-LoadControlOffset</option>
+									<option value="x-LoadControlSetpoint">x-LoadControlSetpoint</option>
+									<option value="x-LoadControlPercentOffset">x-LoadControlPercentOffset</option></select>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label for="event_Payload Value">Payload Value</label><br /> <input
+									class="form-control" id="event_payload_value"
+									name="event[payload_value]" size="20" title="payload value"
+									type="number" />
+							</div>
+						</div>
+					</div>
+				</fieldset>
+			</div>
+			<div class="w3-container">
+				<br/>
+				<div class="actions">
+					<input class="w3-button w3-dark-grey" name="commit2" type="submit"
+						value="Create Event" />
+				</div>
+			</div>
+		</form>
+		<!-- Footer -->
+		<footer class="w3-container w3-padding-16 w3-light-grey">
+			<h4>MIR LAB Virtual Top Node</h4>
+			<p>
+				Copyright &copy; 2016. <a href="http://mir.hanyang.ac.kr"
+					target="_blank">MIR Lab</a> All rights reserved.
+			</p>
+		</footer>
+
+		<!-- End page content -->
+	</div>
+
+	<script>
+		// Get the Sidebar
+		var mySidebar = document.getElementById("mySidebar");
+
+		// Get the DIV with overlay effect
+		var overlayBg = document.getElementById("myOverlay");
+
+		// Toggle between showing and hiding the sidebar, and add overlay effect
+		function w3_open() {
+			if (mySidebar.style.display === 'block') {
+				mySidebar.style.display = 'none';
+				overlayBg.style.display = "none";
+			} else {
+				mySidebar.style.display = 'block';
+				overlayBg.style.display = "block";
+			}
+		}
+
+		// Close the sidebar with the close button
+		function w3_close() {
+			mySidebar.style.display = "none";
+			overlayBg.style.display = "none";
+		}
+	</script>
+
+</body>
+</html>

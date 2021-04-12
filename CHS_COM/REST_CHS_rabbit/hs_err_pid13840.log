@@ -1,0 +1,948 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000006d997417, pid=13840, tid=0x0000000000005a48
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_181-b13) (build 1.8.0_181-b13)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.181-b13 mixed mode windows-amd64 compressed oops)
+# Problematic frame:
+# C  [nio.dll+0x7417]
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000002fd6d800):  JavaThread "nioEventLoopGroup-897-14" [_thread_in_native, id=23112, stack(0x000000005d890000,0x000000005d990000)]
+
+siginfo: ExceptionCode=0xc0000005, writing address 0x000000005d981000
+
+Registers:
+RAX=0x000000000000d0e0, RBX=0x00000000e376c3e1, RCX=0x000000002fd6d9f8, RDX=0x000000005d98eb80
+RSP=0x000000005d98eae8, RBP=0x000000005d981b20, RSI=0x000000071bb62f40, RDI=0x000000071bb61f28
+R8 =0x0000000047c26000, R9 =0x0000000000000001, R10=0x000000005d981000, R11=0x000000005d981000
+R12=0x0000000000000000, R13=0x00000000e376cb1b, R14=0x000000071bb658d8, R15=0x000000002fd6d800
+RIP=0x000000006d997417, EFLAGS=0x0000000000010287
+
+Top of Stack: (sp=0x000000005d98eae8)
+0x000000005d98eae8:   0000000003b12e12 00000000e376c7eb
+0x000000005d98eaf8:   000000006d996db2 000000002fd6d800
+0x000000005d98eb08:   000000071bb658d8 00000000e376cb1b
+0x000000005d98eb18:   0000000000000000 000000071bb61f28
+0x000000005d98eb28:   000000071bb62f40 000000005d98ebc0
+0x000000005d98eb38:   0000000003b12e90 00000007c03cbc08
+0x000000005d98eb48:   00000000e376c3e1 000000071bf20b20
+0x000000005d98eb58:   0000000000000000 000000005d98eb98
+0x000000005d98eb68:   000000005d98eba0 000000005d98eba8
+0x000000005d98eb78:   0000000000000000 000000071bb61f08
+0x000000005d98eb88:   00000007c03cbc08 000000071bb669c0
+0x000000005d98eb98:   000000071bb61f28 000000071bb62f40
+0x000000005d98eba8:   000000071bb63f58 0000000000000000
+0x000000005d98ebb8:   0000000000000000 000000071bb61d10
+0x000000005d98ebc8:   0000000003e4ebec 0000000000000000
+0x000000005d98ebd8:   000000071bb61e60 000000071bb61d10 
+
+Instructions: (pc=0x000000006d997417)
+0x000000006d9973f7:   d0 4d 0f 42 d3 65 4c 8b 1c 25 10 00 00 00 4d 3b
+0x000000006d997407:   d3 73 16 66 41 81 e2 00 f0 4d 8d 9b 00 f0 ff ff
+0x000000006d997417:   41 c6 03 00 4d 3b d3 75 f0 4c 8b 14 24 4c 8b 5c
+0x000000006d997427:   24 08 48 83 c4 10 c3 cc cc 40 53 48 83 ec 20 b9 
+
+
+Register to memory mapping:
+
+RAX=0x000000000000d0e0 is an unknown value
+RBX=0x00000000e376c3e1 is an unknown value
+RCX=0x000000002fd6d9f8 is an unknown value
+RDX=0x000000005d98eb80 is pointing into the stack for thread: 0x000000002fd6d800
+RSP=0x000000005d98eae8 is pointing into the stack for thread: 0x000000002fd6d800
+RBP=0x000000005d981b20 is pointing into the stack for thread: 0x000000002fd6d800
+RSI=0x000000071bb62f40 is an oop
+[I 
+ - klass: {type array int}
+ - length: 1025
+RDI=0x000000071bb61f28 is an oop
+[I 
+ - klass: {type array int}
+ - length: 1025
+R8 =0x0000000047c26000 is an unknown value
+R9 =0x0000000000000001 is an unknown value
+R10=0x000000005d981000 is pointing into the stack for thread: 0x000000002fd6d800
+R11=0x000000005d981000 is pointing into the stack for thread: 0x000000002fd6d800
+R12=0x0000000000000000 is an unknown value
+R13=0x00000000e376cb1b is an unknown value
+R14=0x000000071bb658d8 is an oop
+io.netty.channel.nio.SelectedSelectionKeySet 
+ - klass: 'io/netty/channel/nio/SelectedSelectionKeySet'
+R15=0x000000002fd6d800 is a thread
+
+
+Stack: [0x000000005d890000,0x000000005d990000],  sp=0x000000005d98eae8,  free space=1018k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [nio.dll+0x7417]
+C  [nio.dll+0x6db2]
+C  0x0000000003b12e90
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+J 2388  sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(JI[I[I[IJ)I (0 bytes) @ 0x0000000003b12e12 [0x0000000003b12d80+0x92]
+J 4625 C2 sun.nio.ch.SelectorImpl.lockAndDoSelect(J)I (72 bytes) @ 0x0000000003e4ebec [0x0000000003e4e7a0+0x44c]
+J 5058 C2 io.netty.channel.nio.NioEventLoop.closeAll()V (157 bytes) @ 0x00000000043b55b4 [0x00000000043b5500+0xb4]
+J 5259 C2 io.netty.channel.nio.NioEventLoop.run()V (221 bytes) @ 0x0000000004425888 [0x0000000004425640+0x248]
+J 5664 C2 io.netty.util.concurrent.SingleThreadEventExecutor$5.run()V (1640 bytes) @ 0x0000000004539bc4 [0x0000000004539b00+0xc4]
+J 5652 C2 java.lang.Thread.run()V (17 bytes) @ 0x00000000039253e4 [0x0000000003925380+0x64]
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x000000002f14e800 JavaThread "nioEventLoopGroup-897-16" [_thread_blocked, id=33588, stack(0x000000005db90000,0x000000005dc90000)]
+  0x000000002fb8f000 JavaThread "nioEventLoopGroup-897-15" [_thread_blocked, id=43888, stack(0x000000005da90000,0x000000005db90000)]
+=>0x000000002fd6d800 JavaThread "nioEventLoopGroup-897-14" [_thread_in_native, id=23112, stack(0x000000005d890000,0x000000005d990000)]
+  0x000000002f3ac800 JavaThread "nioEventLoopGroup-897-13" [_thread_blocked, id=21780, stack(0x000000005d790000,0x000000005d890000)]
+  0x000000002879b000 JavaThread "nioEventLoopGroup-897-12" [_thread_blocked, id=41320, stack(0x000000005d590000,0x000000005d690000)]
+  0x0000000029b01800 JavaThread "nioEventLoopGroup-897-11" [_thread_blocked, id=31260, stack(0x000000005d490000,0x000000005d590000)]
+  0x000000002dffd800 JavaThread "nioEventLoopGroup-897-10" [_thread_blocked, id=41040, stack(0x000000005d190000,0x000000005d290000)]
+  0x000000002dff3800 JavaThread "nioEventLoopGroup-897-9" [_thread_blocked, id=43144, stack(0x000000005d090000,0x000000005d190000)]
+  0x000000002dff2000 JavaThread "nioEventLoopGroup-897-8" [_thread_blocked, id=22624, stack(0x000000005cf90000,0x000000005d090000)]
+  0x000000004804c000 JavaThread "nioEventLoopGroup-897-7" [_thread_blocked, id=40192, stack(0x000000005ce90000,0x000000005cf90000)]
+  0x0000000048044800 JavaThread "nioEventLoopGroup-897-6" [_thread_blocked, id=43436, stack(0x000000005c990000,0x000000005ca90000)]
+  0x000000004804a800 JavaThread "nioEventLoopGroup-897-5" [_thread_blocked, id=33048, stack(0x000000005c790000,0x000000005c890000)]
+  0x0000000048046000 JavaThread "nioEventLoopGroup-897-4" [_thread_blocked, id=34144, stack(0x000000005c490000,0x000000005c590000)]
+  0x000000004804a000 JavaThread "nioEventLoopGroup-897-3" [_thread_blocked, id=39792, stack(0x000000005c190000,0x000000005c290000)]
+  0x000000002fda5800 JavaThread "nioEventLoopGroup-897-2" [_thread_blocked, id=30800, stack(0x000000005c090000,0x000000005c190000)]
+  0x000000002fdac000 JavaThread "nioEventLoopGroup-897-1" [_thread_blocked, id=33040, stack(0x000000005bf90000,0x000000005c090000)]
+  0x000000002fda9000 JavaThread "nioEventLoopGroup-902-1" [_thread_in_native, id=43744, stack(0x000000005be90000,0x000000005bf90000)]
+  0x000000002fd9d000 JavaThread "nioEventLoopGroup-898-16" [_thread_blocked, id=30920, stack(0x000000005bc90000,0x000000005bd90000)]
+  0x000000002fd9c800 JavaThread "nioEventLoopGroup-898-15" [_thread_blocked, id=44000, stack(0x000000005bb90000,0x000000005bc90000)]
+  0x000000002f735000 JavaThread "nioEventLoopGroup-898-14" [_thread_blocked, id=42136, stack(0x000000005b890000,0x000000005b990000)]
+  0x000000002f730000 JavaThread "nioEventLoopGroup-898-13" [_thread_blocked, id=43136, stack(0x000000005b690000,0x000000005b790000)]
+  0x000000002f72e800 JavaThread "nioEventLoopGroup-898-12" [_thread_blocked, id=8936, stack(0x000000005b490000,0x000000005b590000)]
+  0x000000002f727000 JavaThread "nioEventLoopGroup-898-11" [_thread_blocked, id=41908, stack(0x000000005b390000,0x000000005b490000)]
+  0x000000002f72e000 JavaThread "nioEventLoopGroup-898-10" [_thread_blocked, id=42392, stack(0x000000005b290000,0x000000005b390000)]
+  0x000000002f72d000 JavaThread "nioEventLoopGroup-898-9" [_thread_blocked, id=27728, stack(0x000000005b190000,0x000000005b290000)]
+  0x000000002f73c800 JavaThread "nioEventLoopGroup-898-8" [_thread_blocked, id=31928, stack(0x000000005b090000,0x000000005b190000)]
+  0x000000002f743000 JavaThread "nioEventLoopGroup-898-7" [_thread_blocked, id=39720, stack(0x000000005ae90000,0x000000005af90000)]
+  0x00000000475b9000 JavaThread "nioEventLoopGroup-898-6" [_thread_blocked, id=37004, stack(0x000000005ac90000,0x000000005ad90000)]
+  0x00000000475bf000 JavaThread "nioEventLoopGroup-898-5" [_thread_blocked, id=42292, stack(0x000000005ab90000,0x000000005ac90000)]
+  0x00000000475bd800 JavaThread "nioEventLoopGroup-898-4" [_thread_blocked, id=38152, stack(0x000000005a990000,0x000000005aa90000)]
+  0x00000000475bd000 JavaThread "nioEventLoopGroup-898-3" [_thread_blocked, id=36880, stack(0x000000005a590000,0x000000005a690000)]
+  0x00000000475ba800 JavaThread "nioEventLoopGroup-898-2" [_thread_blocked, id=16140, stack(0x000000005a390000,0x000000005a490000)]
+  0x00000000475b1800 JavaThread "nioEventLoopGroup-898-1" [_thread_blocked, id=41840, stack(0x000000005a090000,0x000000005a190000)]
+  0x00000000475b8000 JavaThread "nioEventLoopGroup-901-1" [_thread_in_native, id=26908, stack(0x0000000059e90000,0x0000000059f90000)]
+  0x00000000475b7800 JavaThread "nioEventLoopGroup-899-16" [_thread_blocked, id=37156, stack(0x0000000059c90000,0x0000000059d90000)]
+  0x00000000475ad800 JavaThread "nioEventLoopGroup-899-15" [_thread_blocked, id=21476, stack(0x0000000059a90000,0x0000000059b90000)]
+  0x00000000475b4800 JavaThread "nioEventLoopGroup-899-14" [_thread_blocked, id=42948, stack(0x0000000059890000,0x0000000059990000)]
+  0x00000000475ad000 JavaThread "nioEventLoopGroup-899-13" [_thread_blocked, id=39600, stack(0x0000000059790000,0x0000000059890000)]
+  0x00000000475a5800 JavaThread "nioEventLoopGroup-899-12" [_thread_blocked, id=37732, stack(0x0000000059590000,0x0000000059690000)]
+  0x00000000475a4800 JavaThread "nioEventLoopGroup-899-11" [_thread_blocked, id=43920, stack(0x0000000059490000,0x0000000059590000)]
+  0x00000000475ab800 JavaThread "nioEventLoopGroup-899-10" [_thread_blocked, id=33856, stack(0x0000000059290000,0x0000000059390000)]
+  0x00000000475aa800 JavaThread "nioEventLoopGroup-899-9" [_thread_blocked, id=10888, stack(0x0000000059090000,0x0000000059190000)]
+  0x00000000475a8800 JavaThread "nioEventLoopGroup-899-8" [_thread_blocked, id=23108, stack(0x0000000058f90000,0x0000000059090000)]
+  0x00000000475a7800 JavaThread "nioEventLoopGroup-899-7" [_thread_blocked, id=42024, stack(0x0000000058e90000,0x0000000058f90000)]
+  0x00000000475d0800 JavaThread "nioEventLoopGroup-899-6" [_thread_blocked, id=38888, stack(0x0000000058c90000,0x0000000058d90000)]
+  0x00000000475cf800 JavaThread "nioEventLoopGroup-899-5" [_thread_blocked, id=38648, stack(0x0000000058b90000,0x0000000058c90000)]
+  0x00000000475ce000 JavaThread "nioEventLoopGroup-899-4" [_thread_blocked, id=29404, stack(0x0000000058a90000,0x0000000058b90000)]
+  0x00000000475cb000 JavaThread "nioEventLoopGroup-899-3" [_thread_blocked, id=41520, stack(0x0000000058990000,0x0000000058a90000)]
+  0x00000000475c2000 JavaThread "nioEventLoopGroup-899-2" [_thread_blocked, id=30492, stack(0x0000000058790000,0x0000000058890000)]
+  0x00000000475c1800 JavaThread "nioEventLoopGroup-899-1" [_thread_blocked, id=42712, stack(0x0000000058690000,0x0000000058790000)]
+  0x00000000475c6000 JavaThread "nioEventLoopGroup-900-1" [_thread_in_native, id=35608, stack(0x0000000058490000,0x0000000058590000)]
+  0x000000002da35000 JavaThread "globalEventExecutor-1-285" [_thread_blocked, id=20988, stack(0x0000000058390000,0x0000000058490000)]
+  0x000000002f744800 JavaThread "nioEventLoopGroup-896-1" [_thread_in_native, id=34044, stack(0x0000000055e90000,0x0000000055f90000)]
+  0x000000004759e000 JavaThread "nioEventLoopGroup-894-1" [_thread_in_native, id=41380, stack(0x0000000052790000,0x0000000052890000)]
+  0x000000002da36000 JavaThread "nioEventLoopGroup-895-1" [_thread_in_native, id=36380, stack(0x0000000052390000,0x0000000052490000)]
+  0x00000000475b0800 JavaThread "nioEventLoopGroup-890-1" [_thread_in_native, id=38996, stack(0x000000004dc90000,0x000000004dd90000)]
+  0x0000000047598000 JavaThread "nioEventLoopGroup-889-1" [_thread_in_native, id=42152, stack(0x000000004c790000,0x000000004c890000)]
+  0x000000002d530800 JavaThread "nioEventLoopGroup-888-1" [_thread_in_native, id=26580, stack(0x000000004c590000,0x000000004c690000)]
+  0x000000002f733800 JavaThread "nioEventLoopGroup-884-1" [_thread_in_native, id=38940, stack(0x000000004a660000,0x000000004a760000)]
+  0x00000000475a6000 JavaThread "nioEventLoopGroup-883-1" [_thread_in_native, id=43020, stack(0x0000000043f90000,0x0000000044090000)]
+  0x000000002dff4800 JavaThread "nioEventLoopGroup-882-1" [_thread_in_native, id=43024, stack(0x0000000039660000,0x0000000039760000)]
+  0x00000000475c9800 JavaThread "nioEventLoopGroup-876-1" [_thread_in_native, id=36816, stack(0x000000002b470000,0x000000002b570000)]
+  0x00000000475ae800 JavaThread "nioEventLoopGroup-878-1" [_thread_in_native, id=43104, stack(0x000000007fb90000,0x000000007fc90000)]
+  0x0000000048040000 JavaThread "nioEventLoopGroup-877-1" [_thread_in_native, id=41112, stack(0x000000007e190000,0x000000007e290000)]
+  0x00000000475b6000 JavaThread "nioEventLoopGroup-871-1" [_thread_in_native, id=43352, stack(0x000000007a490000,0x000000007a590000)]
+  0x000000002dffb000 JavaThread "nioEventLoopGroup-872-1" [_thread_in_native, id=30040, stack(0x0000000078690000,0x0000000078790000)]
+  0x000000002dff8000 JavaThread "nioEventLoopGroup-870-1" [_thread_in_native, id=41756, stack(0x0000000078390000,0x0000000078490000)]
+  0x00000000475be800 JavaThread "nioEventLoopGroup-866-1" [_thread_in_native, id=41936, stack(0x0000000076390000,0x0000000076490000)]
+  0x00000000475cc000 JavaThread "nioEventLoopGroup-864-1" [_thread_in_native, id=39884, stack(0x0000000073a90000,0x0000000073b90000)]
+  0x0000000048042800 JavaThread "nioEventLoopGroup-865-1" [_thread_in_native, id=35012, stack(0x0000000072f90000,0x0000000073090000)]
+  0x00000000475c0000 JavaThread "nioEventLoopGroup-859-1" [_thread_in_native, id=19532, stack(0x0000000070a90000,0x0000000070b90000)]
+  0x000000002f728000 JavaThread "nioEventLoopGroup-858-1" [_thread_in_native, id=34792, stack(0x000000006c390000,0x000000006c490000)]
+  0x000000002f725000 JavaThread "nioEventLoopGroup-860-1" [_thread_in_native, id=41284, stack(0x000000006c090000,0x000000006c190000)]
+  0x00000000475a2800 JavaThread "nioEventLoopGroup-853-1" [_thread_in_native, id=43916, stack(0x0000000068790000,0x0000000068890000)]
+  0x0000000047599800 JavaThread "nioEventLoopGroup-854-1" [_thread_in_native, id=39000, stack(0x0000000068490000,0x0000000068590000)]
+  0x0000000048049000 JavaThread "nioEventLoopGroup-852-1" [_thread_in_native, id=38556, stack(0x0000000066590000,0x0000000066690000)]
+  0x00000000475a9000 JavaThread "nioEventLoopGroup-848-1" [_thread_in_native, id=42920, stack(0x0000000062e90000,0x0000000062f90000)]
+  0x00000000475a1000 JavaThread "nioEventLoopGroup-847-1" [_thread_in_native, id=41068, stack(0x0000000062690000,0x0000000062790000)]
+  0x000000002f724000 JavaThread "nioEventLoopGroup-846-1" [_thread_in_native, id=38224, stack(0x0000000060c90000,0x0000000060d90000)]
+  0x00000000475cd800 JavaThread "nioEventLoopGroup-842-1" [_thread_in_native, id=43740, stack(0x000000005e790000,0x000000005e890000)]
+  0x00000000475b3800 JavaThread "nioEventLoopGroup-840-1" [_thread_in_native, id=22464, stack(0x000000005cc90000,0x000000005cd90000)]
+  0x000000004759b000 JavaThread "nioEventLoopGroup-841-1" [_thread_in_native, id=32948, stack(0x000000005af90000,0x000000005b090000)]
+  0x00000000475cc800 JavaThread "nioEventLoopGroup-835-1" [_thread_in_native, id=42728, stack(0x0000000057390000,0x0000000057490000)]
+  0x000000002f729800 JavaThread "nioEventLoopGroup-836-1" [_thread_in_native, id=42208, stack(0x0000000055690000,0x0000000055790000)]
+  0x000000002f716800 JavaThread "nioEventLoopGroup-834-1" [_thread_in_native, id=2500, stack(0x0000000055190000,0x0000000055290000)]
+  0x00000000475c8000 JavaThread "nioEventLoopGroup-830-1" [_thread_in_native, id=43660, stack(0x0000000053490000,0x0000000053590000)]
+  0x000000004759e800 JavaThread "nioEventLoopGroup-829-1" [_thread_in_native, id=42264, stack(0x0000000050290000,0x0000000050390000)]
+  0x000000004759d000 JavaThread "nioEventLoopGroup-828-1" [_thread_in_native, id=37528, stack(0x000000004fe90000,0x000000004ff90000)]
+  0x00000000475c6800 JavaThread "nioEventLoopGroup-824-1" [_thread_in_native, id=21352, stack(0x000000004be60000,0x000000004bf60000)]
+  0x00000000475c3000 JavaThread "nioEventLoopGroup-823-1" [_thread_in_native, id=36520, stack(0x000000004bc60000,0x000000004bd60000)]
+  0x000000002f716000 JavaThread "nioEventLoopGroup-822-1" [_thread_in_native, id=40592, stack(0x000000004a460000,0x000000004a560000)]
+  0x00000000475c5000 JavaThread "nioEventLoopGroup-818-1" [_thread_in_native, id=8684, stack(0x0000000043b90000,0x0000000043c90000)]
+  0x00000000475b3000 JavaThread "nioEventLoopGroup-816-1" [_thread_in_native, id=35708, stack(0x0000000039560000,0x0000000039660000)]
+  0x0000000047592000 JavaThread "nioEventLoopGroup-817-1" [_thread_in_native, id=42684, stack(0x000000002c060000,0x000000002c160000)]
+  0x00000000475b0000 JavaThread "nioEventLoopGroup-812-1" [_thread_in_native, id=35764, stack(0x000000007fd90000,0x000000007fe90000)]
+  0x00000000475ca800 JavaThread "nioEventLoopGroup-811-1" [_thread_in_native, id=33284, stack(0x000000007d890000,0x000000007d990000)]
+  0x00000000475c0800 JavaThread "nioEventLoopGroup-810-1" [_thread_in_native, id=40816, stack(0x000000007c390000,0x000000007c490000)]
+  0x00000000475bc000 JavaThread "nioEventLoopGroup-804-1" [_thread_in_native, id=42336, stack(0x000000007a790000,0x000000007a890000)]
+  0x00000000475a7000 JavaThread "nioEventLoopGroup-806-1" [_thread_in_native, id=36144, stack(0x0000000078d90000,0x0000000078e90000)]
+  0x0000000047598800 JavaThread "nioEventLoopGroup-805-1" [_thread_in_native, id=28632, stack(0x0000000077390000,0x0000000077490000)]
+  0x00000000475cf000 JavaThread "nioEventLoopGroup-800-1" [_thread_in_native, id=35988, stack(0x0000000072e90000,0x0000000072f90000)]
+  0x00000000475c3800 JavaThread "nioEventLoopGroup-799-1" [_thread_in_native, id=41452, stack(0x0000000072490000,0x0000000072590000)]
+  0x00000000475c7800 JavaThread "nioEventLoopGroup-798-1" [_thread_in_native, id=37360, stack(0x0000000072190000,0x0000000072290000)]
+  0x00000000475bb000 JavaThread "nioEventLoopGroup-794-1" [_thread_in_native, id=43936, stack(0x000000006fc60000,0x000000006fd60000)]
+  0x00000000475aa000 JavaThread "nioEventLoopGroup-792-1" [_thread_in_native, id=29880, stack(0x000000006d290000,0x000000006d390000)]
+  0x0000000047590800 JavaThread "nioEventLoopGroup-793-1" [_thread_in_native, id=32340, stack(0x000000006b990000,0x000000006ba90000)]
+  0x00000000475b9800 JavaThread "nioEventLoopGroup-788-1" [_thread_in_native, id=29972, stack(0x0000000069a90000,0x0000000069b90000)]
+  0x00000000475ac000 JavaThread "nioEventLoopGroup-787-1" [_thread_in_native, id=31456, stack(0x0000000067e90000,0x0000000067f90000)]
+  0x0000000047594000 JavaThread "nioEventLoopGroup-786-1" [_thread_in_native, id=42280, stack(0x0000000066190000,0x0000000066290000)]
+  0x000000004759b800 JavaThread "nioEventLoopGroup-781-1" [_thread_in_native, id=41364, stack(0x0000000063f90000,0x0000000064090000)]
+  0x00000000475c9000 JavaThread "nioEventLoopGroup-782-1" [_thread_in_native, id=34888, stack(0x0000000062790000,0x0000000062890000)]
+  0x00000000475c4800 JavaThread "nioEventLoopGroup-780-1" [_thread_in_native, id=43408, stack(0x0000000060e90000,0x0000000060f90000)]
+  0x00000000475b6800 JavaThread "nioEventLoopGroup-775-1" [_thread_in_native, id=36068, stack(0x000000005f190000,0x000000005f290000)]
+  0x00000000475a4000 JavaThread "nioEventLoopGroup-776-1" [_thread_in_native, id=35844, stack(0x000000005d690000,0x000000005d790000)]
+  0x0000000047597000 JavaThread "nioEventLoopGroup-774-1" [_thread_in_native, id=43252, stack(0x000000005b990000,0x000000005ba90000)]
+  0x00000000475b2000 JavaThread "nioEventLoopGroup-770-1" [_thread_in_native, id=30096, stack(0x0000000059990000,0x0000000059a90000)]
+  0x00000000475a1800 JavaThread "nioEventLoopGroup-769-1" [_thread_in_native, id=30436, stack(0x0000000057a90000,0x0000000057b90000)]
+  0x0000000047596800 JavaThread "nioEventLoopGroup-768-1" [_thread_in_native, id=40012, stack(0x0000000056690000,0x0000000056790000)]
+  0x00000000475af000 JavaThread "nioEventLoopGroup-764-1" [_thread_in_native, id=31788, stack(0x0000000054890000,0x0000000054990000)]
+  0x00000000475a0000 JavaThread "nioEventLoopGroup-763-1" [_thread_in_native, id=34420, stack(0x0000000051f90000,0x0000000052090000)]
+  0x0000000047595000 JavaThread "nioEventLoopGroup-762-1" [_thread_in_native, id=43064, stack(0x0000000051290000,0x0000000051390000)]
+  0x00000000475b5000 JavaThread "nioEventLoopGroup-758-1" [_thread_in_native, id=37704, stack(0x000000004f390000,0x000000004f490000)]
+  0x0000000047592800 JavaThread "nioEventLoopGroup-756-1" [_thread_in_native, id=42880, stack(0x000000004cc90000,0x000000004cd90000)]
+  0x0000000047591000 JavaThread "nioEventLoopGroup-757-1" [_thread_in_native, id=34468, stack(0x000000004ba60000,0x000000004bb60000)]
+  0x000000004759f800 JavaThread "nioEventLoopGroup-752-1" [_thread_in_native, id=43284, stack(0x0000000045990000,0x0000000045a90000)]
+  0x000000004759a000 JavaThread "nioEventLoopGroup-751-1" [_thread_in_native, id=35900, stack(0x0000000043e90000,0x0000000043f90000)]
+  0x0000000047593800 JavaThread "nioEventLoopGroup-750-1" [_thread_in_native, id=34544, stack(0x000000003ba80000,0x000000003bb80000)]
+  0x00000000475a3000 JavaThread "nioEventLoopGroup-746-1" [_thread_in_native, id=32628, stack(0x0000000000d10000,0x0000000000e10000)]
+  0x000000004759c800 JavaThread "nioEventLoopGroup-745-1" [_thread_in_native, id=40304, stack(0x0000000000810000,0x0000000000910000)]
+  0x0000000047595800 JavaThread "nioEventLoopGroup-744-1" [_thread_in_native, id=7412, stack(0x000000007ed90000,0x000000007ee90000)]
+  0x000000002fd9f800 JavaThread "nioEventLoopGroup-740-1" [_thread_in_native, id=28984, stack(0x000000007d190000,0x000000007d290000)]
+  0x0000000048043000 JavaThread "nioEventLoopGroup-739-1" [_thread_in_native, id=41740, stack(0x000000007b390000,0x000000007b490000)]
+  0x000000002f73f800 JavaThread "nioEventLoopGroup-738-1" [_thread_in_native, id=39608, stack(0x0000000079790000,0x0000000079890000)]
+  0x000000004803b000 JavaThread "nioEventLoopGroup-733-1" [_thread_in_native, id=33232, stack(0x0000000076890000,0x0000000076990000)]
+  0x000000002f73d000 JavaThread "nioEventLoopGroup-734-1" [_thread_in_native, id=28368, stack(0x0000000076490000,0x0000000076590000)]
+  0x000000002f718000 JavaThread "nioEventLoopGroup-732-1" [_thread_in_native, id=40964, stack(0x0000000074890000,0x0000000074990000)]
+  0x000000002f726800 JavaThread "nioEventLoopGroup-726-1" [_thread_in_native, id=41976, stack(0x0000000070890000,0x0000000070990000)]
+  0x000000002f741000 JavaThread "nioEventLoopGroup-727-1" [_thread_in_native, id=43228, stack(0x000000006fb60000,0x000000006fc60000)]
+  0x000000002f73a000 JavaThread "nioEventLoopGroup-728-1" [_thread_in_native, id=40060, stack(0x000000006f860000,0x000000006f960000)]
+  0x000000002f71c000 JavaThread "nioEventLoopGroup-720-1" [_thread_in_native, id=42860, stack(0x000000006a790000,0x000000006a890000)]
+  0x000000002f741800 JavaThread "nioEventLoopGroup-722-1" [_thread_in_native, id=36216, stack(0x000000006a090000,0x000000006a190000)]
+  0x000000002fd60000 JavaThread "nioEventLoopGroup-721-1" [_thread_in_native, id=40824, stack(0x0000000069b90000,0x0000000069c90000)]
+  0x000000002f737000 JavaThread "nioEventLoopGroup-715-1" [_thread_in_native, id=41124, stack(0x0000000066490000,0x0000000066590000)]
+  0x000000002f72f800 JavaThread "nioEventLoopGroup-714-1" [_thread_in_native, id=43384, stack(0x0000000066290000,0x0000000066390000)]
+  0x000000002da2a800 JavaThread "nioEventLoopGroup-716-1" [_thread_in_native, id=43236, stack(0x0000000064a90000,0x0000000064b90000)]
+  0x000000004803e000 JavaThread "nioEventLoopGroup-710-1" [_thread_in_native, id=33636, stack(0x0000000062f90000,0x0000000063090000)]
+  0x000000002dff0800 JavaThread "nioEventLoopGroup-708-1" [_thread_in_native, id=13300, stack(0x000000005fc90000,0x000000005fd90000)]
+  0x000000002dfec000 JavaThread "nioEventLoopGroup-709-1" [_thread_in_native, id=41032, stack(0x000000005f990000,0x000000005fa90000)]
+  0x000000002f722800 JavaThread "nioEventLoopGroup-703-1" [_thread_in_native, id=23124, stack(0x000000005c590000,0x000000005c690000)]
+  0x000000002f710000 JavaThread "nioEventLoopGroup-704-1" [_thread_in_native, id=42144, stack(0x000000005c290000,0x000000005c390000)]
+  0x000000002fd9b000 JavaThread "nioEventLoopGroup-702-1" [_thread_in_native, id=41616, stack(0x000000005ad90000,0x000000005ae90000)]
+  0x000000002f73e000 JavaThread "nioEventLoopGroup-698-1" [_thread_in_native, id=27780, stack(0x0000000058d90000,0x0000000058e90000)]
+  0x000000002f723800 JavaThread "nioEventLoopGroup-697-1" [_thread_in_native, id=43356, stack(0x0000000057690000,0x0000000057790000)]
+  0x0000000048041800 JavaThread "nioEventLoopGroup-696-1" [_thread_in_native, id=41316, stack(0x0000000055a90000,0x0000000055b90000)]
+  0x000000002f715000 JavaThread "nioEventLoopGroup-692-1" [_thread_in_native, id=26776, stack(0x0000000052690000,0x0000000052790000)]
+  0x000000002f742800 JavaThread "nioEventLoopGroup-691-1" [_thread_in_native, id=32636, stack(0x0000000052490000,0x0000000052590000)]
+  0x000000002dfe2800 JavaThread "nioEventLoopGroup-690-1" [_thread_in_native, id=32384, stack(0x0000000050d90000,0x0000000050e90000)]
+  0x000000002f739800 JavaThread "nioEventLoopGroup-686-1" [_thread_in_native, id=43728, stack(0x000000004ef90000,0x000000004f090000)]
+  0x000000002f71b000 JavaThread "nioEventLoopGroup-685-1" [_thread_in_native, id=40660, stack(0x000000004d590000,0x000000004d690000)]
+  0x000000004803a000 JavaThread "nioEventLoopGroup-684-1" [_thread_in_native, id=35300, stack(0x000000004b960000,0x000000004ba60000)]
+  0x000000002f72b800 JavaThread "nioEventLoopGroup-680-1" [_thread_in_native, id=42676, stack(0x0000000048f90000,0x0000000049090000)]
+  0x000000002f740000 JavaThread "nioEventLoopGroup-679-1" [_thread_in_native, id=20808, stack(0x0000000044190000,0x0000000044290000)]
+  0x000000002dfea800 JavaThread "nioEventLoopGroup-678-1" [_thread_in_native, id=43508, stack(0x000000003c260000,0x000000003c360000)]
+  0x000000002f721000 JavaThread "nioEventLoopGroup-673-1" [_thread_in_native, id=30452, stack(0x0000000001720000,0x0000000001820000)]
+  0x000000002f71d800 JavaThread "nioEventLoopGroup-674-1" [_thread_in_native, id=32608, stack(0x0000000000e10000,0x0000000000f10000)]
+  0x0000000048038000 JavaThread "nioEventLoopGroup-672-1" [_thread_in_native, id=15560, stack(0x000000007f390000,0x000000007f490000)]
+  0x000000002f734000 JavaThread "nioEventLoopGroup-668-1" [_thread_in_native, id=35276, stack(0x000000007da90000,0x000000007db90000)]
+  0x000000002f710800 JavaThread "nioEventLoopGroup-667-1" [_thread_in_native, id=35160, stack(0x000000007bc90000,0x000000007bd90000)]
+  0x000000002f738800 JavaThread "nioEventLoopGroup-666-1" [_thread_in_native, id=41572, stack(0x000000007a690000,0x000000007a790000)]
+  0x000000002f72c800 JavaThread "nioEventLoopGroup-662-1" [_thread_in_native, id=39528, stack(0x0000000078b90000,0x0000000078c90000)]
+  0x0000000048047000 JavaThread "nioEventLoopGroup-660-1" [_thread_in_native, id=43852, stack(0x0000000076690000,0x0000000076790000)]
+  0x000000004803c800 JavaThread "nioEventLoopGroup-661-1" [_thread_in_native, id=27412, stack(0x0000000075b90000,0x0000000075c90000)]
+  0x000000002f732800 JavaThread "nioEventLoopGroup-654-1" [_thread_in_native, id=29384, stack(0x0000000073d90000,0x0000000073e90000)]
+  0x000000002f73e800 JavaThread "nioEventLoopGroup-656-1" [_thread_in_native, id=43188, stack(0x0000000071b90000,0x0000000071c90000)]
+  0x000000002f73b800 JavaThread "nioEventLoopGroup-655-1" [_thread_in_native, id=41712, stack(0x0000000070e90000,0x0000000070f90000)]
+  0x000000002f72a000 JavaThread "nioEventLoopGroup-650-1" [_thread_in_native, id=43212, stack(0x000000006f2b0000,0x000000006f3b0000)]
+  0x000000002f714800 JavaThread "nioEventLoopGroup-649-1" [_thread_in_native, id=40480, stack(0x000000006ca90000,0x000000006cb90000)]
+  0x0000000048030800 JavaThread "nioEventLoopGroup-648-1" [_thread_in_native, id=40256, stack(0x000000006b290000,0x000000006b390000)]
+  0x000000002f717800 JavaThread "nioEventLoopGroup-644-1" [_thread_in_native, id=37212, stack(0x0000000068290000,0x0000000068390000)]
+  0x000000002f712000 JavaThread "nioEventLoopGroup-643-1" [_thread_in_native, id=41956, stack(0x0000000068090000,0x0000000068190000)]
+  0x000000002f735800 JavaThread "nioEventLoopGroup-642-1" [_thread_in_native, id=40272, stack(0x0000000066690000,0x0000000066790000)]
+  0x000000002f732000 JavaThread "nioEventLoopGroup-637-1" [_thread_in_native, id=32888, stack(0x0000000064d90000,0x0000000064e90000)]
+  0x000000002f722000 JavaThread "nioEventLoopGroup-636-1" [_thread_in_native, id=42608, stack(0x0000000062b90000,0x0000000062c90000)]
+  0x000000002f707800 JavaThread "nioEventLoopGroup-638-1" [_thread_in_native, id=43032, stack(0x0000000061e90000,0x0000000061f90000)]
+  0x000000002f71e000 JavaThread "nioEventLoopGroup-632-1" [_thread_in_native, id=21528, stack(0x0000000060390000,0x0000000060490000)]
+  0x000000002f707000 JavaThread "nioEventLoopGroup-631-1" [_thread_in_native, id=41776, stack(0x000000005ec90000,0x000000005ed90000)]
+  0x000000002f73b000 JavaThread "nioEventLoopGroup-630-1" [_thread_in_native, id=38472, stack(0x000000005d390000,0x000000005d490000)]
+  0x000000002f731000 JavaThread "nioEventLoopGroup-626-1" [_thread_in_native, id=43036, stack(0x000000005b790000,0x000000005b890000)]
+  0x000000002f71f800 JavaThread "nioEventLoopGroup-625-1" [_thread_in_native, id=42480, stack(0x0000000059d90000,0x0000000059e90000)]
+  0x000000002f70d800 JavaThread "nioEventLoopGroup-624-1" [_thread_in_native, id=43168, stack(0x0000000058890000,0x0000000058990000)]
+  0x000000002f706000 JavaThread "nioEventLoopGroup-620-1" [_thread_in_native, id=29496, stack(0x0000000055590000,0x0000000055690000)]
+  0x000000002f745800 JavaThread "nioEventLoopGroup-619-1" [_thread_in_native, id=43824, stack(0x0000000055290000,0x0000000055390000)]
+  0x000000002f738000 JavaThread "nioEventLoopGroup-618-1" [_thread_in_native, id=43424, stack(0x0000000053d90000,0x0000000053e90000)]
+  0x000000002f72b000 JavaThread "nioEventLoopGroup-614-1" [_thread_in_native, id=30252, stack(0x0000000052090000,0x0000000052190000)]
+  0x000000002f71f000 JavaThread "nioEventLoopGroup-613-1" [_thread_in_native, id=40668, stack(0x0000000050a90000,0x0000000050b90000)]
+  0x000000002f70d000 JavaThread "nioEventLoopGroup-612-1" [_thread_in_native, id=43160, stack(0x000000004f190000,0x000000004f290000)]
+  0x000000002f728800 JavaThread "nioEventLoopGroup-607-1" [_thread_in_native, id=43340, stack(0x000000004d790000,0x000000004d890000)]
+  0x000000002f71a800 JavaThread "nioEventLoopGroup-608-1" [_thread_in_native, id=33936, stack(0x000000004bb60000,0x000000004bc60000)]
+  0x000000002f705800 JavaThread "nioEventLoopGroup-606-1" [_thread_in_native, id=43072, stack(0x000000004a860000,0x000000004a960000)]
+  0x000000002f71c800 JavaThread "nioEventLoopGroup-601-1" [_thread_in_native, id=43700, stack(0x000000003cc60000,0x000000003cd60000)]
+  0x000000002f719800 JavaThread "nioEventLoopGroup-602-1" [_thread_in_native, id=28052, stack(0x000000003c960000,0x000000003ca60000)]
+  0x000000002f70c000 JavaThread "nioEventLoopGroup-600-1" [_thread_in_native, id=40800, stack(0x0000000038e60000,0x0000000038f60000)]
+  0x000000002f713000 JavaThread "nioEventLoopGroup-595-1" [_thread_in_native, id=42940, stack(0x0000000000210000,0x0000000000310000)]
+  0x000000002f719000 JavaThread "nioEventLoopGroup-596-1" [_thread_in_native, id=14892, stack(0x000000007fe90000,0x000000007ff90000)]
+  0x000000002f70b800 JavaThread "nioEventLoopGroup-594-1" [_thread_in_native, id=42052, stack(0x000000007e890000,0x000000007e990000)]
+  0x000000002f725800 JavaThread "nioEventLoopGroup-590-1" [_thread_in_native, id=42988, stack(0x000000007c800000,0x000000007c900000)]
+  0x000000002f70e800 JavaThread "nioEventLoopGroup-589-1" [_thread_in_native, id=34848, stack(0x000000007aa90000,0x000000007ab90000)]
+  0x000000002f70a800 JavaThread "nioEventLoopGroup-588-1" [_thread_in_native, id=23516, stack(0x0000000079c90000,0x0000000079d90000)]
+  0x000000002f713800 JavaThread "nioEventLoopGroup-583-1" [_thread_in_native, id=37920, stack(0x0000000077090000,0x0000000077190000)]
+  0x000000002f711800 JavaThread "nioEventLoopGroup-584-1" [_thread_in_native, id=28072, stack(0x0000000076d90000,0x0000000076e90000)]
+  0x000000002f709000 JavaThread "nioEventLoopGroup-582-1" [_thread_in_native, id=43836, stack(0x0000000075890000,0x0000000075990000)]
+  0x000000002f720800 JavaThread "nioEventLoopGroup-578-1" [_thread_in_native, id=34640, stack(0x0000000073b90000,0x0000000073c90000)]
+  0x000000002f708800 JavaThread "nioEventLoopGroup-576-1" [_thread_in_native, id=31828, stack(0x0000000071390000,0x0000000071490000)]
+  0x000000002f70a000 JavaThread "nioEventLoopGroup-577-1" [_thread_in_native, id=22168, stack(0x0000000070f90000,0x0000000071090000)]
+  0x000000002f70f000 JavaThread "nioEventLoopGroup-572-1" [_thread_in_native, id=34996, stack(0x000000006f4b0000,0x000000006f5b0000)]
+  0x000000002f744000 JavaThread "nioEventLoopGroup-570-1" [_thread_in_native, id=40036, stack(0x000000006ce90000,0x000000006cf90000)]
+  0x000000002f736800 JavaThread "nioEventLoopGroup-571-1" [_thread_in_native, id=43404, stack(0x000000006b890000,0x000000006b990000)]
+  0x0000000048045800 JavaThread "nioEventLoopGroup-566-1" [_thread_in_native, id=12516, stack(0x0000000068c90000,0x0000000068d90000)]
+  0x000000004804b800 JavaThread "nioEventLoopGroup-564-1" [_thread_in_native, id=33988, stack(0x0000000068990000,0x0000000068a90000)]
+  0x000000004802f000 JavaThread "nioEventLoopGroup-565-1" [_thread_in_native, id=35088, stack(0x0000000067190000,0x0000000067290000)]
+  0x0000000048041000 JavaThread "nioEventLoopGroup-560-1" [_thread_in_native, id=42916, stack(0x0000000063590000,0x0000000063690000)]
+  0x0000000048035000 JavaThread "nioEventLoopGroup-559-1" [_thread_in_native, id=24432, stack(0x0000000062d90000,0x0000000062e90000)]
+  0x000000004802f800 JavaThread "nioEventLoopGroup-558-1" [_thread_in_native, id=31000, stack(0x0000000062990000,0x0000000062a90000)]
+  0x000000002dfef000 JavaThread "nioEventLoopGroup-554-1" [_thread_in_native, id=36652, stack(0x0000000060b90000,0x0000000060c90000)]
+  0x000000004803e800 JavaThread "nioEventLoopGroup-552-1" [_thread_in_native, id=32168, stack(0x000000005ee90000,0x000000005ef90000)]
+  0x000000002fb90800 JavaThread "nioEventLoopGroup-553-1" [_thread_in_native, id=14308, stack(0x000000005e590000,0x000000005e690000)]
+  0x000000002dffa800 JavaThread "nioEventLoopGroup-548-1" [_thread_in_native, id=42396, stack(0x000000005cb90000,0x000000005cc90000)]
+  0x000000004803b800 JavaThread "nioEventLoopGroup-546-1" [_thread_in_native, id=40392, stack(0x000000005aa90000,0x000000005ab90000)]
+  0x000000002fd6b800 JavaThread "nioEventLoopGroup-547-1" [_thread_in_native, id=34484, stack(0x0000000059b90000,0x0000000059c90000)]
+  0x0000000048047800 JavaThread "nioEventLoopGroup-542-1" [_thread_in_native, id=18008, stack(0x0000000057090000,0x0000000057190000)]
+  0x0000000048044000 JavaThread "nioEventLoopGroup-541-1" [_thread_in_native, id=42488, stack(0x0000000056d90000,0x0000000056e90000)]
+  0x000000002fb8f800 JavaThread "nioEventLoopGroup-540-1" [_thread_in_native, id=41680, stack(0x0000000055490000,0x0000000055590000)]
+  0x000000002dfe8800 JavaThread "nioEventLoopGroup-536-1" [_thread_in_native, id=29520, stack(0x0000000053e90000,0x0000000053f90000)]
+  0x0000000048032800 JavaThread "nioEventLoopGroup-534-1" [_thread_in_native, id=34080, stack(0x0000000051690000,0x0000000051790000)]
+  0x000000002fd5e800 JavaThread "nioEventLoopGroup-535-1" [_thread_in_native, id=41120, stack(0x0000000051090000,0x0000000051190000)]
+  0x0000000048048800 JavaThread "nioEventLoopGroup-529-1" [_thread_in_native, id=35740, stack(0x000000004fa90000,0x000000004fb90000)]
+  0x000000004802d800 JavaThread "nioEventLoopGroup-530-1" [_thread_in_native, id=34672, stack(0x000000004e090000,0x000000004e190000)]
+  0x000000002dfe7800 JavaThread "nioEventLoopGroup-528-1" [_thread_in_native, id=33692, stack(0x000000004cb90000,0x000000004cc90000)]
+  0x0000000048037000 JavaThread "nioEventLoopGroup-524-1" [_thread_in_native, id=9760, stack(0x0000000048a60000,0x0000000048b60000)]
+  0x0000000048038800 JavaThread "nioEventLoopGroup-522-1" [_thread_in_native, id=42904, stack(0x0000000048060000,0x0000000048160000)]
+  0x000000002fd92000 JavaThread "nioEventLoopGroup-523-1" [_thread_in_native, id=35800, stack(0x0000000043d90000,0x0000000043e90000)]
+  0x0000000048036800 JavaThread "nioEventLoopGroup-516-1" [_thread_in_native, id=42652, stack(0x0000000037650000,0x0000000037750000)]
+  0x0000000048033800 JavaThread "nioEventLoopGroup-518-1" [_thread_in_native, id=11396, stack(0x0000000032820000,0x0000000032920000)]
+  0x000000002dfee800 JavaThread "nioEventLoopGroup-517-1" [_thread_in_native, id=22060, stack(0x000000002a270000,0x000000002a370000)]
+  0x000000002fda2800 JavaThread "nioEventLoopGroup-511-1" [_thread_in_native, id=42184, stack(0x000000007d490000,0x000000007d590000)]
+  0x000000002fd9e800 JavaThread "nioEventLoopGroup-512-1" [_thread_in_native, id=40324, stack(0x000000007cf90000,0x000000007d090000)]
+  0x000000002fd9a000 JavaThread "nioEventLoopGroup-510-1" [_thread_in_native, id=28892, stack(0x000000007ce90000,0x000000007cf90000)]
+  0x0000000048039800 JavaThread "nioEventLoopGroup-506-1" [_thread_in_native, id=42892, stack(0x000000007a290000,0x000000007a390000)]
+  0x000000004803f800 JavaThread "nioEventLoopGroup-505-1" [_thread_in_native, id=40916, stack(0x0000000079d90000,0x0000000079e90000)]
+  0x0000000048032000 JavaThread "nioEventLoopGroup-504-1" [_thread_in_native, id=7728, stack(0x0000000078890000,0x0000000078990000)]
+  0x0000000048034000 JavaThread "nioEventLoopGroup-499-1" [_thread_in_native, id=43396, stack(0x0000000076090000,0x0000000076190000)]
+  0x000000004802e000 JavaThread "nioEventLoopGroup-500-1" [_thread_in_native, id=43652, stack(0x0000000075d90000,0x0000000075e90000)]
+  0x000000002dfe0000 JavaThread "nioEventLoopGroup-498-1" [_thread_in_native, id=35700, stack(0x0000000074490000,0x0000000074590000)]
+  0x000000004803d000 JavaThread "nioEventLoopGroup-494-1" [_thread_in_native, id=34628, stack(0x0000000071c90000,0x0000000071d90000)]
+  0x0000000048035800 JavaThread "nioEventLoopGroup-493-1" [_thread_in_native, id=40968, stack(0x0000000071a90000,0x0000000071b90000)]
+  0x0000000048031000 JavaThread "nioEventLoopGroup-492-1" [_thread_in_native, id=42912, stack(0x0000000070390000,0x0000000070490000)]
+  0x000000002fd70800 JavaThread "nioEventLoopGroup-488-1" [_thread_in_native, id=16896, stack(0x000000006d590000,0x000000006d690000)]
+  0x000000002fd98000 JavaThread "nioEventLoopGroup-487-1" [_thread_in_native, id=24408, stack(0x000000006c590000,0x000000006c690000)]
+  0x000000002dfe7000 JavaThread "nioEventLoopGroup-486-1" [_thread_in_native, id=43540, stack(0x000000006ae90000,0x000000006af90000)]
+  0x000000002fd68800 JavaThread "nioEventLoopGroup-481-1" [_thread_in_native, id=43112, stack(0x0000000069990000,0x0000000069a90000)]
+  0x000000002dffc800 JavaThread "nioEventLoopGroup-482-1" [_thread_in_native, id=40852, stack(0x0000000068390000,0x0000000068490000)]
+  0x000000002dfe6000 JavaThread "nioEventLoopGroup-480-1" [_thread_in_native, id=29388, stack(0x0000000066e90000,0x0000000066f90000)]
+  0x000000002fd5f800 JavaThread "nioEventLoopGroup-476-1" [_thread_in_native, id=15952, stack(0x0000000065790000,0x0000000065890000)]
+  0x000000002dfe5800 JavaThread "nioEventLoopGroup-474-1" [_thread_in_native, id=38412, stack(0x0000000062c90000,0x0000000062d90000)]
+  0x0000000029b02800 JavaThread "nioEventLoopGroup-475-1" [_thread_in_native, id=32572, stack(0x0000000062a90000,0x0000000062b90000)]
+  0x000000002fda8800 JavaThread "nioEventLoopGroup-470-1" [_thread_in_native, id=40516, stack(0x0000000061190000,0x0000000061290000)]
+  0x000000002dff9000 JavaThread "nioEventLoopGroup-468-1" [_thread_in_native, id=42032, stack(0x000000005fe90000,0x000000005ff90000)]
+  0x0000000029b01000 JavaThread "nioEventLoopGroup-469-1" [_thread_in_native, id=33072, stack(0x000000005ea90000,0x000000005eb90000)]
+  0x000000002dff6800 JavaThread "nioEventLoopGroup-463-1" [_thread_in_native, id=43172, stack(0x000000005c390000,0x000000005c490000)]
+  0x000000002dff9800 JavaThread "nioEventLoopGroup-464-1" [_thread_in_native, id=23424, stack(0x000000005ba90000,0x000000005bb90000)]
+  0x000000002fb8c800 JavaThread "nioEventLoopGroup-462-1" [_thread_in_native, id=40632, stack(0x000000005a690000,0x000000005a790000)]
+  0x000000002dff6000 JavaThread "nioEventLoopGroup-457-1" [_thread_in_native, id=42540, stack(0x0000000057d90000,0x0000000057e90000)]
+  0x000000002dfed000 JavaThread "nioEventLoopGroup-458-1" [_thread_in_native, id=12868, stack(0x0000000057990000,0x0000000057a90000)]
+  0x0000000029aff800 JavaThread "nioEventLoopGroup-456-1" [_thread_in_native, id=1036, stack(0x0000000056290000,0x0000000056390000)]
+  0x000000002dffe000 JavaThread "nioEventLoopGroup-451-1" [_thread_in_native, id=39756, stack(0x0000000054490000,0x0000000054590000)]
+  0x000000002dfeb800 JavaThread "nioEventLoopGroup-452-1" [_thread_in_native, id=42216, stack(0x0000000053590000,0x0000000053690000)]
+  0x000000002fb8d800 JavaThread "nioEventLoopGroup-450-1" [_thread_in_native, id=34272, stack(0x0000000051e90000,0x0000000051f90000)]
+  0x000000002dff0000 JavaThread "nioEventLoopGroup-445-1" [_thread_in_native, id=40288, stack(0x000000004f790000,0x000000004f890000)]
+  0x000000002dfdf800 JavaThread "nioEventLoopGroup-444-1" [_thread_in_native, id=41348, stack(0x000000004eb90000,0x000000004ec90000)]
+  0x000000002fd56800 JavaThread "nioEventLoopGroup-446-1" [_thread_in_native, id=41824, stack(0x000000004dd90000,0x000000004de90000)]
+  0x000000002dff7800 JavaThread "nioEventLoopGroup-440-1" [_thread_in_native, id=38236, stack(0x000000004c490000,0x000000004c590000)]
+  0x000000002fd99800 JavaThread "nioEventLoopGroup-439-1" [_thread_in_native, id=43472, stack(0x000000004a360000,0x000000004a460000)]
+  0x000000002fd96800 JavaThread "nioEventLoopGroup-438-1" [_thread_in_native, id=36056, stack(0x0000000048760000,0x0000000048860000)]
+  0x000000002dfed800 JavaThread "nioEventLoopGroup-434-1" [_thread_in_native, id=34248, stack(0x000000003c560000,0x000000003c660000)]
+  0x000000002dfea000 JavaThread "nioEventLoopGroup-432-1" [_thread_in_native, id=34004, stack(0x000000003c360000,0x000000003c460000)]
+  0x000000002fd58800 JavaThread "nioEventLoopGroup-433-1" [_thread_in_native, id=42636, stack(0x0000000037750000,0x0000000037850000)]
+  0x000000002dfe4800 JavaThread "nioEventLoopGroup-428-1" [_thread_in_native, id=43428, stack(0x0000000000310000,0x0000000000410000)]
+  0x000000002dfe4000 JavaThread "nioEventLoopGroup-427-1" [_thread_in_native, id=30628, stack(0x0000000000110000,0x0000000000210000)]
+  0x000000002fd8f000 JavaThread "nioEventLoopGroup-426-1" [_thread_in_native, id=36308, stack(0x000000007ec90000,0x000000007ed90000)]
+  0x000000002dffc000 JavaThread "nioEventLoopGroup-422-1" [_thread_in_native, id=35372, stack(0x000000007d390000,0x000000007d490000)]
+  0x000000002dff3000 JavaThread "nioEventLoopGroup-421-1" [_thread_in_native, id=36536, stack(0x000000007be90000,0x000000007bf90000)]
+  0x000000002dfe1000 JavaThread "nioEventLoopGroup-420-1" [_thread_in_native, id=33264, stack(0x000000007a990000,0x000000007aa90000)]
+  0x000000002dfe9000 JavaThread "nioEventLoopGroup-416-1" [_thread_in_native, id=40436, stack(0x0000000078a90000,0x0000000078b90000)]
+  0x000000002dfe1800 JavaThread "nioEventLoopGroup-415-1" [_thread_in_native, id=35152, stack(0x0000000077e90000,0x0000000077f90000)]
+  0x000000002fd95800 JavaThread "nioEventLoopGroup-414-1" [_thread_in_native, id=32248, stack(0x0000000076a90000,0x0000000076b90000)]
+  0x000000002dff5000 JavaThread "nioEventLoopGroup-410-1" [_thread_in_native, id=41156, stack(0x0000000074790000,0x0000000074890000)]
+  0x000000002dff1800 JavaThread "nioEventLoopGroup-409-1" [_thread_in_native, id=43560, stack(0x0000000073f90000,0x0000000074090000)]
+  0x000000002dfe3000 JavaThread "nioEventLoopGroup-408-1" [_thread_in_native, id=35876, stack(0x0000000072c90000,0x0000000072d90000)]
+  0x000000002fdab800 JavaThread "nioEventLoopGroup-404-1" [_thread_in_native, id=31892, stack(0x0000000070190000,0x0000000070290000)]
+  0x000000002fdaa000 JavaThread "nioEventLoopGroup-403-1" [_thread_in_native, id=39112, stack(0x0000000070090000,0x0000000070190000)]
+  0x000000002fd8e000 JavaThread "nioEventLoopGroup-402-1" [_thread_in_native, id=40184, stack(0x000000006e8b0000,0x000000006e9b0000)]
+  0x000000002fd71800 JavaThread "nioEventLoopGroup-398-1" [_thread_in_native, id=37184, stack(0x000000006bf90000,0x000000006c090000)]
+  0x000000002fda3000 JavaThread "nioEventLoopGroup-397-1" [_thread_in_native, id=4420, stack(0x000000006b090000,0x000000006b190000)]
+  0x000000002fd94000 JavaThread "nioEventLoopGroup-396-1" [_thread_in_native, id=41264, stack(0x0000000069e90000,0x0000000069f90000)]
+  0x000000002fda7000 JavaThread "nioEventLoopGroup-391-1" [_thread_in_native, id=25452, stack(0x0000000067490000,0x0000000067590000)]
+  0x000000002fda6000 JavaThread "nioEventLoopGroup-392-1" [_thread_in_native, id=31300, stack(0x0000000067290000,0x0000000067390000)]
+  0x000000002dab3800 JavaThread "nioEventLoopGroup-390-1" [_thread_in_native, id=43620, stack(0x0000000065e90000,0x0000000065f90000)]
+  0x000000002fd6a000 JavaThread "nioEventLoopGroup-386-1" [_thread_in_native, id=3992, stack(0x0000000064790000,0x0000000064890000)]
+  0x000000002fda1000 JavaThread "nioEventLoopGroup-385-1" [_thread_in_native, id=20252, stack(0x0000000063190000,0x0000000063290000)]
+  0x000000002f14e000 JavaThread "nioEventLoopGroup-384-1" [_thread_in_native, id=21380, stack(0x0000000062090000,0x0000000062190000)]
+  0x000000002fd66000 JavaThread "nioEventLoopGroup-380-1" [_thread_in_native, id=41748, stack(0x0000000060890000,0x0000000060990000)]
+  0x000000002fd95000 JavaThread "nioEventLoopGroup-379-1" [_thread_in_native, id=9948, stack(0x000000005e890000,0x000000005e990000)]
+  0x0000000029afe800 JavaThread "nioEventLoopGroup-378-1" [_thread_in_native, id=38436, stack(0x000000005e190000,0x000000005e290000)]
+  0x000000002fdaa800 JavaThread "nioEventLoopGroup-374-1" [_thread_in_native, id=32376, stack(0x000000005bd90000,0x000000005be90000)]
+  0x000000002dab2000 JavaThread "nioEventLoopGroup-373-1" [_thread_in_native, id=42092, stack(0x000000005a290000,0x000000005a390000)]
+  0x000000002dab1800 JavaThread "nioEventLoopGroup-372-1" [_thread_in_native, id=40072, stack(0x0000000059f90000,0x000000005a090000)]
+  0x000000002fda4800 JavaThread "nioEventLoopGroup-368-1" [_thread_in_native, id=39992, stack(0x0000000057c90000,0x0000000057d90000)]
+  0x000000002fd98800 JavaThread "nioEventLoopGroup-367-1" [_thread_in_native, id=42872, stack(0x0000000057790000,0x0000000057890000)]
+  0x000000002fb89000 JavaThread "nioEventLoopGroup-366-1" [_thread_in_native, id=28100, stack(0x0000000056090000,0x0000000056190000)]
+  0x000000002fdad000 JavaThread "nioEventLoopGroup-362-1" [_thread_in_native, id=33312, stack(0x0000000054b90000,0x0000000054c90000)]
+  0x000000002fd97000 JavaThread "nioEventLoopGroup-361-1" [_thread_in_native, id=38196, stack(0x0000000053890000,0x0000000053990000)]
+  0x0000000029b04800 JavaThread "nioEventLoopGroup-360-1" [_thread_in_native, id=43532, stack(0x0000000052190000,0x0000000052290000)]
+  0x000000002fd63000 JavaThread "nioEventLoopGroup-356-1" [_thread_in_native, id=43924, stack(0x000000004e990000,0x000000004ea90000)]
+  0x000000002fd57000 JavaThread "nioEventLoopGroup-354-1" [_thread_in_native, id=7124, stack(0x000000004e590000,0x000000004e690000)]
+  0x000000002fd55800 JavaThread "nioEventLoopGroup-355-1" [_thread_in_native, id=35464, stack(0x000000004e390000,0x000000004e490000)]
+  0x000000002fda7800 JavaThread "nioEventLoopGroup-350-1" [_thread_in_native, id=43992, stack(0x000000004cf90000,0x000000004d090000)]
+  0x0000000029b03000 JavaThread "nioEventLoopGroup-349-1" [_thread_in_native, id=43692, stack(0x000000004ab60000,0x000000004ac60000)]
+  0x0000000029af7000 JavaThread "nioEventLoopGroup-348-1" [_thread_in_native, id=33484, stack(0x000000004a560000,0x000000004a660000)]
+  0x000000002fda1800 JavaThread "nioEventLoopGroup-344-1" [_thread_in_native, id=7384, stack(0x0000000040370000,0x0000000040470000)]
+  0x000000002fd9e000 JavaThread "nioEventLoopGroup-343-1" [_thread_in_native, id=29752, stack(0x000000003fe90000,0x000000003ff90000)]
+  0x000000002fd8f800 JavaThread "nioEventLoopGroup-342-1" [_thread_in_native, id=28332, stack(0x000000003b880000,0x000000003b980000)]
+  0x000000002fd70000 JavaThread "nioEventLoopGroup-337-1" [_thread_in_native, id=41188, stack(0x000000002a470000,0x000000002a570000)]
+  0x000000002fd64800 JavaThread "nioEventLoopGroup-338-1" [_thread_in_native, id=23624, stack(0x0000000001520000,0x0000000001620000)]
+  0x000000002fd5a000 JavaThread "nioEventLoopGroup-336-1" [_thread_in_native, id=35652, stack(0x0000000000710000,0x0000000000810000)]
+  0x000000002fda0000 JavaThread "nioEventLoopGroup-332-1" [_thread_in_native, id=42732, stack(0x000000007e090000,0x000000007e190000)]
+  0x000000002fda4000 JavaThread "nioEventLoopGroup-331-1" [_thread_in_native, id=40576, stack(0x000000007dd90000,0x000000007de90000)]
+  0x000000002fd91000 JavaThread "nioEventLoopGroup-330-1" [_thread_in_native, id=43276, stack(0x000000007cb90000,0x000000007cc90000)]
+  0x000000002fd93800 JavaThread "nioEventLoopGroup-326-1" [_thread_in_native, id=43628, stack(0x000000007a190000,0x000000007a290000)]
+  0x000000002fd6f000 JavaThread "nioEventLoopGroup-325-1" [_thread_in_native, id=42576, stack(0x0000000079f90000,0x000000007a090000)]
+  0x000000002fd5c800 JavaThread "nioEventLoopGroup-324-1" [_thread_in_native, id=42088, stack(0x0000000078c90000,0x0000000078d90000)]
+  0x000000002fd9b800 JavaThread "nioEventLoopGroup-320-1" [_thread_in_native, id=42596, stack(0x0000000076e90000,0x0000000076f90000)]
+  0x000000002fd92800 JavaThread "nioEventLoopGroup-318-1" [_thread_in_native, id=35116, stack(0x0000000075590000,0x0000000075690000)]
+  0x000000002fd90800 JavaThread "nioEventLoopGroup-319-1" [_thread_in_native, id=39356, stack(0x0000000075190000,0x0000000075290000)]
+  0x000000002fd67800 JavaThread "nioEventLoopGroup-313-1" [_thread_in_native, id=40204, stack(0x0000000072990000,0x0000000072a90000)]
+  0x000000002fd64000 JavaThread "nioEventLoopGroup-314-1" [_thread_in_native, id=38424, stack(0x0000000072290000,0x0000000072390000)]
+  0x000000002fd55000 JavaThread "nioEventLoopGroup-312-1" [_thread_in_native, id=33708, stack(0x0000000071790000,0x0000000071890000)]
+  0x000000002fd6c000 JavaThread "nioEventLoopGroup-308-1" [_thread_in_native, id=31028, stack(0x000000006edb0000,0x000000006eeb0000)]
+  0x000000002fd6a800 JavaThread "nioEventLoopGroup-307-1" [_thread_in_native, id=24720, stack(0x000000006ebb0000,0x000000006ecb0000)]
+  0x000000002f3b1000 JavaThread "nioEventLoopGroup-306-1" [_thread_in_native, id=36132, stack(0x000000006cb90000,0x000000006cc90000)]
+  0x0000000029b00000 JavaThread "nioEventLoopGroup-302-1" [_thread_in_native, id=23212, stack(0x000000006b490000,0x000000006b590000)]
+  0x000000002fd5b800 JavaThread "nioEventLoopGroup-300-1" [_thread_in_native, id=35524, stack(0x0000000069690000,0x0000000069790000)]
+  0x000000002f14b000 JavaThread "nioEventLoopGroup-301-1" [_thread_in_native, id=38572, stack(0x0000000069190000,0x0000000069290000)]
+  0x0000000029af8800 JavaThread "nioEventLoopGroup-296-1" [_thread_in_native, id=37220, stack(0x0000000067b90000,0x0000000067c90000)]
+  0x000000002fd65800 JavaThread "nioEventLoopGroup-295-1" [_thread_in_native, id=42360, stack(0x0000000066990000,0x0000000066a90000)]
+  0x000000002daad000 JavaThread "nioEventLoopGroup-294-1" [_thread_in_native, id=37064, stack(0x0000000065690000,0x0000000065790000)]
+  0x0000000029af8000 JavaThread "nioEventLoopGroup-289-1" [_thread_in_native, id=35820, stack(0x0000000063e90000,0x0000000063f90000)]
+  0x000000002f3b1800 JavaThread "nioEventLoopGroup-288-1" [_thread_in_native, id=42056, stack(0x0000000061c90000,0x0000000061d90000)]
+  0x000000002f3a8800 JavaThread "nioEventLoopGroup-290-1" [_thread_in_native, id=36148, stack(0x0000000061a90000,0x0000000061b90000)]
+  0x000000002fd6d000 JavaThread "nioEventLoopGroup-284-1" [_thread_in_native, id=33000, stack(0x000000005f690000,0x000000005f790000)]
+  0x000000002fb85000 JavaThread "nioEventLoopGroup-283-1" [_thread_in_native, id=43696, stack(0x000000005de90000,0x000000005df90000)]
+  0x000000002fb8b000 JavaThread "nioEventLoopGroup-282-1" [_thread_in_native, id=32812, stack(0x000000005dd90000,0x000000005de90000)]
+  0x000000002fd72000 JavaThread "nioEventLoopGroup-278-1" [_thread_in_native, id=34344, stack(0x000000005c690000,0x000000005c790000)]
+  0x000000002fd62800 JavaThread "nioEventLoopGroup-277-1" [_thread_in_native, id=31836, stack(0x000000005b590000,0x000000005b690000)]
+  0x000000002daa9000 JavaThread "nioEventLoopGroup-276-1" [_thread_in_native, id=37140, stack(0x000000005a190000,0x000000005a290000)]
+  0x000000002fd6e800 JavaThread "nioEventLoopGroup-271-1" [_thread_in_native, id=34980, stack(0x0000000058590000,0x0000000058690000)]
+  0x000000002fb83000 JavaThread "nioEventLoopGroup-272-1" [_thread_in_native, id=43736, stack(0x0000000056990000,0x0000000056a90000)]
+  0x000000002fb89800 JavaThread "nioEventLoopGroup-270-1" [_thread_in_native, id=42236, stack(0x0000000056790000,0x0000000056890000)]
+  0x000000002fd5d000 JavaThread "nioEventLoopGroup-265-1" [_thread_in_native, id=43848, stack(0x0000000054090000,0x0000000054190000)]
+  0x0000000029afa000 JavaThread "nioEventLoopGroup-266-1" [_thread_in_native, id=34036, stack(0x0000000052c90000,0x0000000052d90000)]
+  0x0000000029afb800 JavaThread "nioEventLoopGroup-264-1" [_thread_in_native, id=36620, stack(0x0000000052990000,0x0000000052a90000)]
+  0x000000002fd5b000 JavaThread "nioEventLoopGroup-260-1" [_thread_in_native, id=42296, stack(0x000000004fc90000,0x000000004fd90000)]
+  0x000000002fb8c000 JavaThread "nioEventLoopGroup-259-1" [_thread_in_native, id=37772, stack(0x000000004f990000,0x000000004fa90000)]
+  0x000000002fb83800 JavaThread "nioEventLoopGroup-258-1" [_thread_in_native, id=41132, stack(0x000000004ee90000,0x000000004ef90000)]
+  0x000000002fd53800 JavaThread "nioEventLoopGroup-254-1" [_thread_in_native, id=43156, stack(0x000000004cd90000,0x000000004ce90000)]
+  0x000000002fd58000 JavaThread "nioEventLoopGroup-252-1" [_thread_in_native, id=43248, stack(0x000000004ca90000,0x000000004cb90000)]
+  0x0000000029afb000 JavaThread "nioEventLoopGroup-253-1" [_thread_in_native, id=23052, stack(0x000000004b460000,0x000000004b560000)]
+  0x000000002fd69000 JavaThread "nioEventLoopGroup-247-1" [_thread_in_native, id=34612, stack(0x000000004a160000,0x000000004a260000)]
+  0x000000002fd5e000 JavaThread "nioEventLoopGroup-248-1" [_thread_in_native, id=42404, stack(0x0000000044090000,0x0000000044190000)]
+  0x000000002fd54000 JavaThread "nioEventLoopGroup-246-1" [_thread_in_native, id=32356, stack(0x000000003ff90000,0x0000000040090000)]
+  0x000000002fd61000 JavaThread "nioEventLoopGroup-242-1" [_thread_in_native, id=11044, stack(0x0000000039260000,0x0000000039360000)]
+  0x000000002fb81800 JavaThread "nioEventLoopGroup-241-1" [_thread_in_native, id=43776, stack(0x000000002ae70000,0x000000002af70000)]
+  0x000000002fb86000 JavaThread "nioEventLoopGroup-240-1" [_thread_in_native, id=28288, stack(0x000000002ad70000,0x000000002ae70000)]
+  0x000000002fd67000 JavaThread "nioEventLoopGroup-236-1" [_thread_in_native, id=15304, stack(0x0000000000b10000,0x0000000000c10000)]
+  0x000000002fd61800 JavaThread "nioEventLoopGroup-235-1" [_thread_in_native, id=28524, stack(0x000000007f790000,0x000000007f890000)]
+  0x000000002fd59800 JavaThread "nioEventLoopGroup-234-1" [_thread_in_native, id=34476, stack(0x000000007e590000,0x000000007e690000)]
+  0x000000002daaf000 JavaThread "nioEventLoopGroup-230-1" [_thread_in_native, id=38600, stack(0x000000007d090000,0x000000007d190000)]
+  0x000000002d0da000 JavaThread "nioEventLoopGroup-228-1" [_thread_in_native, id=41024, stack(0x000000007ae90000,0x000000007af90000)]
+  0x000000002d0df800 JavaThread "nioEventLoopGroup-229-1" [_thread_in_native, id=38744, stack(0x000000007ad90000,0x000000007ae90000)]
+  0x000000002fb8e000 JavaThread "nioEventLoopGroup-223-1" [_thread_in_native, id=32032, stack(0x0000000079490000,0x0000000079590000)]
+  0x0000000029afd000 JavaThread "nioEventLoopGroup-222-1" [_thread_in_native, id=43944, stack(0x0000000077990000,0x0000000077a90000)]
+  0x000000002d0dd000 JavaThread "nioEventLoopGroup-224-1" [_thread_in_native, id=30596, stack(0x0000000077690000,0x0000000077790000)]
+  0x000000002fb8a800 JavaThread "nioEventLoopGroup-218-1" [_thread_in_native, id=43968, stack(0x0000000075c90000,0x0000000075d90000)]
+  0x0000000029b04000 JavaThread "nioEventLoopGroup-217-1" [_thread_in_native, id=21364, stack(0x0000000075090000,0x0000000075190000)]
+  0x000000002da31800 JavaThread "nioEventLoopGroup-216-1" [_thread_in_native, id=39940, stack(0x0000000073e90000,0x0000000073f90000)]
+  0x0000000029afc800 JavaThread "nioEventLoopGroup-210-1" [_thread_in_native, id=39860, stack(0x0000000071190000,0x0000000071290000)]
+  0x0000000029afe000 JavaThread "nioEventLoopGroup-212-1" [_thread_in_native, id=43292, stack(0x0000000070b90000,0x0000000070c90000)]
+  0x000000002f14a000 JavaThread "nioEventLoopGroup-211-1" [_thread_in_native, id=43488, stack(0x0000000070690000,0x0000000070790000)]
+  0x000000002fb88000 JavaThread "nioEventLoopGroup-206-1" [_thread_in_native, id=42692, stack(0x000000006d790000,0x000000006d890000)]
+  0x000000002f3b2800 JavaThread "nioEventLoopGroup-204-1" [_thread_in_native, id=31920, stack(0x000000006c290000,0x000000006c390000)]
+  0x000000002f3a7800 JavaThread "nioEventLoopGroup-205-1" [_thread_in_native, id=31284, stack(0x000000006be90000,0x000000006bf90000)]
+  0x000000002fb87800 JavaThread "nioEventLoopGroup-200-1" [_thread_in_native, id=42408, stack(0x0000000068b90000,0x0000000068c90000)]
+  0x000000002da2b800 JavaThread "nioEventLoopGroup-199-1" [_thread_in_native, id=43732, stack(0x0000000068890000,0x0000000068990000)]
+  0x000000002da30000 JavaThread "nioEventLoopGroup-198-1" [_thread_in_native, id=33924, stack(0x0000000068690000,0x0000000068790000)]
+  0x000000002fb86800 JavaThread "nioEventLoopGroup-194-1" [_thread_in_native, id=29896, stack(0x0000000065490000,0x0000000065590000)]
+  0x000000002fb82000 JavaThread "nioEventLoopGroup-193-1" [_thread_in_native, id=33344, stack(0x0000000065390000,0x0000000065490000)]
+  0x000000002fb84800 JavaThread "nioEventLoopGroup-192-1" [_thread_in_native, id=42764, stack(0x0000000064f90000,0x0000000065090000)]
+  0x000000002f3a9000 JavaThread "nioEventLoopGroup-186-1" [_thread_in_native, id=43768, stack(0x0000000063890000,0x0000000063990000)]
+  0x000000002d0de800 JavaThread "nioEventLoopGroup-187-1" [_thread_in_native, id=32332, stack(0x0000000061890000,0x0000000061990000)]
+  0x000000002d0d6800 JavaThread "nioEventLoopGroup-188-1" [_thread_in_native, id=35188, stack(0x0000000061790000,0x0000000061890000)]
+  0x000000002daa8800 JavaThread "nioEventLoopGroup-182-1" [_thread_in_native, id=42064, stack(0x000000005fa90000,0x000000005fb90000)]
+  0x0000000029af5800 JavaThread "nioEventLoopGroup-181-1" [_thread_in_native, id=35924, stack(0x000000005e490000,0x000000005e590000)]
+  0x000000002d0d5800 JavaThread "nioEventLoopGroup-180-1" [_thread_in_native, id=33996, stack(0x000000005df90000,0x000000005e090000)]
+  0x000000002f3aa000 JavaThread "nioEventLoopGroup-176-1" [_thread_in_native, id=36228, stack(0x000000005ca90000,0x000000005cb90000)]
+  0x000000002f14c800 JavaThread "nioEventLoopGroup-174-1" [_thread_in_native, id=36196, stack(0x000000005a890000,0x000000005a990000)]
+  0x000000002f14f800 JavaThread "nioEventLoopGroup-175-1" [_thread_in_native, id=40284, stack(0x000000005a790000,0x000000005a890000)]
+  0x000000002dab3000 JavaThread "nioEventLoopGroup-170-1" [_thread_in_native, id=43464, stack(0x0000000059190000,0x0000000059290000)]
+  0x000000002da32000 JavaThread "nioEventLoopGroup-168-1" [_thread_in_native, id=37084, stack(0x0000000057490000,0x0000000057590000)]
+  0x000000002da28800 JavaThread "nioEventLoopGroup-169-1" [_thread_in_native, id=27704, stack(0x0000000056f90000,0x0000000057090000)]
+  0x000000002f3ab000 JavaThread "nioEventLoopGroup-164-1" [_thread_in_native, id=42120, stack(0x0000000055990000,0x0000000055a90000)]
+  0x000000002f14b800 JavaThread "nioEventLoopGroup-162-1" [_thread_in_native, id=29680, stack(0x0000000053990000,0x0000000053a90000)]
+  0x000000002f142800 JavaThread "nioEventLoopGroup-163-1" [_thread_in_native, id=32012, stack(0x0000000053790000,0x0000000053890000)]
+  0x000000002f3ad000 JavaThread "nioEventLoopGroup-158-1" [_thread_in_native, id=17464, stack(0x0000000051590000,0x0000000051690000)]
+  0x0000000029af9800 JavaThread "nioEventLoopGroup-157-1" [_thread_in_native, id=42992, stack(0x0000000050190000,0x0000000050290000)]
+  0x0000000029af6800 JavaThread "nioEventLoopGroup-156-1" [_thread_in_native, id=35880, stack(0x000000004ff90000,0x0000000050090000)]
+  0x000000002dab0000 JavaThread "nioEventLoopGroup-151-1" [_thread_in_native, id=43440, stack(0x000000004d690000,0x000000004d790000)]
+  0x000000002da2f000 JavaThread "nioEventLoopGroup-150-1" [_thread_in_native, id=39760, stack(0x000000004c990000,0x000000004ca90000)]
+  0x000000002da27800 JavaThread "nioEventLoopGroup-152-1" [_thread_in_native, id=24848, stack(0x000000004c890000,0x000000004c990000)]
+  0x000000002daaa000 JavaThread "nioEventLoopGroup-146-1" [_thread_in_native, id=30876, stack(0x0000000048e90000,0x0000000048f90000)]
+  0x000000002da33800 JavaThread "nioEventLoopGroup-144-1" [_thread_in_native, id=42896, stack(0x0000000048560000,0x0000000048660000)]
+  0x000000002da2d800 JavaThread "nioEventLoopGroup-145-1" [_thread_in_native, id=43680, stack(0x0000000045d90000,0x0000000045e90000)]
+  0x000000002daad800 JavaThread "nioEventLoopGroup-140-1" [_thread_in_native, id=35648, stack(0x000000003c060000,0x000000003c160000)]
+  0x000000002da2a000 JavaThread "nioEventLoopGroup-139-1" [_thread_in_native, id=41476, stack(0x0000000038d60000,0x0000000038e60000)]
+  0x000000002d52e800 JavaThread "nioEventLoopGroup-138-1" [_thread_in_native, id=42604, stack(0x0000000037b50000,0x0000000037c50000)]
+  0x000000002da30800 JavaThread "nioEventLoopGroup-134-1" [_thread_in_native, id=37516, stack(0x000000007f990000,0x000000007fa90000)]
+  0x000000002da29000 JavaThread "nioEventLoopGroup-133-1" [_thread_in_native, id=41924, stack(0x000000007f890000,0x000000007f990000)]
+  0x000000002f149800 JavaThread "nioEventLoopGroup-132-1" [_thread_in_native, id=43552, stack(0x000000007e990000,0x000000007ea90000)]
+  0x000000002da33000 JavaThread "nioEventLoopGroup-128-1" [_thread_in_native, id=40064, stack(0x000000007c990000,0x000000007ca90000)]
+  0x000000002da2c000 JavaThread "nioEventLoopGroup-127-1" [_thread_in_native, id=37684, stack(0x000000007bd90000,0x000000007be90000)]
+  0x000000002d0db800 JavaThread "nioEventLoopGroup-126-1" [_thread_in_native, id=38432, stack(0x000000007b490000,0x000000007b590000)]
+  0x000000002da34800 JavaThread "nioEventLoopGroup-122-1" [_thread_in_native, id=38496, stack(0x0000000079990000,0x0000000079a90000)]
+  0x000000002f3ae000 JavaThread "nioEventLoopGroup-121-1" [_thread_in_native, id=31360, stack(0x0000000078290000,0x0000000078390000)]
+  0x000000002f3ab800 JavaThread "nioEventLoopGroup-120-1" [_thread_in_native, id=42516, stack(0x0000000077f90000,0x0000000078090000)]
+  0x000000002da2e800 JavaThread "nioEventLoopGroup-115-1" [_thread_in_native, id=39840, stack(0x0000000075690000,0x0000000075790000)]
+  0x000000002f14d000 JavaThread "nioEventLoopGroup-116-1" [_thread_in_native, id=30084, stack(0x0000000075390000,0x0000000075490000)]
+  0x000000002f141000 JavaThread "nioEventLoopGroup-114-1" [_thread_in_native, id=40736, stack(0x0000000074a90000,0x0000000074b90000)]
+  0x000000002daa7800 JavaThread "nioEventLoopGroup-110-1" [_thread_in_native, id=43336, stack(0x0000000072d90000,0x0000000072e90000)]
+  0x000000002da27000 JavaThread "nioEventLoopGroup-109-1" [_thread_in_native, id=39984, stack(0x0000000071890000,0x0000000071990000)]
+  0x000000002da2d000 JavaThread "nioEventLoopGroup-108-1" [_thread_in_native, id=39256, stack(0x0000000071690000,0x0000000071790000)]
+  0x000000002f3a6000 JavaThread "nioEventLoopGroup-104-1" [_thread_in_native, id=43792, stack(0x000000006efb0000,0x000000006f0b0000)]
+  0x000000002f3a3000 JavaThread "nioEventLoopGroup-103-1" [_thread_in_native, id=43812, stack(0x000000006eeb0000,0x000000006efb0000)]
+  0x000000002d52d800 JavaThread "nioEventLoopGroup-102-1" [_thread_in_native, id=42016, stack(0x000000006d190000,0x000000006d290000)]
+  0x000000002f3ae800 JavaThread "nioEventLoopGroup-98-1" [_thread_in_native, id=38928, stack(0x000000006b690000,0x000000006b790000)]
+  0x000000002daab800 JavaThread "nioEventLoopGroup-97-1" [_thread_in_native, id=28700, stack(0x000000006a490000,0x000000006a590000)]
+  0x000000002d52d000 JavaThread "nioEventLoopGroup-96-1" [_thread_in_native, id=37976, stack(0x0000000069c90000,0x0000000069d90000)]
+  0x000000002daaa800 JavaThread "nioEventLoopGroup-92-1" [_thread_in_native, id=44024, stack(0x0000000067690000,0x0000000067790000)]
+  0x000000002f148000 JavaThread "nioEventLoopGroup-90-1" [_thread_in_native, id=12608, stack(0x0000000066890000,0x0000000066990000)]
+  0x000000002f145800 JavaThread "nioEventLoopGroup-91-1" [_thread_in_native, id=40972, stack(0x0000000066790000,0x0000000066890000)]
+  0x000000002f3a4800 JavaThread "nioEventLoopGroup-84-1" [_thread_in_native, id=42748, stack(0x0000000063b90000,0x0000000063c90000)]
+  0x000000002d0d8800 JavaThread "nioEventLoopGroup-85-1" [_thread_in_native, id=33984, stack(0x0000000063390000,0x0000000063490000)]
+  0x000000002d0d8000 JavaThread "nioEventLoopGroup-86-1" [_thread_in_native, id=35592, stack(0x0000000063290000,0x0000000063390000)]
+  0x000000002f3af800 JavaThread "nioEventLoopGroup-80-1" [_thread_in_native, id=35260, stack(0x0000000061390000,0x0000000061490000)]
+  0x000000002f147000 JavaThread "nioEventLoopGroup-78-1" [_thread_in_native, id=35860, stack(0x000000005ff90000,0x0000000060090000)]
+  0x000000002f145000 JavaThread "nioEventLoopGroup-79-1" [_thread_in_native, id=32684, stack(0x000000005fd90000,0x000000005fe90000)]
+  0x000000002f3a5800 JavaThread "nioEventLoopGroup-74-1" [_thread_in_native, id=42368, stack(0x000000005d290000,0x000000005d390000)]
+  0x000000002d0de000 JavaThread "nioEventLoopGroup-73-1" [_thread_in_native, id=39196, stack(0x000000005cd90000,0x000000005ce90000)]
+  0x000000002d0dc800 JavaThread "nioEventLoopGroup-72-1" [_thread_in_native, id=40432, stack(0x000000005c890000,0x000000005c990000)]
+  0x000000002f3b0000 JavaThread "nioEventLoopGroup-68-1" [_thread_in_native, id=34028, stack(0x000000005a490000,0x000000005a590000)]
+  0x000000002f3a4000 JavaThread "nioEventLoopGroup-67-1" [_thread_in_native, id=40232, stack(0x0000000059690000,0x0000000059790000)]
+  0x000000002f3a7000 JavaThread "nioEventLoopGroup-66-1" [_thread_in_native, id=35172, stack(0x0000000059390000,0x0000000059490000)]
+  0x000000002daa5800 JavaThread "nioEventLoopGroup-61-1" [_thread_in_native, id=37620, stack(0x0000000056590000,0x0000000056690000)]
+  0x000000002d52c000 JavaThread "nioEventLoopGroup-62-1" [_thread_in_native, id=36352, stack(0x0000000056190000,0x0000000056290000)]
+  0x000000002d52f000 JavaThread "nioEventLoopGroup-60-1" [_thread_in_native, id=41736, stack(0x0000000055f90000,0x0000000056090000)]
+  0x000000002daac000 JavaThread "nioEventLoopGroup-54-1" [_thread_in_native, id=42888, stack(0x0000000053390000,0x0000000053490000)]
+  0x000000002d524800 JavaThread "nioEventLoopGroup-55-1" [_thread_in_native, id=10024, stack(0x0000000052b90000,0x0000000052c90000)]
+  0x000000002d52b800 JavaThread "nioEventLoopGroup-56-1" [_thread_in_native, id=35500, stack(0x0000000052a90000,0x0000000052b90000)]
+  0x000000002dab0800 JavaThread "nioEventLoopGroup-49-1" [_thread_in_native, id=28464, stack(0x0000000050c90000,0x0000000050d90000)]
+  0x000000002d0d9800 JavaThread "nioEventLoopGroup-50-1" [_thread_in_native, id=30712, stack(0x000000004f690000,0x000000004f790000)]
+  0x000000002d0d0800 JavaThread "nioEventLoopGroup-48-1" [_thread_in_native, id=29808, stack(0x000000004f590000,0x000000004f690000)]
+  0x000000002d52a800 JavaThread "nioEventLoopGroup-44-1" [_thread_in_native, id=42340, stack(0x000000004c290000,0x000000004c390000)]
+  0x000000002d529000 JavaThread "nioEventLoopGroup-42-1" [_thread_in_native, id=43208, stack(0x000000004c190000,0x000000004c290000)]
+  0x000000002d52a000 JavaThread "nioEventLoopGroup-43-1" [_thread_in_native, id=24728, stack(0x000000004c090000,0x000000004c190000)]
+  0x000000002f148800 JavaThread "nioEventLoopGroup-38-1" [_thread_in_native, id=37584, stack(0x0000000049090000,0x0000000049190000)]
+  0x000000002f140800 JavaThread "nioEventLoopGroup-37-1" [_thread_in_native, id=38988, stack(0x0000000048d90000,0x0000000048e90000)]
+  0x000000002f142000 JavaThread "nioEventLoopGroup-36-1" [_thread_in_native, id=37300, stack(0x0000000048b90000,0x0000000048c90000)]
+  0x000000002d0d5000 JavaThread "nioEventLoopGroup-30-1" [_thread_in_native, id=35068, stack(0x0000000044880000,0x0000000044980000)]
+  0x000000002d0d4000 JavaThread "nioEventLoopGroup-32-1" [_thread_in_native, id=35936, stack(0x0000000044780000,0x0000000044880000)]
+  0x000000002d0d3800 JavaThread "nioEventLoopGroup-31-1" [_thread_in_native, id=43544, stack(0x0000000044680000,0x0000000044780000)]
+  0x000000002f143800 JavaThread "nioEventLoopGroup-25-1" [_thread_in_native, id=42788, stack(0x0000000040670000,0x0000000040770000)]
+  0x000000002f146800 JavaThread "nioEventLoopGroup-26-1" [_thread_in_native, id=31768, stack(0x0000000040570000,0x0000000040670000)]
+  0x000000002f144000 JavaThread "nioEventLoopGroup-24-1" [_thread_in_native, id=34072, stack(0x0000000040170000,0x0000000040270000)]
+  0x000000002d0d1000 JavaThread "nioEventLoopGroup-20-1" [_thread_in_native, id=36424, stack(0x000000003be60000,0x000000003bf60000)]
+  0x000000002d0d2800 JavaThread "nioEventLoopGroup-19-1" [_thread_in_native, id=3748, stack(0x000000003bd60000,0x000000003be60000)]
+  0x000000002d0d2000 JavaThread "nioEventLoopGroup-18-1" [_thread_in_native, id=17812, stack(0x000000003bc60000,0x000000003bd60000)]
+  0x000000002d0db000 JavaThread "nioEventLoopGroup-14-1" [_thread_in_native, id=37284, stack(0x0000000039760000,0x0000000039860000)]
+  0x000000002d0d7000 JavaThread "nioEventLoopGroup-12-1" [_thread_in_native, id=31036, stack(0x0000000037a50000,0x0000000037b50000)]
+  0x000000002daae800 JavaThread "nioEventLoopGroup-13-1" [_thread_in_native, id=42936, stack(0x0000000037550000,0x0000000037650000)]
+  0x000000002dab4800 JavaThread "threadDeathWatcher-8-1" daemon [_thread_blocked, id=43460, stack(0x0000000034420000,0x0000000034520000)]
+  0x000000002d530000 JavaThread "nioEventLoopGroup-5-1" [_thread_in_native, id=44028, stack(0x0000000030c20000,0x0000000030d20000)]
+  0x000000002d521800 JavaThread "nioEventLoopGroup-6-1" [_thread_in_native, id=42564, stack(0x0000000030b20000,0x0000000030c20000)]
+  0x000000002d525800 JavaThread "nioEventLoopGroup-7-1" [_thread_in_native, id=28436, stack(0x0000000030990000,0x0000000030a90000)]
+  0x000000002d524000 JavaThread "Timer-13" [_thread_blocked, id=32108, stack(0x0000000030470000,0x0000000030570000)]
+  0x000000002d528800 JavaThread "Timer-12" [_thread_blocked, id=33360, stack(0x0000000030370000,0x0000000030470000)]
+  0x000000002d527800 JavaThread "Timer-11" [_thread_blocked, id=35256, stack(0x0000000030270000,0x0000000030370000)]
+  0x000000002d526000 JavaThread "Timer-10" [_thread_blocked, id=32856, stack(0x000000002efa0000,0x000000002f0a0000)]
+  0x000000002d522800 JavaThread "Timer-9" [_thread_blocked, id=41568, stack(0x000000002eea0000,0x000000002efa0000)]
+  0x000000002879c000 JavaThread "Thread-16" [_thread_blocked, id=35640, stack(0x000000002eda0000,0x000000002eea0000)]
+  0x000000002879a800 JavaThread "Timer-7" [_thread_blocked, id=43504, stack(0x000000002eba0000,0x000000002eca0000)]
+  0x0000000028798000 JavaThread "Timer-6" [_thread_blocked, id=40600, stack(0x000000002eaa0000,0x000000002eba0000)]
+  0x000000002879c800 JavaThread "Timer-5" [_thread_blocked, id=38084, stack(0x000000002e9a0000,0x000000002eaa0000)]
+  0x0000000028799800 JavaThread "Timer-4" [_thread_blocked, id=33812, stack(0x000000002e8a0000,0x000000002e9a0000)]
+  0x000000002879d800 JavaThread "Timer-3" [_thread_blocked, id=29788, stack(0x000000002e3a0000,0x000000002e4a0000)]
+  0x0000000028799000 JavaThread "Thread-8" [_thread_in_native, id=43100, stack(0x000000002e2a0000,0x000000002e3a0000)]
+  0x0000000028796800 JavaThread "DestroyJavaVM" [_thread_blocked, id=22460, stack(0x0000000003400000,0x0000000003500000)]
+  0x0000000029a0b000 JavaThread "Timer-2" [_thread_blocked, id=41652, stack(0x000000002cfc0000,0x000000002d0c0000)]
+  0x00000000299f4000 JavaThread "Timer-1" [_thread_blocked, id=3556, stack(0x000000002cec0000,0x000000002cfc0000)]
+  0x0000000029a02000 JavaThread "Timer-0" [_thread_blocked, id=43244, stack(0x000000002cdc0000,0x000000002cec0000)]
+  0x00000000295fd000 JavaThread "TimerQueue" daemon [_thread_blocked, id=42116, stack(0x000000002cc70000,0x000000002cd70000)]
+  0x00000000294f5000 JavaThread "AWT-EventQueue-0" [_thread_blocked, id=31800, stack(0x000000002b7e0000,0x000000002b8e0000)]
+  0x000000002944f000 JavaThread "AWT-Windows" daemon [_thread_in_native, id=35588, stack(0x0000000029e30000,0x0000000029f30000)]
+  0x000000002944c000 JavaThread "AWT-Shutdown" [_thread_blocked, id=34952, stack(0x0000000029d30000,0x0000000029e30000)]
+  0x0000000029449800 JavaThread "Java2D Disposer" daemon [_thread_blocked, id=42252, stack(0x0000000029bf0000,0x0000000029cf0000)]
+  0x00000000286b5000 JavaThread "Service Thread" daemon [_thread_blocked, id=33884, stack(0x0000000029110000,0x0000000029210000)]
+  0x000000002862b800 JavaThread "C1 CompilerThread3" daemon [_thread_blocked, id=40176, stack(0x0000000029010000,0x0000000029110000)]
+  0x0000000028620000 JavaThread "C2 CompilerThread2" daemon [_thread_blocked, id=43624, stack(0x0000000028f10000,0x0000000029010000)]
+  0x000000002861b000 JavaThread "C2 CompilerThread1" daemon [_thread_blocked, id=35120, stack(0x0000000028e10000,0x0000000028f10000)]
+  0x0000000028615800 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=26692, stack(0x0000000028d10000,0x0000000028e10000)]
+  0x0000000028612800 JavaThread "Attach Listener" daemon [_thread_blocked, id=16076, stack(0x0000000028c10000,0x0000000028d10000)]
+  0x00000000285be000 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=39504, stack(0x0000000028b10000,0x0000000028c10000)]
+  0x00000000285a0800 JavaThread "Finalizer" daemon [_thread_blocked, id=39644, stack(0x0000000028980000,0x0000000028a80000)]
+  0x000000000366b800 JavaThread "Reference Handler" daemon [_thread_blocked, id=35776, stack(0x0000000028480000,0x0000000028580000)]
+
+Other Threads:
+  0x000000002669a000 VMThread [stack: 0x0000000028380000,0x0000000028480000] [id=19768]
+  0x00000000286cd000 WatcherThread [stack: 0x0000000029210000,0x0000000029310000] [id=33656]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap:
+ PSYoungGen      total 350720K, used 344428K [0x0000000715e00000, 0x000000073c700000, 0x00000007c0000000)
+  eden space 106496K, 94% used [0x0000000715e00000,0x000000071bfdb208,0x000000071c600000)
+  from space 244224K, 100% used [0x000000071c600000,0x000000072b480000,0x000000072b480000)
+  to   space 205312K, 0% used [0x000000072b480000,0x000000072b480000,0x0000000737d00000)
+ ParOldGen       total 751616K, used 314811K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 41% used [0x00000005c1a00000,0x00000005d4d6ecf0,0x00000005ef800000)
+ Metaspace       used 31690K, capacity 31992K, committed 32384K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+
+Card table byte_map: [0x0000000012a30000,0x0000000013a30000] byte_map_base: 0x000000000fc23000
+
+Marking Bits: (ParMarkBitMap*) 0x000000006e442d00
+ Begin Bits: [0x0000000014ce0000, 0x000000001cc78000)
+ End Bits:   [0x000000001cc78000, 0x0000000024c10000)
+
+Polling page: 0x0000000000ff0000
+
+CodeCache: size=245760Kb used=15433Kb max_used=15538Kb free=230326Kb
+ bounds [0x0000000003670000, 0x00000000045d0000, 0x0000000012670000]
+ total_blobs=5689 nmethods=5027 adapters=572
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 450.745 Thread 0x000000002862b800 5889       3       java.util.TimSort::mergeCollapse (101 bytes)
+Event: 450.745 Thread 0x000000002862b800 nmethod 5889 0x00000000040456d0 code [0x0000000004045860, 0x0000000004045c98]
+Event: 455.653 Thread 0x000000002862b800 5890       1       javax.swing.plaf.basic.BasicTextUI$UpdateHandler::invalidateLayout (1 bytes)
+Event: 455.653 Thread 0x000000002862b800 nmethod 5890 0x0000000003d0f1d0 code [0x0000000003d0f320, 0x0000000003d0f430]
+Event: 455.893 Thread 0x0000000028615800 5891       4       io.netty.buffer.AbstractByteBuf::<init> (46 bytes)
+Event: 455.894 Thread 0x0000000028615800 nmethod 5891 0x0000000003d5f490 code [0x0000000003d5f5c0, 0x0000000003d5f638]
+Event: 456.804 Thread 0x000000002862b800 5892   !   3       java.text.SimpleDateFormat::parse (456 bytes)
+Event: 456.807 Thread 0x000000002862b800 nmethod 5892 0x0000000003dd6fd0 code [0x0000000003dd7300, 0x0000000003dd9178]
+Event: 458.676 Thread 0x0000000028620000 5893   !   4       io.netty.util.concurrent.MultithreadEventExecutorGroup::<init> (445 bytes)
+Event: 458.765 Thread 0x0000000028620000 nmethod 5893 0x00000000041a0f10 code [0x00000000041a12e0, 0x00000000041a39e8]
+
+GC Heap History (10 events):
+Event: 149.574 GC heap before
+{Heap before GC invocations=10 (full 3):
+ PSYoungGen      total 308224K, used 209856K [0x0000000715e00000, 0x0000000732d80000, 0x00000007c0000000)
+  eden space 170496K, 100% used [0x0000000715e00000,0x0000000720480000,0x0000000720480000)
+  from space 137728K, 28% used [0x000000072a700000,0x000000072cd70000,0x0000000732d80000)
+  to   space 152064K, 0% used [0x0000000720480000,0x0000000720480000,0x0000000729900000)
+ ParOldGen       total 751616K, used 294129K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d393c4b0,0x00000005ef800000)
+ Metaspace       used 31300K, capacity 31600K, committed 31872K, reserved 1077248K
+  class space    used 4128K, capacity 4209K, committed 4224K, reserved 1048576K
+Event: 149.597 GC heap after
+Heap after GC invocations=10 (full 3):
+ PSYoungGen      total 252416K, used 84992K [0x0000000715e00000, 0x0000000732c80000, 0x00000007c0000000)
+  eden space 167424K, 0% used [0x0000000715e00000,0x0000000715e00000,0x0000000720180000)
+  from space 84992K, 100% used [0x0000000720480000,0x0000000725780000,0x0000000725780000)
+  to   space 153088K, 0% used [0x0000000729700000,0x0000000729700000,0x0000000732c80000)
+ ParOldGen       total 751616K, used 294137K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d393e4b0,0x00000005ef800000)
+ Metaspace       used 31300K, capacity 31600K, committed 31872K, reserved 1077248K
+  class space    used 4128K, capacity 4209K, committed 4224K, reserved 1048576K
+}
+Event: 221.573 GC heap before
+{Heap before GC invocations=11 (full 3):
+ PSYoungGen      total 252416K, used 252416K [0x0000000715e00000, 0x0000000732c80000, 0x00000007c0000000)
+  eden space 167424K, 100% used [0x0000000715e00000,0x0000000720180000,0x0000000720180000)
+  from space 84992K, 100% used [0x0000000720480000,0x0000000725780000,0x0000000725780000)
+  to   space 153088K, 0% used [0x0000000729700000,0x0000000729700000,0x0000000732c80000)
+ ParOldGen       total 751616K, used 294137K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d393e4b0,0x00000005ef800000)
+ Metaspace       used 31418K, capacity 31728K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+Event: 221.605 GC heap after
+Heap after GC invocations=11 (full 3):
+ PSYoungGen      total 300544K, used 132320K [0x0000000715e00000, 0x0000000735100000, 0x00000007c0000000)
+  eden space 147456K, 0% used [0x0000000715e00000,0x0000000715e00000,0x000000071ee00000)
+  from space 153088K, 86% used [0x0000000729700000,0x0000000731838000,0x0000000732c80000)
+  to   space 173056K, 0% used [0x000000071ee00000,0x000000071ee00000,0x0000000729700000)
+ ParOldGen       total 751616K, used 294145K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d39404b0,0x00000005ef800000)
+ Metaspace       used 31418K, capacity 31728K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+}
+Event: 287.713 GC heap before
+{Heap before GC invocations=12 (full 3):
+ PSYoungGen      total 300544K, used 279776K [0x0000000715e00000, 0x0000000735100000, 0x00000007c0000000)
+  eden space 147456K, 100% used [0x0000000715e00000,0x000000071ee00000,0x000000071ee00000)
+  from space 153088K, 86% used [0x0000000729700000,0x0000000731838000,0x0000000732c80000)
+  to   space 173056K, 0% used [0x000000071ee00000,0x000000071ee00000,0x0000000729700000)
+ ParOldGen       total 751616K, used 294145K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d39404b0,0x00000005ef800000)
+ Metaspace       used 31541K, capacity 31856K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+Event: 287.754 GC heap after
+Heap after GC invocations=12 (full 3):
+ PSYoungGen      total 318464K, used 173056K [0x0000000715e00000, 0x0000000737d00000, 0x00000007c0000000)
+  eden space 145408K, 0% used [0x0000000715e00000,0x0000000715e00000,0x000000071ec00000)
+  from space 173056K, 100% used [0x000000071ee00000,0x0000000729700000,0x0000000729700000)
+  to   space 205312K, 0% used [0x000000072b480000,0x000000072b480000,0x0000000737d00000)
+ ParOldGen       total 751616K, used 299062K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d3e0dad0,0x00000005ef800000)
+ Metaspace       used 31541K, capacity 31856K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+}
+Event: 356.501 GC heap before
+{Heap before GC invocations=13 (full 3):
+ PSYoungGen      total 318464K, used 318464K [0x0000000715e00000, 0x0000000737d00000, 0x00000007c0000000)
+  eden space 145408K, 100% used [0x0000000715e00000,0x000000071ec00000,0x000000071ec00000)
+  from space 173056K, 100% used [0x000000071ee00000,0x0000000729700000,0x0000000729700000)
+  to   space 205312K, 0% used [0x000000072b480000,0x000000072b480000,0x0000000737d00000)
+ ParOldGen       total 751616K, used 299062K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 39% used [0x00000005c1a00000,0x00000005d3e0dad0,0x00000005ef800000)
+ Metaspace       used 31565K, capacity 31920K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+Event: 356.561 GC heap after
+Heap after GC invocations=13 (full 3):
+ PSYoungGen      total 311808K, used 205312K [0x0000000715e00000, 0x000000073c700000, 0x00000007c0000000)
+  eden space 106496K, 0% used [0x0000000715e00000,0x0000000715e00000,0x000000071c600000)
+  from space 205312K, 100% used [0x000000072b480000,0x0000000737d00000,0x0000000737d00000)
+  to   space 244224K, 0% used [0x000000071c600000,0x000000071c600000,0x000000072b480000)
+ ParOldGen       total 751616K, used 313835K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 41% used [0x00000005c1a00000,0x00000005d4c7acf0,0x00000005ef800000)
+ Metaspace       used 31565K, capacity 31920K, committed 32128K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+}
+Event: 408.745 GC heap before
+{Heap before GC invocations=14 (full 3):
+ PSYoungGen      total 311808K, used 311808K [0x0000000715e00000, 0x000000073c700000, 0x00000007c0000000)
+  eden space 106496K, 100% used [0x0000000715e00000,0x000000071c600000,0x000000071c600000)
+  from space 205312K, 100% used [0x000000072b480000,0x0000000737d00000,0x0000000737d00000)
+  to   space 244224K, 0% used [0x000000071c600000,0x000000071c600000,0x000000072b480000)
+ ParOldGen       total 751616K, used 313835K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 41% used [0x00000005c1a00000,0x00000005d4c7acf0,0x00000005ef800000)
+ Metaspace       used 31674K, capacity 31992K, committed 32384K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+Event: 408.786 GC heap after
+Heap after GC invocations=14 (full 3):
+ PSYoungGen      total 350720K, used 244224K [0x0000000715e00000, 0x000000073c700000, 0x00000007c0000000)
+  eden space 106496K, 0% used [0x0000000715e00000,0x0000000715e00000,0x000000071c600000)
+  from space 244224K, 100% used [0x000000071c600000,0x000000072b480000,0x000000072b480000)
+  to   space 205312K, 0% used [0x000000072b480000,0x000000072b480000,0x0000000737d00000)
+ ParOldGen       total 751616K, used 314811K [0x00000005c1a00000, 0x00000005ef800000, 0x0000000715e00000)
+  object space 751616K, 41% used [0x00000005c1a00000,0x00000005d4d6ecf0,0x00000005ef800000)
+ Metaspace       used 31674K, capacity 31992K, committed 32384K, reserved 1077248K
+  class space    used 4130K, capacity 4209K, committed 4224K, reserved 1048576K
+}
+
+Deoptimization events (10 events):
+Event: 30.123 Thread 0x00000000294f5000 Uncommon trap: reason=unstable_if action=reinterpret pc=0x0000000003e3e0f0 method=org.graphstream.ui.graphicGraph.StyleGroup.getValue(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/Object; @ 21
+Event: 30.123 Thread 0x00000000294f5000 Uncommon trap: reason=unstable_if action=reinterpret pc=0x00000000041da0dc method=org.graphstream.ui.graphicGraph.StyleGroup.getValue(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/Object; @ 21
+Event: 30.123 Thread 0x00000000294f5000 Uncommon trap: reason=unstable_if action=reinterpret pc=0x00000000041d9460 method=org.graphstream.ui.graphicGraph.StyleGroup.getValue(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/Object; @ 21
+Event: 59.502 Thread 0x000000002d52d800 Uncommon trap: reason=predicate action=maybe_recompile pc=0x0000000003e64c54 method=java.util.Arrays.fill([Ljava/lang/Object;IILjava/lang/Object;)V @ 16
+Event: 62.490 Thread 0x000000002da27000 Uncommon trap: reason=array_check action=maybe_recompile pc=0x00000000040fed8c method=java.util.Arrays.fill([Ljava/lang/Object;IILjava/lang/Object;)V @ 20
+Event: 62.490 Thread 0x000000002da27000 Uncommon trap: reason=array_check action=maybe_recompile pc=0x00000000040fed8c method=java.util.Arrays.fill([Ljava/lang/Object;IILjava/lang/Object;)V @ 20
+Event: 62.490 Thread 0x000000002da2d000 Uncommon trap: reason=array_check action=maybe_recompile pc=0x00000000040fed8c method=java.util.Arrays.fill([Ljava/lang/Object;IILjava/lang/Object;)V @ 20
+Event: 62.490 Thread 0x000000002da2d000 Uncommon trap: reason=array_check action=maybe_recompile pc=0x00000000040fed8c method=java.util.Arrays.fill([Ljava/lang/Object;IILjava/lang/Object;)V @ 20
+Event: 107.532 Thread 0x000000002fb87800 Uncommon trap: reason=unstable_if action=reinterpret pc=0x0000000003b64280 method=java.util.concurrent.ConcurrentHashMap.addCount(JI)V @ 97
+Event: 197.616 Thread 0x000000002fd95000 Uncommon trap: reason=unstable_if action=reinterpret pc=0x0000000003f23640 method=io.netty.util.concurrent.AbstractScheduledEventExecutor.hasScheduledTasks()Z @ 24
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (10 events):
+Event: 12.370 Thread 0x000000002d530000 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071d3c4ff0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d530000 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071d3c6938) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d525800 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071d29adf0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d521800 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071b080b40) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d525800 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071d29bf10) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d530000 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071d3c7a58) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.371 Thread 0x000000002d521800 Exception <a 'java/lang/ArrayIndexOutOfBoundsException'> (0x000000071b081c60) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\runtime\sharedRuntime.cpp, line 605]
+Event: 12.770 Thread 0x00000000294f5000 Exception <a 'java/util/ConcurrentModificationException'> (0x00000007191ff3a0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\prims\jvm.cpp, line 1439]
+Event: 17.773 Thread 0x00000000294f5000 Exception <a 'java/util/ConcurrentModificationException'> (0x0000000716eaf268) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot\src\share\vm\prims\jvm.cpp, line 1439]
+Event: 29.743 Thread 0x00000000294f5000 Implicit null exception at 0x0000000004192300 to 0x0000000004193ab5
+
+Events (10 events):
+Event: 458.935 Thread 0x0000000048044800 Thread added: 0x0000000048044800
+Event: 458.935 Thread 0x000000004804c000 Thread added: 0x000000004804c000
+Event: 458.935 Thread 0x000000002dff2000 Thread added: 0x000000002dff2000
+Event: 458.935 Thread 0x000000002dff3800 Thread added: 0x000000002dff3800
+Event: 458.936 Thread 0x000000002dffd800 Thread added: 0x000000002dffd800
+Event: 458.936 Thread 0x0000000029b01800 Thread added: 0x0000000029b01800
+Event: 458.937 Thread 0x000000002879b000 Thread added: 0x000000002879b000
+Event: 458.937 Thread 0x000000002f3ac800 Thread added: 0x000000002f3ac800
+Event: 458.937 Thread 0x000000002fd6d800 Thread added: 0x000000002fd6d800
+Event: 458.938 Thread 0x000000002fb8f000 Thread added: 0x000000002fb8f000
+
+
+Dynamic libraries:
+0x00007ff66bf20000 - 0x00007ff66bf57000 	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe
+0x00007ffc92d60000 - 0x00007ffc92f41000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffc905e0000 - 0x00007ffc90691000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffc8f990000 - 0x00007ffc8fc03000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffc91000000 - 0x00007ffc910a1000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffc90540000 - 0x00007ffc905de000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffc910b0000 - 0x00007ffc9110b000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffc901f0000 - 0x00007ffc90314000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffc903b0000 - 0x00007ffc90540000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffc8fe30000 - 0x00007ffc8fe50000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffc90790000 - 0x00007ffc907b8000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffc8fc90000 - 0x00007ffc8fe22000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffc8f120000 - 0x00007ffc8f1bf000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffc90040000 - 0x00007ffc90138000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffc83740000 - 0x00007ffc839a9000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1550_none_d40142657c8ef2c1\COMCTL32.dll
+0x00007ffc91420000 - 0x00007ffc91740000 	C:\WINDOWS\System32\combase.dll
+0x00007ffc8fc10000 - 0x00007ffc8fc89000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffc908f0000 - 0x00007ffc9091d000 	C:\WINDOWS\System32\IMM32.DLL
+0x000000006e4d0000 - 0x000000006e5a2000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\msvcr100.dll
+0x000000006dc20000 - 0x000000006e4c2000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\server\jvm.dll
+0x00007ffc91270000 - 0x00007ffc91278000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffc88600000 - 0x00007ffc8860a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffc8a210000 - 0x00007ffc8a219000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffc8b520000 - 0x00007ffc8b543000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffc90ef0000 - 0x00007ffc90f5c000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ffc8b360000 - 0x00007ffc8b38a000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffc8f940000 - 0x00007ffc8f989000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x000000006dc10000 - 0x000000006dc1f000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\verify.dll
+0x000000006dbe0000 - 0x000000006dc09000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\java.dll
+0x000000006dbc0000 - 0x000000006dbd6000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\zip.dll
+0x00007ffc91880000 - 0x00007ffc92cc5000 	C:\WINDOWS\System32\SHELL32.dll
+0x00007ffc91740000 - 0x00007ffc917e9000 	C:\WINDOWS\System32\shcore.dll
+0x00007ffc8f220000 - 0x00007ffc8f931000 	C:\WINDOWS\System32\windows.storage.dll
+0x00007ffc92cd0000 - 0x00007ffc92d21000 	C:\WINDOWS\System32\shlwapi.dll
+0x00007ffc8f100000 - 0x00007ffc8f111000 	C:\WINDOWS\System32\kernel.appcore.dll
+0x00007ffc8f070000 - 0x00007ffc8f08f000 	C:\WINDOWS\System32\profapi.dll
+0x00007ffc8f0b0000 - 0x00007ffc8f0fc000 	C:\WINDOWS\System32\powrprof.dll
+0x00007ffc8f060000 - 0x00007ffc8f06a000 	C:\WINDOWS\System32\FLTLIB.DLL
+0x000000006da20000 - 0x000000006dbb9000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\awt.dll
+0x00007ffc907c0000 - 0x00007ffc90882000 	C:\WINDOWS\System32\OLEAUT32.dll
+0x00007ffc8d0f0000 - 0x00007ffc8d17b000 	C:\WINDOWS\SYSTEM32\apphelp.dll
+0x00007ffc8d500000 - 0x00007ffc8d529000 	C:\WINDOWS\system32\DWMAPI.DLL
+0x00007ffc8d220000 - 0x00007ffc8d2b8000 	C:\WINDOWS\system32\uxtheme.dll
+0x00007ffc72790000 - 0x00007ffc728b0000 	C:\WINDOWS\system32\opengl32.dll
+0x00007ffc73e10000 - 0x00007ffc73e3c000 	C:\WINDOWS\SYSTEM32\GLU32.dll
+0x00007ffc90d70000 - 0x00007ffc90ee4000 	C:\WINDOWS\System32\MSCTF.dll
+0x00007ffc72ff0000 - 0x00007ffc73028000 	C:\WINDOWS\system32\IMGSF50Filter_x64.dll
+0x00007ffc91110000 - 0x00007ffc91261000 	C:\WINDOWS\System32\ole32.dll
+0x000000006ffb0000 - 0x0000000070083000 	C:\WINDOWS\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9415_none_08e0c10ba840a28a\MSVCP90.dll
+0x000000006ff00000 - 0x000000006ffa3000 	C:\WINDOWS\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9415_none_08e0c10ba840a28a\MSVCR90.dll
+0x000000006d9d0000 - 0x000000006da17000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\fontmanager.dll
+0x000000006d9b0000 - 0x000000006d9ca000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\net.dll
+0x00007ffc8e8e0000 - 0x00007ffc8e946000 	C:\WINDOWS\system32\mswsock.dll
+0x000000006d990000 - 0x000000006d9a1000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\nio.dll
+0x000000006d940000 - 0x000000006d982000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\t2k.dll
+0x00007ffc90f60000 - 0x00007ffc91000000 	C:\WINDOWS\System32\clbcatq.dll
+0x00007ffc89b90000 - 0x00007ffc89d3e000 	C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+0x00007ffc76e60000 - 0x00007ffc76eb8000 	C:\WINDOWS\system32\dataexchange.dll
+0x00007ffc8bfe0000 - 0x00007ffc8c2eb000 	C:\WINDOWS\system32\d3d11.dll
+0x00007ffc8ca10000 - 0x00007ffc8cbac000 	C:\WINDOWS\system32\dcomp.dll
+0x00007ffc8ddf0000 - 0x00007ffc8deab000 	C:\WINDOWS\system32\dxgi.dll
+0x00007ffc8d5e0000 - 0x00007ffc8d79e000 	C:\WINDOWS\system32\twinapi.appcore.dll
+0x00007ffc8d7a0000 - 0x00007ffc8d7c1000 	C:\WINDOWS\system32\RMCLIENT.dll
+0x00007ffc82ff0000 - 0x00007ffc83086000 	C:\WINDOWS\System32\TextInputFramework.dll
+0x00007ffc8cef0000 - 0x00007ffc8cfca000 	C:\WINDOWS\System32\CoreMessaging.dll
+0x00007ffc88f00000 - 0x00007ffc8921e000 	C:\WINDOWS\System32\CoreUIComponents.dll
+0x00007ffc8e120000 - 0x00007ffc8e151000 	C:\WINDOWS\SYSTEM32\ntmarta.dll
+0x00007ffc8abb0000 - 0x00007ffc8acfd000 	C:\WINDOWS\SYSTEM32\wintypes.dll
+0x00007ffc80870000 - 0x00007ffc80941000 	C:\Windows\System32\IME\IMEKR\imkrtip.dll
+0x00007ffc8db40000 - 0x00007ffc8dcf5000 	C:\WINDOWS\SYSTEM32\PROPSYS.dll
+0x00007ffc80710000 - 0x00007ffc80867000 	C:\Windows\System32\IME\shared\imetip.dll
+0x00007ffc869c0000 - 0x00007ffc86a2b000 	C:\WINDOWS\SYSTEM32\OLEACC.dll
+0x00007ffc80560000 - 0x00007ffc8070b000 	C:\WINDOWS\SYSTEM32\DUI70.dll
+0x00007ffc80520000 - 0x00007ffc8055d000 	C:\Windows\System32\IME\IMEKR\imkrapi.dll
+0x00007ffc804e0000 - 0x00007ffc80520000 	C:\Windows\System32\IME\shared\imjkapi.dll
+0x00007ffc8ea90000 - 0x00007ffc8eaa7000 	C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+0x00007ffc8e490000 - 0x00007ffc8e4c3000 	C:\WINDOWS\system32\rsaenh.dll
+0x00007ffc8ebc0000 - 0x00007ffc8ebe5000 	C:\WINDOWS\SYSTEM32\bcrypt.dll
+0x00007ffc8ef90000 - 0x00007ffc8efb8000 	C:\WINDOWS\SYSTEM32\USERENV.dll
+0x00007ffc8eab0000 - 0x00007ffc8eabb000 	C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+0x00007ffc8e630000 - 0x00007ffc8e668000 	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+0x00007ffc917f0000 - 0x00007ffc917f8000 	C:\WINDOWS\System32\NSI.dll
+0x00007ffc89a40000 - 0x00007ffc89a56000 	C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+0x00007ffc899f0000 - 0x00007ffc89a0a000 	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+0x000000006d930000 - 0x000000006d93d000 	C:\Program Files\Java\jdk1.8.0_181\jre\bin\management.dll
+0x00007ffc86e40000 - 0x00007ffc86e56000 	C:\WINDOWS\system32\napinsp.dll
+0x00007ffc86e20000 - 0x00007ffc86e3a000 	C:\WINDOWS\system32\pnrpnsp.dll
+0x00007ffc8b9e0000 - 0x00007ffc8b9f9000 	C:\WINDOWS\system32\NLAapi.dll
+0x00007ffc8e670000 - 0x00007ffc8e72f000 	C:\WINDOWS\SYSTEM32\DNSAPI.dll
+0x00007ffc86e10000 - 0x00007ffc86e1e000 	C:\WINDOWS\System32\winrnr.dll
+0x000000006f720000 - 0x000000006f755000 	C:\Program Files\Bonjour\mdnsNSP.dll
+0x00007ffc86df0000 - 0x00007ffc86e05000 	C:\WINDOWS\System32\wshbth.dll
+0x00007ffc86e70000 - 0x00007ffc86e7a000 	C:\Windows\System32\rasadhlp.dll
+0x00007ffc87020000 - 0x00007ffc87092000 	C:\WINDOWS\System32\fwpuclnt.dll
+0x00007ffc845b0000 - 0x00007ffc84779000 	C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=UTF-8 
+java_command: com.mir.vtn.controller.REST_Run
+java_class_path (initial): C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\target\classes;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\californium-core-1.0.4.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\element-connector-1.0.4.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\jcommon-1.0.17.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\jfreechart-1.0.14.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\json_simple-1.1.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\json.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\xchart-3.3.0.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\xchart-demo-3.3.0.jar;C:\Users\SEO\eclipse-workspace\eclipse-jar-workspace\REST_CHS_rabbit\lib\netty-all-4.1.17.Final.j
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_251
+PATH=C:/Program Files/Java/jre1.8.0_251/bin/server;C:/Program Files/Java/jre1.8.0_251/bin;C:/Program Files/Java/jre1.8.0_251/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Program Files\TortoiseGit\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Program Files\IBM\SPSS\Statistics\24\JRE\bin;C:\Program Files\IBM\SPSS\Statistics\Subscription\JRE\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\nodejs\;C:\swigwin-3.0.12\swigwin-3.0.12;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\anaconda;C:\anaconda\Library\mingw-w64\bin;C:\anaconda\Library\usr\bin;C:\anaconda\Library\bin;C:\anaconda\Scripts;C:\Users\SEO\Anaconda3;C:\Users\SEO\Anaconda3\Library\mingw-w64\bin;C:\Users\SEO\Anaconda3\Library\usr\bin;C:\Users\SEO\Anaconda3\Library\bin;C:\Users\SEO\Anaconda3\Scripts;C:\Users\SEO\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\SEO\AppData\Local\Programs\Python\Python37\;C:\Users\SEO\AppData\Local\Microsoft\WindowsApps;C:\Users\SEO\AppData\Roaming\npm;;C:\WINDOWS\system32;
+USERNAME=SEO
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 17134 (10.0.17134.1425)
+
+CPU:total 8 (initial active 8) (4 cores per cpu, 2 threads per core) family 6 model 158 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, 3dnowpref, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2, adx
+
+Memory: 4k page, physical 33444004k(9880684k free), swap 71209320k(132k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.181-b13) for windows-amd64 JRE (1.8.0_181-b13), built on Jul  7 2018 04:01:33 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Mon Jun 29 18:56:16 2020
+elapsed time: 459 seconds (0d 0h 7m 39s)
+
